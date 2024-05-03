@@ -1,0 +1,104 @@
+{
+    "form_name": "ice",
+    "form_names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u3053\u304a\u308a\u30bf\u30a4\u30d7"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Glace"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Eis"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Tipo Hielo"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Tipo Ghiaccio"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Ice Type"
+        }
+    ],
+    "form_order": 15,
+    "id": 10051,
+    "is_battle_only": false,
+    "is_default": false,
+    "is_mega": false,
+    "name": "arceus-ice",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Arceus Glace"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Arceus (Eis)"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Ice Arceus"
+        }
+    ],
+    "order": 657,
+    "pokemon": {
+        "name": "arceus",
+        "url": "https://pokedex.mimo.dev/api/pokemon/493/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/493-ice.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/493-ice.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/493-ice.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/493-ice.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "ice",
+                "url": "https://pokedex.mimo.dev/api/type/15/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "diamond-pearl",
+        "url": "https://pokedex.mimo.dev/api/version-group/8/"
+    }
+}

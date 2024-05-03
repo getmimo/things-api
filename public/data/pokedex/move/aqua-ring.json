@@ -1,0 +1,1070 @@
+{
+    "accuracy": null,
+    "contest_combos": null,
+    "contest_effect": null,
+    "contest_type": {
+        "name": "beauty",
+        "url": "https://pokedex.mimo.dev/api/contest-type/2/"
+    },
+    "damage_class": {
+        "name": "status",
+        "url": "https://pokedex.mimo.dev/api/move-damage-class/1/"
+    },
+    "effect_chance": null,
+    "effect_changes": [],
+    "effect_entries": [
+        {
+            "effect": "Restores 1/16 of the user's max HP at the end of each turn.  If the user leaves the field, this effect ends.\n\nThis effect is passed on by baton pass.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "short_effect": "Restores 1/16 of the user's max HP each turn."
+        }
+    ],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "\uc790\uc2e0\uc758 \ubab8 \uc8fc\ubcc0\uc744\n\ubb3c\ub85c \ub9cc\ub4e0 \ubca0\uc77c\ub85c \ub36e\ub294\ub2e4.\n\ub9e4 \ud134 HP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "The user envelops\nitself in a veil made\nof water. It regains\nsome HP on every\nturn.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "diamond-pearl",
+                "url": "https://pokedex.mimo.dev/api/version-group/8/"
+            }
+        },
+        {
+            "flavor_text": "The user envelops\nitself in a veil made\nof water. It regains\nsome HP on every\nturn.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "platinum",
+                "url": "https://pokedex.mimo.dev/api/version-group/9/"
+            }
+        },
+        {
+            "flavor_text": "The user envelops\nitself in a veil made\nof water. It regains\nsome HP on every\nturn.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "heartgold-soulsilver",
+                "url": "https://pokedex.mimo.dev/api/version-group/10/"
+            }
+        },
+        {
+            "flavor_text": "Un voile liquide enveloppe le lanceur.\nIl r\u00e9cup\u00e8re des PV \u00e0 chaque tour.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "https://pokedex.mimo.dev/api/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "The user envelops itself in a veil made\nof water. It regains some HP on\nevery turn.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "https://pokedex.mimo.dev/api/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "The user envelops itself in a veil made\nof water. It regains some HP on\nevery turn.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "black-2-white-2",
+                "url": "https://pokedex.mimo.dev/api/version-group/14/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3076\u3093\u306e\u3000\u304b\u3089\u3060\u306e\u3000\u307e\u308f\u308a\u3092\n\u307f\u305a\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u307e\u3044\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u304b\u3044\u3075\u304f\u3000\u3059\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\uc790\uc2e0\uc758 \ubab8 \uc8fc\ubcc0\uc744\n\ubb3c\ub85c \ub9cc\ub4e0 \ubca0\uc77c\ub85c \ub36e\ub294\ub2e4.\n\ub9e4 \ud134 HP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Un voile liquide enveloppe le lanceur.\nIl r\u00e9cup\u00e8re des PV \u00e0 chaque tour.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Anwender umgibt sich mit einem Schleier aus\nWasser. Dabei regeneriert er einige KP pro Runde.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Un manto de agua cubre al Pok\u00e9mon que lo usa.\nRecupera algunos PS en cada turno.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa si avvolge in un velo d\u2019acqua. Recupera\nalcuni PS a ogni turno.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "The user envelops itself in a veil made\nof water. It regains some HP every turn.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u81ea\u5206\u306e\u3000\u4f53\u306e\u3000\u5468\u308a\u3092\n\u6c34\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u6bce\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u56de\u5fa9\u3059\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3076\u3093\u306e\u3000\u304b\u3089\u3060\u306e\u3000\u307e\u308f\u308a\u3092\n\u202f\u305a\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u307e\u3044\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u304b\u3044\u3075\u304f\u3000\u3059\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\uc790\uc2e0\uc758 \ubab8 \uc8fc\ubcc0\uc744\n\ubb3c\ub85c \ub9cc\ub4e0 \ubca0\uc77c\ub85c \ub36e\ub294\ub2e4.\n\ub9e4 \ud134 HP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Un voile liquide enveloppe le lanceur.\nIl r\u00e9cup\u00e8re des PV \u00e0 chaque tour.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Anwender umgibt sich mit einem Schleier aus\nWasser. Dabei regeneriert er einige KP pro Runde.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Un manto de agua cubre al Pok\u00e9mon que lo usa. \nRecupera algunos PS en cada turno.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa si avvolge in un velo d\u2019acqua. Recupera\nalcuni PS a ogni turno.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "The user envelops itself in a veil made\nof water. It regains some HP every turn.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u81ea\u5206\u306e\u3000\u4f53\u306e\u3000\u5468\u308a\u3092\n\u6c34\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u6bce\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u56de\u5fa9\u3059\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3076\u3093\u306e\u3000\u304b\u3089\u3060\u306e\u3000\u307e\u308f\u308a\u3092\n\u307f\u305a\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u307e\u3044\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u304b\u3044\u3075\u304f\u3000\u3059\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\u81ea\u5df1\u7684\u8eab\u908a\u5957\u4e0a\u6c34\u6d41\u74b0\u3002\n\u6bcf\u56de\u5408\u6703\u56de\u5fa9\u81ea\u5df1\u7684\uff28\uff30\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Un voile d\u2019eau recouvre le lanceur et r\u00e9g\u00e9n\u00e8re\nses PV \u00e0 chaque tour.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Anwender umgibt sich mit einem Schleier aus\nWasser. Dabei regeneriert er einige KP pro Runde.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Un manto de agua cubre al Pok\u00e9mon que lo usa. \nRecupera algunos PS en cada turno.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa si avvolge in un velo d\u2019acqua. Recupera\nalcuni PS a ogni turno.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "The user envelops itself in a veil made of water.\nIt regains some HP every turn.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u81ea\u5206\u306e\u3000\u4f53\u306e\u3000\u5468\u308a\u3092\n\u6c34\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u6bce\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u56de\u5fa9\u3059\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\u81ea\u5df1\u8eab\u4f53\u7684\u5468\u56f4\n\u8986\u76d6\u7528\u6c34\u5236\u9020\u7684\u5e55\u3002\n\u6bcf\u56de\u5408\u56de\u590d\uff28\uff30\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3076\u3093\u306e\u3000\u304b\u3089\u3060\u306e\u3000\u307e\u308f\u308a\u3092\n\u307f\u305a\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u307e\u3044\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u304b\u3044\u3075\u304f\u3000\u3059\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\uc790\uc2e0\uc758 \ubab8 \uc8fc\ubcc0\uc744\n\ubb3c\ub85c \ub9cc\ub4e0 \ubca0\uc77c\ub85c \ub36e\ub294\ub2e4.\n\ub9e4 \ud134 HP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\u81ea\u5df1\u7684\u8eab\u908a\u5957\u4e0a\u6c34\u6d41\u74b0\u3002\n\u6bcf\u56de\u5408\u6703\u56de\u5fa9\u81ea\u5df1\u7684\uff28\uff30\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Un voile d\u2019eau recouvre le lanceur et r\u00e9g\u00e9n\u00e8re\nses PV \u00e0 chaque tour.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Anwender umgibt sich mit einem Schleier aus\nWasser. Dabei regeneriert er einige KP pro Runde.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Un manto de agua cubre al Pok\u00e9mon que lo usa. \nRecupera algunos PS en cada turno.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa si avvolge in un velo d\u2019acqua. Recupera\nalcuni PS a ogni turno.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "The user envelops itself in a veil made of water.\nIt regains some HP every turn.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u81ea\u5206\u306e\u3000\u4f53\u306e\u3000\u5468\u308a\u3092\n\u6c34\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u6bce\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u56de\u5fa9\u3059\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\u81ea\u5df1\u8eab\u4f53\u7684\u5468\u56f4\n\u8986\u76d6\u7528\u6c34\u5236\u9020\u7684\u5e55\u3002\n\u6bcf\u56de\u5408\u56de\u590d\uff28\uff30\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3076\u3093\u306e\u3000\u304b\u3089\u3060\u306e\u3000\u307e\u308f\u308a\u3092\n\u307f\u305a\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u307e\u3044\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u304b\u3044\u3075\u304f\u3000\u3059\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\uc790\uc2e0\uc758 \ubab8 \uc8fc\ubcc0\uc744\n\ubb3c\ub85c \ub9cc\ub4e0 \ubca0\uc77c\ub85c \ub36e\ub294\ub2e4.\n\ub9e4 \ud134 HP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\u81ea\u5df1\u7684\u8eab\u908a\u5957\u4e0a\u6c34\u6d41\u74b0\u3002\n\u6bcf\u56de\u5408\u6703\u56de\u5fa9\u81ea\u5df1\u7684HP\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Un voile d\u2019eau recouvre le lanceur et r\u00e9g\u00e9n\u00e8re ses PV\n\u00e0 chaque tour.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Anwender umgibt sich mit einem Schleier aus\nWasser. Dabei regeneriert er einige KP pro Runde.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Un manto de agua cubre al Pok\u00e9mon que lo usa. \nRecupera algunos PS en cada turno.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa si avvolge in un velo d\u2019acqua. Recupera\nalcuni PS a ogni turno.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "The user envelops itself in a veil made of water.\nIt regains some HP every turn.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u81ea\u5206\u306e\u3000\u4f53\u306e\u3000\u5468\u308a\u3092\n\u6c34\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u6bce\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u56de\u5fa9\u3059\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\u81ea\u5df1\u8eab\u4f53\u7684\u5468\u56f4\n\u8986\u76d6\u7528\u6c34\u5236\u9020\u7684\u5e55\u3002\n\u6bcf\u56de\u5408\u56de\u590dHP\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3076\u3093\u306e\u3000\u304b\u3089\u3060\u306e\u3000\u307e\u308f\u308a\u3092\n\u307f\u305a\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u307e\u3044\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u304b\u3044\u3075\u304f\u3000\u3059\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\uc790\uc2e0\uc758 \ubab8 \uc8fc\ubcc0\uc744\n\ubb3c\ub85c \ub9cc\ub4e0 \ubca0\uc77c\ub85c \ub36e\ub294\ub2e4.\n\ub9e4 \ud134 HP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\u81ea\u5df1\u7684\u8eab\u908a\u5957\u4e0a\u6c34\u6d41\u74b0\u3002\n\u6bcf\u56de\u5408\u6703\u56de\u5fa9\u81ea\u5df1\u7684\uff28\uff30\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Un voile d\u2019eau recouvre le lanceur et r\u00e9g\u00e9n\u00e8re ses PV\n\u00e0 chaque tour.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Anwender umgibt sich mit einem Schleier aus Wasser.\nDabei regeneriert er einige KP pro Runde.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Un manto de agua cubre al Pok\u00e9mon que lo usa. \nRecupera algunos PS en cada turno.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa si avvolge in un velo d\u2019acqua. Recupera\nalcuni PS a ogni turno.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "The user envelops itself in a veil made of water.\nIt regains some HP every turn.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u81ea\u5206\u306e\u3000\u4f53\u306e\u3000\u5468\u308a\u3092\n\u6c34\u3067\u3000\u3064\u304f\u3063\u305f\u3000\u30d9\u30fc\u30eb\u3067\u3000\u304a\u304a\u3046\u3002\n\u6bce\u30bf\u30fc\u30f3\u3000\uff28\uff30\u3092\u3000\u56de\u5fa9\u3059\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\u81ea\u5df1\u8eab\u4f53\u7684\u5468\u56f4\n\u8986\u76d6\u7528\u6c34\u5236\u9020\u7684\u5e55\u3002\n\u6bcf\u56de\u5408\u56de\u590d\uff28\uff30\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-iv",
+        "url": "https://pokedex.mimo.dev/api/generation/4/"
+    },
+    "id": 392,
+    "learned_by_pokemon": [
+        {
+            "name": "squirtle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/7/"
+        },
+        {
+            "name": "wartortle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/8/"
+        },
+        {
+            "name": "blastoise",
+            "url": "https://pokedex.mimo.dev/api/pokemon/9/"
+        },
+        {
+            "name": "tentacool",
+            "url": "https://pokedex.mimo.dev/api/pokemon/72/"
+        },
+        {
+            "name": "tentacruel",
+            "url": "https://pokedex.mimo.dev/api/pokemon/73/"
+        },
+        {
+            "name": "seel",
+            "url": "https://pokedex.mimo.dev/api/pokemon/86/"
+        },
+        {
+            "name": "dewgong",
+            "url": "https://pokedex.mimo.dev/api/pokemon/87/"
+        },
+        {
+            "name": "shellder",
+            "url": "https://pokedex.mimo.dev/api/pokemon/90/"
+        },
+        {
+            "name": "goldeen",
+            "url": "https://pokedex.mimo.dev/api/pokemon/118/"
+        },
+        {
+            "name": "seaking",
+            "url": "https://pokedex.mimo.dev/api/pokemon/119/"
+        },
+        {
+            "name": "vaporeon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/134/"
+        },
+        {
+            "name": "chinchou",
+            "url": "https://pokedex.mimo.dev/api/pokemon/170/"
+        },
+        {
+            "name": "lanturn",
+            "url": "https://pokedex.mimo.dev/api/pokemon/171/"
+        },
+        {
+            "name": "marill",
+            "url": "https://pokedex.mimo.dev/api/pokemon/183/"
+        },
+        {
+            "name": "azumarill",
+            "url": "https://pokedex.mimo.dev/api/pokemon/184/"
+        },
+        {
+            "name": "corsola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/222/"
+        },
+        {
+            "name": "mantine",
+            "url": "https://pokedex.mimo.dev/api/pokemon/226/"
+        },
+        {
+            "name": "wingull",
+            "url": "https://pokedex.mimo.dev/api/pokemon/278/"
+        },
+        {
+            "name": "wailmer",
+            "url": "https://pokedex.mimo.dev/api/pokemon/320/"
+        },
+        {
+            "name": "milotic",
+            "url": "https://pokedex.mimo.dev/api/pokemon/350/"
+        },
+        {
+            "name": "spheal",
+            "url": "https://pokedex.mimo.dev/api/pokemon/363/"
+        },
+        {
+            "name": "clamperl",
+            "url": "https://pokedex.mimo.dev/api/pokemon/366/"
+        },
+        {
+            "name": "gorebyss",
+            "url": "https://pokedex.mimo.dev/api/pokemon/368/"
+        },
+        {
+            "name": "luvdisc",
+            "url": "https://pokedex.mimo.dev/api/pokemon/370/"
+        },
+        {
+            "name": "kyogre",
+            "url": "https://pokedex.mimo.dev/api/pokemon/382/"
+        },
+        {
+            "name": "piplup",
+            "url": "https://pokedex.mimo.dev/api/pokemon/393/"
+        },
+        {
+            "name": "prinplup",
+            "url": "https://pokedex.mimo.dev/api/pokemon/394/"
+        },
+        {
+            "name": "empoleon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/395/"
+        },
+        {
+            "name": "buizel",
+            "url": "https://pokedex.mimo.dev/api/pokemon/418/"
+        },
+        {
+            "name": "finneon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/456/"
+        },
+        {
+            "name": "lumineon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/457/"
+        },
+        {
+            "name": "mantyke",
+            "url": "https://pokedex.mimo.dev/api/pokemon/458/"
+        },
+        {
+            "name": "palkia",
+            "url": "https://pokedex.mimo.dev/api/pokemon/484/"
+        },
+        {
+            "name": "phione",
+            "url": "https://pokedex.mimo.dev/api/pokemon/489/"
+        },
+        {
+            "name": "manaphy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/490/"
+        },
+        {
+            "name": "panpour",
+            "url": "https://pokedex.mimo.dev/api/pokemon/515/"
+        },
+        {
+            "name": "tympole",
+            "url": "https://pokedex.mimo.dev/api/pokemon/535/"
+        },
+        {
+            "name": "palpitoad",
+            "url": "https://pokedex.mimo.dev/api/pokemon/536/"
+        },
+        {
+            "name": "seismitoad",
+            "url": "https://pokedex.mimo.dev/api/pokemon/537/"
+        },
+        {
+            "name": "ducklett",
+            "url": "https://pokedex.mimo.dev/api/pokemon/580/"
+        },
+        {
+            "name": "swanna",
+            "url": "https://pokedex.mimo.dev/api/pokemon/581/"
+        },
+        {
+            "name": "alomomola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/594/"
+        },
+        {
+            "name": "popplio",
+            "url": "https://pokedex.mimo.dev/api/pokemon/728/"
+        },
+        {
+            "name": "brionne",
+            "url": "https://pokedex.mimo.dev/api/pokemon/729/"
+        },
+        {
+            "name": "primarina",
+            "url": "https://pokedex.mimo.dev/api/pokemon/730/"
+        },
+        {
+            "name": "wishiwashi-solo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/746/"
+        },
+        {
+            "name": "dewpider",
+            "url": "https://pokedex.mimo.dev/api/pokemon/751/"
+        },
+        {
+            "name": "araquanid",
+            "url": "https://pokedex.mimo.dev/api/pokemon/752/"
+        },
+        {
+            "name": "tapu-fini",
+            "url": "https://pokedex.mimo.dev/api/pokemon/788/"
+        },
+        {
+            "name": "sobble",
+            "url": "https://pokedex.mimo.dev/api/pokemon/816/"
+        },
+        {
+            "name": "drizzile",
+            "url": "https://pokedex.mimo.dev/api/pokemon/817/"
+        },
+        {
+            "name": "inteleon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/818/"
+        },
+        {
+            "name": "cramorant",
+            "url": "https://pokedex.mimo.dev/api/pokemon/845/"
+        },
+        {
+            "name": "eiscue-ice",
+            "url": "https://pokedex.mimo.dev/api/pokemon/875/"
+        },
+        {
+            "name": "kyogre-primal",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10077/"
+        },
+        {
+            "name": "wishiwashi-school",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10127/"
+        },
+        {
+            "name": "araquanid-totem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10153/"
+        },
+        {
+            "name": "cramorant-gulping",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10182/"
+        },
+        {
+            "name": "cramorant-gorging",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10183/"
+        },
+        {
+            "name": "eiscue-noice",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10185/"
+        },
+        {
+            "name": "palkia-origin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10246/"
+        }
+    ],
+    "machines": [],
+    "meta": {
+        "ailment": {
+            "name": "none",
+            "url": "https://pokedex.mimo.dev/api/move-ailment/0/"
+        },
+        "ailment_chance": 0,
+        "category": {
+            "name": "unique",
+            "url": "https://pokedex.mimo.dev/api/move-category/13/"
+        },
+        "crit_rate": 0,
+        "drain": 0,
+        "flinch_chance": 0,
+        "healing": 0,
+        "max_hits": null,
+        "max_turns": null,
+        "min_hits": null,
+        "min_turns": null,
+        "stat_chance": 0
+    },
+    "name": "aqua-ring",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30a2\u30af\u30a2\u30ea\u30f3\u30b0"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc544\ucfe0\uc544\ub9c1"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u6c34\u6d41\u74b0"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Anneau Hydro"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Wasserring"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Acua Aro"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Acquanello"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Aqua Ring"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u30a2\u30af\u30a2\u30ea\u30f3\u30b0"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u6c34\u6d41\u73af"
+        }
+    ],
+    "past_values": [],
+    "power": null,
+    "pp": 20,
+    "priority": 0,
+    "stat_changes": [],
+    "super_contest_effect": {
+        "url": "https://pokedex.mimo.dev/api/super-contest-effect/8/"
+    },
+    "target": {
+        "name": "user",
+        "url": "https://pokedex.mimo.dev/api/move-target/7/"
+    },
+    "type": {
+        "name": "water",
+        "url": "https://pokedex.mimo.dev/api/type/11/"
+    }
+}

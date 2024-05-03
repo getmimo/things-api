@@ -1,0 +1,67 @@
+{
+    "encounter_method_rates": [],
+    "game_index": 0,
+    "id": 1098,
+    "location": {
+        "name": "mahalo-trail",
+        "url": "https://pokedex.mimo.dev/api/location/720/"
+    },
+    "name": "mahalo-trail-area",
+    "names": [],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "solgaleo",
+                "url": "https://pokedex.mimo.dev/api/pokemon/791/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "gift",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/18/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "lunala",
+                "url": "https://pokedex.mimo.dev/api/pokemon/792/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "gift",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/18/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "form_name": "overcast",
+    "form_names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30cd\u30ac\u30d5\u30a9\u30eb\u30e0"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\ub124\uac70\ud3fc"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u9670\u5929\u5f62\u614b"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Temps Couvert"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Wolkenform"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Forma Encapotado"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Forma Nuvola"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Overcast Form"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u30cd\u30ac\u30d5\u30a9\u30eb\u30e0"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u9634\u5929\u5f62\u6001"
+        }
+    ],
+    "form_order": 1,
+    "id": 421,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "cherrim-overcast",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Ceriflor Couvert"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Kinoso (Wolken)"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Overcast Cherrim"
+        }
+    ],
+    "order": 584,
+    "pokemon": {
+        "name": "cherrim",
+        "url": "https://pokedex.mimo.dev/api/pokemon/421/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/421.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/421.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/421.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/421.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "grass",
+                "url": "https://pokedex.mimo.dev/api/type/12/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "diamond-pearl",
+        "url": "https://pokedex.mimo.dev/api/version-group/8/"
+    }
+}

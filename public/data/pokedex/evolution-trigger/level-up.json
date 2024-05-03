@@ -1,0 +1,1585 @@
+{
+    "id": 1,
+    "name": "level-up",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Mont\u00e9e de niveau"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Levelaufstieg"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Level up"
+        }
+    ],
+    "pokemon_species": [
+        {
+            "name": "ivysaur",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/2/"
+        },
+        {
+            "name": "venusaur",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/3/"
+        },
+        {
+            "name": "charmeleon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/5/"
+        },
+        {
+            "name": "charizard",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/6/"
+        },
+        {
+            "name": "wartortle",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/8/"
+        },
+        {
+            "name": "blastoise",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/9/"
+        },
+        {
+            "name": "metapod",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/11/"
+        },
+        {
+            "name": "butterfree",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/12/"
+        },
+        {
+            "name": "kakuna",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/14/"
+        },
+        {
+            "name": "beedrill",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/15/"
+        },
+        {
+            "name": "pidgeotto",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/17/"
+        },
+        {
+            "name": "pidgeot",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/18/"
+        },
+        {
+            "name": "raticate",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/20/"
+        },
+        {
+            "name": "fearow",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/22/"
+        },
+        {
+            "name": "arbok",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/24/"
+        },
+        {
+            "name": "pikachu",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/25/"
+        },
+        {
+            "name": "sandslash",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/28/"
+        },
+        {
+            "name": "nidorina",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/30/"
+        },
+        {
+            "name": "nidorino",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/33/"
+        },
+        {
+            "name": "clefairy",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/35/"
+        },
+        {
+            "name": "jigglypuff",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/39/"
+        },
+        {
+            "name": "golbat",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/42/"
+        },
+        {
+            "name": "gloom",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/44/"
+        },
+        {
+            "name": "parasect",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/47/"
+        },
+        {
+            "name": "venomoth",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/49/"
+        },
+        {
+            "name": "dugtrio",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/51/"
+        },
+        {
+            "name": "persian",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/53/"
+        },
+        {
+            "name": "golduck",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/55/"
+        },
+        {
+            "name": "primeape",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/57/"
+        },
+        {
+            "name": "poliwhirl",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/61/"
+        },
+        {
+            "name": "kadabra",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/64/"
+        },
+        {
+            "name": "machoke",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/67/"
+        },
+        {
+            "name": "weepinbell",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/70/"
+        },
+        {
+            "name": "tentacruel",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/73/"
+        },
+        {
+            "name": "graveler",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/75/"
+        },
+        {
+            "name": "rapidash",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/78/"
+        },
+        {
+            "name": "slowbro",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/80/"
+        },
+        {
+            "name": "magneton",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/82/"
+        },
+        {
+            "name": "dodrio",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/85/"
+        },
+        {
+            "name": "dewgong",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/87/"
+        },
+        {
+            "name": "muk",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/89/"
+        },
+        {
+            "name": "haunter",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/93/"
+        },
+        {
+            "name": "hypno",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/97/"
+        },
+        {
+            "name": "kingler",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/99/"
+        },
+        {
+            "name": "electrode",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/101/"
+        },
+        {
+            "name": "marowak",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/105/"
+        },
+        {
+            "name": "hitmonlee",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/106/"
+        },
+        {
+            "name": "hitmonchan",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/107/"
+        },
+        {
+            "name": "weezing",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/110/"
+        },
+        {
+            "name": "rhydon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/112/"
+        },
+        {
+            "name": "chansey",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/113/"
+        },
+        {
+            "name": "seadra",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/117/"
+        },
+        {
+            "name": "seaking",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/119/"
+        },
+        {
+            "name": "mr-mime",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/122/"
+        },
+        {
+            "name": "jynx",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/124/"
+        },
+        {
+            "name": "electabuzz",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/125/"
+        },
+        {
+            "name": "magmar",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/126/"
+        },
+        {
+            "name": "gyarados",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/130/"
+        },
+        {
+            "name": "omastar",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/139/"
+        },
+        {
+            "name": "kabutops",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/141/"
+        },
+        {
+            "name": "snorlax",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/143/"
+        },
+        {
+            "name": "dragonair",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/148/"
+        },
+        {
+            "name": "dragonite",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/149/"
+        },
+        {
+            "name": "bayleef",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/153/"
+        },
+        {
+            "name": "meganium",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/154/"
+        },
+        {
+            "name": "quilava",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/156/"
+        },
+        {
+            "name": "typhlosion",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/157/"
+        },
+        {
+            "name": "croconaw",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/159/"
+        },
+        {
+            "name": "feraligatr",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/160/"
+        },
+        {
+            "name": "furret",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/162/"
+        },
+        {
+            "name": "noctowl",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/164/"
+        },
+        {
+            "name": "ledian",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/166/"
+        },
+        {
+            "name": "ariados",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/168/"
+        },
+        {
+            "name": "crobat",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/169/"
+        },
+        {
+            "name": "lanturn",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/171/"
+        },
+        {
+            "name": "togetic",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/176/"
+        },
+        {
+            "name": "xatu",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/178/"
+        },
+        {
+            "name": "flaaffy",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/180/"
+        },
+        {
+            "name": "ampharos",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/181/"
+        },
+        {
+            "name": "marill",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/183/"
+        },
+        {
+            "name": "azumarill",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/184/"
+        },
+        {
+            "name": "sudowoodo",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/185/"
+        },
+        {
+            "name": "skiploom",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/188/"
+        },
+        {
+            "name": "jumpluff",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/189/"
+        },
+        {
+            "name": "quagsire",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/195/"
+        },
+        {
+            "name": "espeon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/196/"
+        },
+        {
+            "name": "umbreon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/197/"
+        },
+        {
+            "name": "wobbuffet",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/202/"
+        },
+        {
+            "name": "forretress",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/205/"
+        },
+        {
+            "name": "granbull",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/210/"
+        },
+        {
+            "name": "ursaring",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/217/"
+        },
+        {
+            "name": "magcargo",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/219/"
+        },
+        {
+            "name": "piloswine",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/221/"
+        },
+        {
+            "name": "octillery",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/224/"
+        },
+        {
+            "name": "mantine",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/226/"
+        },
+        {
+            "name": "houndoom",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/229/"
+        },
+        {
+            "name": "donphan",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/232/"
+        },
+        {
+            "name": "hitmontop",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/237/"
+        },
+        {
+            "name": "blissey",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/242/"
+        },
+        {
+            "name": "pupitar",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/247/"
+        },
+        {
+            "name": "tyranitar",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/248/"
+        },
+        {
+            "name": "grovyle",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/253/"
+        },
+        {
+            "name": "sceptile",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/254/"
+        },
+        {
+            "name": "combusken",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/256/"
+        },
+        {
+            "name": "blaziken",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/257/"
+        },
+        {
+            "name": "marshtomp",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/259/"
+        },
+        {
+            "name": "swampert",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/260/"
+        },
+        {
+            "name": "mightyena",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/262/"
+        },
+        {
+            "name": "linoone",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/264/"
+        },
+        {
+            "name": "silcoon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/266/"
+        },
+        {
+            "name": "beautifly",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/267/"
+        },
+        {
+            "name": "cascoon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/268/"
+        },
+        {
+            "name": "dustox",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/269/"
+        },
+        {
+            "name": "lombre",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/271/"
+        },
+        {
+            "name": "nuzleaf",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/274/"
+        },
+        {
+            "name": "swellow",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/277/"
+        },
+        {
+            "name": "pelipper",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/279/"
+        },
+        {
+            "name": "kirlia",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/281/"
+        },
+        {
+            "name": "gardevoir",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/282/"
+        },
+        {
+            "name": "masquerain",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/284/"
+        },
+        {
+            "name": "breloom",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/286/"
+        },
+        {
+            "name": "vigoroth",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/288/"
+        },
+        {
+            "name": "slaking",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/289/"
+        },
+        {
+            "name": "ninjask",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/291/"
+        },
+        {
+            "name": "loudred",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/294/"
+        },
+        {
+            "name": "exploud",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/295/"
+        },
+        {
+            "name": "hariyama",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/297/"
+        },
+        {
+            "name": "lairon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/305/"
+        },
+        {
+            "name": "aggron",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/306/"
+        },
+        {
+            "name": "medicham",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/308/"
+        },
+        {
+            "name": "manectric",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/310/"
+        },
+        {
+            "name": "roselia",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/315/"
+        },
+        {
+            "name": "swalot",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/317/"
+        },
+        {
+            "name": "sharpedo",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/319/"
+        },
+        {
+            "name": "wailord",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/321/"
+        },
+        {
+            "name": "camerupt",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/323/"
+        },
+        {
+            "name": "grumpig",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/326/"
+        },
+        {
+            "name": "vibrava",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/329/"
+        },
+        {
+            "name": "flygon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/330/"
+        },
+        {
+            "name": "cacturne",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/332/"
+        },
+        {
+            "name": "altaria",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/334/"
+        },
+        {
+            "name": "whiscash",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/340/"
+        },
+        {
+            "name": "crawdaunt",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/342/"
+        },
+        {
+            "name": "claydol",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/344/"
+        },
+        {
+            "name": "cradily",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/346/"
+        },
+        {
+            "name": "armaldo",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/348/"
+        },
+        {
+            "name": "milotic",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/350/"
+        },
+        {
+            "name": "banette",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/354/"
+        },
+        {
+            "name": "dusclops",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/356/"
+        },
+        {
+            "name": "chimecho",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/358/"
+        },
+        {
+            "name": "glalie",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/362/"
+        },
+        {
+            "name": "sealeo",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/364/"
+        },
+        {
+            "name": "walrein",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/365/"
+        },
+        {
+            "name": "shelgon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/372/"
+        },
+        {
+            "name": "salamence",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/373/"
+        },
+        {
+            "name": "metang",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/375/"
+        },
+        {
+            "name": "metagross",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/376/"
+        },
+        {
+            "name": "grotle",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/388/"
+        },
+        {
+            "name": "torterra",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/389/"
+        },
+        {
+            "name": "monferno",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/391/"
+        },
+        {
+            "name": "infernape",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/392/"
+        },
+        {
+            "name": "prinplup",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/394/"
+        },
+        {
+            "name": "empoleon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/395/"
+        },
+        {
+            "name": "staravia",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/397/"
+        },
+        {
+            "name": "staraptor",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/398/"
+        },
+        {
+            "name": "bibarel",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/400/"
+        },
+        {
+            "name": "kricketune",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/402/"
+        },
+        {
+            "name": "luxio",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/404/"
+        },
+        {
+            "name": "luxray",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/405/"
+        },
+        {
+            "name": "rampardos",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/409/"
+        },
+        {
+            "name": "bastiodon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/411/"
+        },
+        {
+            "name": "wormadam",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/413/"
+        },
+        {
+            "name": "mothim",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/414/"
+        },
+        {
+            "name": "vespiquen",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/416/"
+        },
+        {
+            "name": "floatzel",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/419/"
+        },
+        {
+            "name": "cherrim",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/421/"
+        },
+        {
+            "name": "gastrodon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/423/"
+        },
+        {
+            "name": "ambipom",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/424/"
+        },
+        {
+            "name": "drifblim",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/426/"
+        },
+        {
+            "name": "lopunny",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/428/"
+        },
+        {
+            "name": "purugly",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/432/"
+        },
+        {
+            "name": "skuntank",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/435/"
+        },
+        {
+            "name": "bronzong",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/437/"
+        },
+        {
+            "name": "gabite",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/444/"
+        },
+        {
+            "name": "garchomp",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/445/"
+        },
+        {
+            "name": "lucario",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/448/"
+        },
+        {
+            "name": "hippowdon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/450/"
+        },
+        {
+            "name": "drapion",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/452/"
+        },
+        {
+            "name": "toxicroak",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/454/"
+        },
+        {
+            "name": "lumineon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/457/"
+        },
+        {
+            "name": "abomasnow",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/460/"
+        },
+        {
+            "name": "weavile",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/461/"
+        },
+        {
+            "name": "magnezone",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/462/"
+        },
+        {
+            "name": "lickilicky",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/463/"
+        },
+        {
+            "name": "tangrowth",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/465/"
+        },
+        {
+            "name": "yanmega",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/469/"
+        },
+        {
+            "name": "leafeon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/470/"
+        },
+        {
+            "name": "glaceon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/471/"
+        },
+        {
+            "name": "gliscor",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/472/"
+        },
+        {
+            "name": "mamoswine",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/473/"
+        },
+        {
+            "name": "probopass",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/476/"
+        },
+        {
+            "name": "servine",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/496/"
+        },
+        {
+            "name": "serperior",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/497/"
+        },
+        {
+            "name": "pignite",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/499/"
+        },
+        {
+            "name": "emboar",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/500/"
+        },
+        {
+            "name": "dewott",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/502/"
+        },
+        {
+            "name": "samurott",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/503/"
+        },
+        {
+            "name": "watchog",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/505/"
+        },
+        {
+            "name": "herdier",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/507/"
+        },
+        {
+            "name": "stoutland",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/508/"
+        },
+        {
+            "name": "liepard",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/510/"
+        },
+        {
+            "name": "tranquill",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/520/"
+        },
+        {
+            "name": "unfezant",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/521/"
+        },
+        {
+            "name": "zebstrika",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/523/"
+        },
+        {
+            "name": "boldore",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/525/"
+        },
+        {
+            "name": "swoobat",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/528/"
+        },
+        {
+            "name": "excadrill",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/530/"
+        },
+        {
+            "name": "gurdurr",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/533/"
+        },
+        {
+            "name": "palpitoad",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/536/"
+        },
+        {
+            "name": "seismitoad",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/537/"
+        },
+        {
+            "name": "swadloon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/541/"
+        },
+        {
+            "name": "leavanny",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/542/"
+        },
+        {
+            "name": "whirlipede",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/544/"
+        },
+        {
+            "name": "scolipede",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/545/"
+        },
+        {
+            "name": "krokorok",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/552/"
+        },
+        {
+            "name": "krookodile",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/553/"
+        },
+        {
+            "name": "darmanitan",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/555/"
+        },
+        {
+            "name": "crustle",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/558/"
+        },
+        {
+            "name": "scrafty",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/560/"
+        },
+        {
+            "name": "cofagrigus",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/563/"
+        },
+        {
+            "name": "carracosta",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/565/"
+        },
+        {
+            "name": "archeops",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/567/"
+        },
+        {
+            "name": "garbodor",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/569/"
+        },
+        {
+            "name": "zoroark",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/571/"
+        },
+        {
+            "name": "gothorita",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/575/"
+        },
+        {
+            "name": "gothitelle",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/576/"
+        },
+        {
+            "name": "duosion",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/578/"
+        },
+        {
+            "name": "reuniclus",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/579/"
+        },
+        {
+            "name": "swanna",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/581/"
+        },
+        {
+            "name": "vanillish",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/583/"
+        },
+        {
+            "name": "vanilluxe",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/584/"
+        },
+        {
+            "name": "sawsbuck",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/586/"
+        },
+        {
+            "name": "amoonguss",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/591/"
+        },
+        {
+            "name": "jellicent",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/593/"
+        },
+        {
+            "name": "galvantula",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/596/"
+        },
+        {
+            "name": "ferrothorn",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/598/"
+        },
+        {
+            "name": "klang",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/600/"
+        },
+        {
+            "name": "klinklang",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/601/"
+        },
+        {
+            "name": "eelektrik",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/603/"
+        },
+        {
+            "name": "beheeyem",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/606/"
+        },
+        {
+            "name": "lampent",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/608/"
+        },
+        {
+            "name": "fraxure",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/611/"
+        },
+        {
+            "name": "haxorus",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/612/"
+        },
+        {
+            "name": "beartic",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/614/"
+        },
+        {
+            "name": "mienshao",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/620/"
+        },
+        {
+            "name": "golurk",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/623/"
+        },
+        {
+            "name": "bisharp",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/625/"
+        },
+        {
+            "name": "braviary",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/628/"
+        },
+        {
+            "name": "mandibuzz",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/630/"
+        },
+        {
+            "name": "zweilous",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/634/"
+        },
+        {
+            "name": "hydreigon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/635/"
+        },
+        {
+            "name": "volcarona",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/637/"
+        },
+        {
+            "name": "fletchinder",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/662/"
+        },
+        {
+            "name": "talonflame",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/663/"
+        },
+        {
+            "name": "braixen",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/654/"
+        },
+        {
+            "name": "malamar",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/687/"
+        },
+        {
+            "name": "delphox",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/655/"
+        },
+        {
+            "name": "quilladin",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/651/"
+        },
+        {
+            "name": "clawitzer",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/693/"
+        },
+        {
+            "name": "chesnaught",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/652/"
+        },
+        {
+            "name": "frogadier",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/657/"
+        },
+        {
+            "name": "greninja",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/658/"
+        },
+        {
+            "name": "doublade",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/680/"
+        },
+        {
+            "name": "sliggoo",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/705/"
+        },
+        {
+            "name": "vivillon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/666/"
+        },
+        {
+            "name": "spewpa",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/665/"
+        },
+        {
+            "name": "barbaracle",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/689/"
+        },
+        {
+            "name": "diggersby",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/660/"
+        },
+        {
+            "name": "floette",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/670/"
+        },
+        {
+            "name": "pangoro",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/675/"
+        },
+        {
+            "name": "dragalge",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/691/"
+        },
+        {
+            "name": "tyrantrum",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/697/"
+        },
+        {
+            "name": "aurorus",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/699/"
+        },
+        {
+            "name": "avalugg",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/713/"
+        },
+        {
+            "name": "pyroar",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/668/"
+        },
+        {
+            "name": "gogoat",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/673/"
+        },
+        {
+            "name": "goodra",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/706/"
+        },
+        {
+            "name": "noivern",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/715/"
+        },
+        {
+            "name": "meowstic",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/678/"
+        },
+        {
+            "name": "sylveon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/700/"
+        },
+        {
+            "name": "dartrix",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/723/"
+        },
+        {
+            "name": "decidueye",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/724/"
+        },
+        {
+            "name": "torracat",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/726/"
+        },
+        {
+            "name": "incineroar",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/727/"
+        },
+        {
+            "name": "brionne",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/729/"
+        },
+        {
+            "name": "primarina",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/730/"
+        },
+        {
+            "name": "trumbeak",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/732/"
+        },
+        {
+            "name": "toucannon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/733/"
+        },
+        {
+            "name": "gumshoos",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/735/"
+        },
+        {
+            "name": "charjabug",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/737/"
+        },
+        {
+            "name": "vikavolt",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/738/"
+        },
+        {
+            "name": "crabominable",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/740/"
+        },
+        {
+            "name": "ribombee",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/743/"
+        },
+        {
+            "name": "lycanroc",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/745/"
+        },
+        {
+            "name": "toxapex",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/748/"
+        },
+        {
+            "name": "mudsdale",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/750/"
+        },
+        {
+            "name": "araquanid",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/752/"
+        },
+        {
+            "name": "lurantis",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/754/"
+        },
+        {
+            "name": "shiinotic",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/756/"
+        },
+        {
+            "name": "salazzle",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/758/"
+        },
+        {
+            "name": "bewear",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/760/"
+        },
+        {
+            "name": "steenee",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/762/"
+        },
+        {
+            "name": "tsareena",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/763/"
+        },
+        {
+            "name": "golisopod",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/768/"
+        },
+        {
+            "name": "palossand",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/770/"
+        },
+        {
+            "name": "silvally",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/773/"
+        },
+        {
+            "name": "hakamo-o",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/783/"
+        },
+        {
+            "name": "kommo-o",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/784/"
+        },
+        {
+            "name": "cosmoem",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/790/"
+        },
+        {
+            "name": "solgaleo",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/791/"
+        },
+        {
+            "name": "lunala",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/792/"
+        },
+        {
+            "name": "naganadel",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/804/"
+        },
+        {
+            "name": "thwackey",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/811/"
+        },
+        {
+            "name": "rillaboom",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/812/"
+        },
+        {
+            "name": "raboot",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/814/"
+        },
+        {
+            "name": "cinderace",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/815/"
+        },
+        {
+            "name": "drizzile",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/817/"
+        },
+        {
+            "name": "inteleon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/818/"
+        },
+        {
+            "name": "greedent",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/820/"
+        },
+        {
+            "name": "corvisquire",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/822/"
+        },
+        {
+            "name": "corviknight",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/823/"
+        },
+        {
+            "name": "dottler",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/825/"
+        },
+        {
+            "name": "orbeetle",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/826/"
+        },
+        {
+            "name": "thievul",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/828/"
+        },
+        {
+            "name": "eldegoss",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/830/"
+        },
+        {
+            "name": "dubwool",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/832/"
+        },
+        {
+            "name": "drednaw",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/834/"
+        },
+        {
+            "name": "boltund",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/836/"
+        },
+        {
+            "name": "carkol",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/838/"
+        },
+        {
+            "name": "coalossal",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/839/"
+        },
+        {
+            "name": "sandaconda",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/844/"
+        },
+        {
+            "name": "barraskewda",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/847/"
+        },
+        {
+            "name": "toxtricity",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/849/"
+        },
+        {
+            "name": "centiskorch",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/851/"
+        },
+        {
+            "name": "grapploct",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/853/"
+        },
+        {
+            "name": "hattrem",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/857/"
+        },
+        {
+            "name": "hatterene",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/858/"
+        },
+        {
+            "name": "morgrem",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/860/"
+        },
+        {
+            "name": "grimmsnarl",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/861/"
+        },
+        {
+            "name": "frosmoth",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/873/"
+        },
+        {
+            "name": "copperajah",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/879/"
+        },
+        {
+            "name": "drakloak",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/886/"
+        },
+        {
+            "name": "dragapult",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/887/"
+        },
+        {
+            "name": "perrserker",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/863/"
+        },
+        {
+            "name": "mr-rime",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/866/"
+        },
+        {
+            "name": "cursola",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/864/"
+        },
+        {
+            "name": "obstagoon",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/862/"
+        },
+        {
+            "name": "sneasler",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/903/"
+        },
+        {
+            "name": "floragato",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/907/"
+        },
+        {
+            "name": "meowscarada",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/908/"
+        },
+        {
+            "name": "crocalor",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/910/"
+        },
+        {
+            "name": "skeledirge",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/911/"
+        },
+        {
+            "name": "quaxwell",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/913/"
+        },
+        {
+            "name": "quaquaval",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/914/"
+        },
+        {
+            "name": "oinkologne",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/916/"
+        },
+        {
+            "name": "spidops",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/918/"
+        },
+        {
+            "name": "lokix",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/920/"
+        },
+        {
+            "name": "pawmo",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/922/"
+        },
+        {
+            "name": "dachsbun",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/927/"
+        },
+        {
+            "name": "dolliv",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/929/"
+        },
+        {
+            "name": "arboliva",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/930/"
+        },
+        {
+            "name": "naclstack",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/933/"
+        },
+        {
+            "name": "garganacl",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/934/"
+        },
+        {
+            "name": "kilowattrel",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/941/"
+        },
+        {
+            "name": "mabosstiff",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/943/"
+        },
+        {
+            "name": "grafaiai",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/945/"
+        },
+        {
+            "name": "toedscruel",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/949/"
+        },
+        {
+            "name": "espathra",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/956/"
+        },
+        {
+            "name": "tinkatuff",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/958/"
+        },
+        {
+            "name": "tinkaton",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/959/"
+        },
+        {
+            "name": "wugtrio",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/961/"
+        },
+        {
+            "name": "revavroom",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/966/"
+        },
+        {
+            "name": "glimmora",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/970/"
+        },
+        {
+            "name": "houndstone",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/972/"
+        },
+        {
+            "name": "clodsire",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/980/"
+        },
+        {
+            "name": "farigiraf",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/981/"
+        },
+        {
+            "name": "dudunsparce",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/982/"
+        },
+        {
+            "name": "arctibax",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/997/"
+        },
+        {
+            "name": "baxcalibur",
+            "url": "https://pokedex.mimo.dev/api/pokemon-species/998/"
+        }
+    ]
+}

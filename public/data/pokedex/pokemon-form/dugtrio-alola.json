@@ -1,0 +1,139 @@
+{
+    "form_name": "alola",
+    "form_names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30a2\u30ed\u30fc\u30e9\u306e\u3059\u304c\u305f"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc54c\ub85c\ub77c\uc758 \ubaa8\uc2b5"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u963f\u7f85\u62c9\u7684\u6a23\u5b50"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Forme d'Alola"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Alola-Form"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Forma de Alola"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Forma di Alola"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Alolan Form"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u30a2\u30ed\u30fc\u30e9\u306e\u3059\u304c\u305f"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u963f\u7f57\u62c9\u7684\u6837\u5b50"
+        }
+    ],
+    "form_order": 2,
+    "id": 10208,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "dugtrio-alola",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Triopikeur d'Alola"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Alola Digdri"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Alolan Dugtrio"
+        }
+    ],
+    "order": 88,
+    "pokemon": {
+        "name": "dugtrio-alola",
+        "url": "https://pokedex.mimo.dev/api/pokemon/10106/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/10106.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/10106.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/10106.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/10106.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "ground",
+                "url": "https://pokedex.mimo.dev/api/type/5/"
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "steel",
+                "url": "https://pokedex.mimo.dev/api/type/9/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "sun-moon",
+        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+    }
+}

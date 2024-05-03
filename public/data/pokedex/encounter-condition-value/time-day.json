@@ -1,0 +1,31 @@
+{
+    "condition": {
+        "name": "time",
+        "url": "https://pokedex.mimo.dev/api/encounter-condition/2/"
+    },
+    "id": 4,
+    "name": "time-day",
+    "names": [
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Am Tag"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "During the day"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "La journ\u00e9e"
+        }
+    ]
+}

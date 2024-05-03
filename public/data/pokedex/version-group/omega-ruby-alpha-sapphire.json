@@ -1,0 +1,57 @@
+{
+    "generation": {
+        "name": "generation-vi",
+        "url": "https://pokedex.mimo.dev/api/generation/6/"
+    },
+    "id": 16,
+    "move_learn_methods": [
+        {
+            "name": "level-up",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+        },
+        {
+            "name": "egg",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/2/"
+        },
+        {
+            "name": "tutor",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+        },
+        {
+            "name": "machine",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+        },
+        {
+            "name": "light-ball-egg",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/6/"
+        },
+        {
+            "name": "form-change",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/10/"
+        }
+    ],
+    "name": "omega-ruby-alpha-sapphire",
+    "order": 16,
+    "pokedexes": [
+        {
+            "name": "updated-hoenn",
+            "url": "https://pokedex.mimo.dev/api/pokedex/15/"
+        }
+    ],
+    "regions": [
+        {
+            "name": "hoenn",
+            "url": "https://pokedex.mimo.dev/api/region/3/"
+        }
+    ],
+    "versions": [
+        {
+            "name": "omega-ruby",
+            "url": "https://pokedex.mimo.dev/api/version/25/"
+        },
+        {
+            "name": "alpha-sapphire",
+            "url": "https://pokedex.mimo.dev/api/version/26/"
+        }
+    ]
+}

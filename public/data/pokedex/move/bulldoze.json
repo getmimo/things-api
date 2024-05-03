@@ -1,0 +1,2644 @@
+{
+    "accuracy": 100,
+    "contest_combos": null,
+    "contest_effect": null,
+    "contest_type": null,
+    "damage_class": {
+        "name": "physical",
+        "url": "https://pokedex.mimo.dev/api/move-damage-class/2/"
+    },
+    "effect_chance": 100,
+    "effect_changes": [],
+    "effect_entries": [
+        {
+            "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "short_effect": "Has a 100% chance to lower the target's Speed by one stage."
+        }
+    ],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "Le lanceur pi\u00e9tine le sol et inflige des\nd\u00e9g\u00e2ts \u00e0 tous les Pok\u00e9mon autour\nde lui. Baisse aussi la Vitesse.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "https://pokedex.mimo.dev/api/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "The user stomps down on the ground\nand attacks everything in the area. Hit\nPok\u00e9mon\u2019s Speed stat is reduced.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "https://pokedex.mimo.dev/api/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "The user stomps down on the ground\nand attacks everything in the area. Hit\nPok\u00e9mon\u2019s Speed stat is reduced.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "black-2-white-2",
+                "url": "https://pokedex.mimo.dev/api/version-group/14/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3081\u3093\u3092\u3000\u3075\u307f\u306a\u3089\u3057\u3066\u3000\u3058\u3076\u3093\u306e\n\u307e\u308f\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u3053\u3046\u3052\u304d\u3059\u308b\u3002\n\u3042\u3044\u3066\u306e\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\ub545\uc744 \ud798\uaecf \ubc1f\uc544 \uc790\uc2e0\uc758\n\uc8fc\uc704\uc5d0 \uc788\ub294 \ud3ec\ucf13\ubaac\uc744 \uacf5\uaca9\ud55c\ub2e4.\n\uc0c1\ub300\uc758 \uc2a4\ud53c\ub4dc\ub97c \ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur pi\u00e9tine le sol et inflige des d\u00e9g\u00e2ts \u00e0\ntous les Pok\u00e9mon autour de lui. Baisse aussi leur\nVitesse.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Anwender greift an, indem er den Boden\num sich herum plattwalzt. Die Initiative aller\nbetroffenen Pok\u00e9mon sinkt.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Sacudida s\u00edsmica que afecta a los dem\u00e1s Pok\u00e9mon\nadyacentes y tambi\u00e9n reduce su Velocidad.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa calpesta il terreno e scatena un\nterremoto che danneggia i Pok\u00e9mon nei paraggi,\nriducendone la Velocit\u00e0.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "The user strikes everything around it\nby stomping down on the ground.\nThis lowers the Speed stat of those hit.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u5730\u9762\u3092\u3000\u8e0f\u307f\u306a\u3089\u3057\u3066\u3000\u81ea\u5206\u306e\n\u5468\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u653b\u6483\u3059\u308b\u3002\n\u76f8\u624b\u306e\u3000\u7d20\u65e9\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3081\u3093\u3092\u3000\u3075\u202f\u306a\u3089\u3057\u3066\u3000\u3058\u3076\u3093\u306e\n\u307e\u308f\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u3053\u3046\u3052\u304d\u3059\u308b\u3002\n\u3042\u3044\u3066\u306e\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\ub545\uc744 \ud798\uaecf \ubc1f\uc544 \uc790\uc2e0\uc758\n\uc8fc\uc704\uc5d0 \uc788\ub294 \ud3ec\ucf13\ubaac\uc744 \uacf5\uaca9\ud55c\ub2e4.\n\uc0c1\ub300\uc758 \uc2a4\ud53c\ub4dc\ub97c \ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur pi\u00e9tine le sol et inflige des d\u00e9g\u00e2ts \u00e0\ntous les Pok\u00e9mon autour de lui. Baisse aussi leur\nVitesse.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Anwender greift an, indem er den Boden\num sich herum plattwalzt. Die Initiative aller\nbetroffenen Pok\u00e9mon sinkt.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Sacudida s\u00edsmica que afecta a los dem\u00e1s Pok\u00e9mon \nadyacentes y tambi\u00e9n reduce su Velocidad.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa calpesta il terreno e scatena un\nterremoto che danneggia i Pok\u00e9mon nei paraggi,\nriducendone la Velocit\u00e0.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "The user strikes everything around it\nby stomping down on the ground.\nThis lowers the Speed stat of those hit.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u5730\u9762\u3092\u3000\u8e0f\u202f\u306a\u3089\u3057\u3066\u3000\u81ea\u5206\u306e\n\u5468\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u653b\u6483\u3059\u308b\u3002\n\u76f8\u624b\u306e\u3000\u7d20\u65e9\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3081\u3093\u3092\u3000\u3075\u307f\u306a\u3089\u3057\u3066\u3000\u3058\u3076\u3093\u306e\n\u307e\u308f\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u3053\u3046\u3052\u304d\u3059\u308b\u3002\n\u3042\u3044\u3066\u306e\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\ub545\uc744 \ud798\uaecf \ubc1f\uc544 \uc790\uc2e0\uc758\n\uc8fc\uc704\uc5d0 \uc788\ub294 \ud3ec\ucf13\ubaac\uc744 \uacf5\uaca9\ud55c\ub2e4.\n\uc0c1\ub300\uc758 \uc2a4\ud53c\ub4dc\ub97c \ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u529b\u8e29\u8e0f\u5730\u9762\uff0c\n\u653b\u64ca\u81ea\u5df1\u5468\u570d\u6240\u6709\u7684\u5bf6\u53ef\u5922\u3002\n\u53ef\u964d\u4f4e\u5c0d\u624b\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur pi\u00e9tine le sol et inflige des d\u00e9g\u00e2ts\n\u00e0 tous les Pok\u00e9mon autour de lui. Baisse aussi\nleur Vitesse.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Anwender greift an, indem er den Boden um sich\nherum plattwalzt. Die Initiative aller betroffenen\nPok\u00e9mon sinkt.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Sacudida s\u00edsmica que afecta a los dem\u00e1s Pok\u00e9mon \nadyacentes y tambi\u00e9n reduce su Velocidad.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa calpesta il terreno e scatena un\nterremoto che danneggia i Pok\u00e9mon nei paraggi,\nriducendone la Velocit\u00e0.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "The user strikes everything around it by stomping\ndown on the ground. This lowers the Speed stat of\nthose hit.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u5730\u9762\u3092\u3000\u8e0f\u307f\u306a\u3089\u3057\u3066\u3000\u81ea\u5206\u306e\n\u5468\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u653b\u6483\u3059\u308b\u3002\n\u76f8\u624b\u306e\u3000\u7d20\u65e9\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u529b\u8e29\u8e0f\u5730\u9762\u5e76\u653b\u51fb\n\u81ea\u5df1\u5468\u56f4\u6240\u6709\u7684\u5b9d\u53ef\u68a6\u3002\n\u964d\u4f4e\u5bf9\u65b9\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3081\u3093\u3092\u3000\u3075\u307f\u306a\u3089\u3057\u3066\u3000\u3058\u3076\u3093\u306e\n\u307e\u308f\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u3053\u3046\u3052\u304d\u3059\u308b\u3002\n\u3042\u3044\u3066\u306e\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\ub545\uc744 \ud798\uaecf \ubc1f\uc544 \uc790\uc2e0\uc758\n\uc8fc\uc704\uc5d0 \uc788\ub294 \ud3ec\ucf13\ubaac\uc744 \uacf5\uaca9\ud55c\ub2e4.\n\uc0c1\ub300\uc758 \uc2a4\ud53c\ub4dc\ub97c \ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u529b\u8e29\u8e0f\u5730\u9762\uff0c\n\u653b\u64ca\u81ea\u5df1\u5468\u570d\u6240\u6709\u7684\u5bf6\u53ef\u5922\u3002\n\u53ef\u964d\u4f4e\u5c0d\u624b\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur pi\u00e9tine le sol et inflige des d\u00e9g\u00e2ts\n\u00e0 tous les Pok\u00e9mon autour de lui. Baisse aussi\nleur Vitesse.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Anwender greift an, indem er den Boden um sich\nherum plattwalzt. Die Initiative aller betroffenen\nPok\u00e9mon sinkt.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Sacudida s\u00edsmica que afecta a los dem\u00e1s Pok\u00e9mon \nadyacentes y tambi\u00e9n reduce su Velocidad.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa calpesta il terreno e scatena un\nterremoto che danneggia i Pok\u00e9mon nei paraggi,\nriducendone la Velocit\u00e0.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "The user strikes everything around it by stomping\ndown on the ground. This lowers the Speed stat of\nthose hit.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u5730\u9762\u3092\u3000\u8e0f\u307f\u306a\u3089\u3057\u3066\u3000\u81ea\u5206\u306e\n\u5468\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u653b\u6483\u3059\u308b\u3002\n\u76f8\u624b\u306e\u3000\u7d20\u65e9\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u529b\u8e29\u8e0f\u5730\u9762\u5e76\u653b\u51fb\n\u81ea\u5df1\u5468\u56f4\u6240\u6709\u7684\u5b9d\u53ef\u68a6\u3002\n\u964d\u4f4e\u5bf9\u65b9\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3081\u3093\u3092\u3000\u3075\u307f\u306a\u3089\u3057\u3066\u3000\u3058\u3076\u3093\u306e\n\u307e\u308f\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u3053\u3046\u3052\u304d\u3059\u308b\u3002\n\u3042\u3044\u3066\u306e\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\ub545\uc744 \ud798\uaecf \ubc1f\uc544 \uc790\uc2e0\uc758\n\uc8fc\uc704\uc5d0 \uc788\ub294 \ud3ec\ucf13\ubaac\uc744 \uacf5\uaca9\ud55c\ub2e4.\n\uc0c1\ub300\uc758 \uc2a4\ud53c\ub4dc\ub97c \ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u529b\u8e29\u8e0f\u5730\u9762\uff0c\n\u653b\u64ca\u81ea\u5df1\u5468\u570d\u6240\u6709\u7684\u5bf6\u53ef\u5922\u3002\n\u53ef\u964d\u4f4e\u5c0d\u624b\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur pi\u00e9tine le sol et inflige des d\u00e9g\u00e2ts\n\u00e0 tous les Pok\u00e9mon autour de lui. Baisse aussi\nleur Vitesse.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Anwender greift an, indem er den Boden um sich\nherum plattwalzt. Die Initiative aller Pok\u00e9mon in der\nUmgebung sinkt.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Sacudida s\u00edsmica que afecta a los dem\u00e1s Pok\u00e9mon \nadyacentes y tambi\u00e9n reduce su Velocidad.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa calpesta il terreno e scatena un\nterremoto che danneggia i Pok\u00e9mon nei paraggi,\nriducendone la Velocit\u00e0.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "The user strikes everything around it by stomping\ndown on the ground. This lowers the Speed stat of\nthose hit.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u5730\u9762\u3092\u3000\u8e0f\u307f\u306a\u3089\u3057\u3066\u3000\u81ea\u5206\u306e\n\u5468\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u653b\u6483\u3059\u308b\u3002\n\u76f8\u624b\u306e\u3000\u7d20\u65e9\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u529b\u8e29\u8e0f\u5730\u9762\u5e76\u653b\u51fb\n\u81ea\u5df1\u5468\u56f4\u6240\u6709\u7684\u5b9d\u53ef\u68a6\u3002\n\u964d\u4f4e\u5bf9\u65b9\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u3058\u3081\u3093\u3092\u3000\u3075\u307f\u306a\u3089\u3057\u3066\u3000\u3058\u3076\u3093\u306e\n\u307e\u308f\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u3053\u3046\u3052\u304d\u3059\u308b\u3002\n\u3042\u3044\u3066\u306e\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\ub545\uc744 \ud798\uaecf \ubc1f\uc544 \uc790\uc2e0\uc758\n\uc8fc\uc704\uc5d0 \uc788\ub294 \ud3ec\ucf13\ubaac\uc744 \uacf5\uaca9\ud55c\ub2e4.\n\uc0c1\ub300\uc758 \uc2a4\ud53c\ub4dc\ub97c \ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u529b\u8e29\u8e0f\u5730\u9762\uff0c\n\u653b\u64ca\u81ea\u5df1\u5468\u570d\u6240\u6709\u7684\u5bf6\u53ef\u5922\u3002\n\u53ef\u964d\u4f4e\u5c0d\u624b\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur pi\u00e9tine le sol et inflige des d\u00e9g\u00e2ts \u00e0 tous\nles Pok\u00e9mon autour de lui. Baisse aussi leur Vitesse.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Anwender walzt den Boden platt und greift dabei alle\nPok\u00e9mon im Umkreis an. Die Initiative aller betroffenen\nPok\u00e9mon sinkt.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Sacudida s\u00edsmica que afecta a los dem\u00e1s Pok\u00e9mon \nadyacentes y tambi\u00e9n reduce su Velocidad.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa calpesta il terreno e scatena un terremoto\nche danneggia i Pok\u00e9mon nei paraggi, riducendone\nla Velocit\u00e0.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "The user strikes everything around it by stomping\ndown on the ground. This lowers the Speed stats of\nthose hit.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u5730\u9762\u3092\u3000\u8e0f\u307f\u306a\u3089\u3057\u3066\u3000\u81ea\u5206\u306e\n\u5468\u308a\u306b\u3000\u3044\u308b\u3082\u306e\u3092\u3000\u653b\u6483\u3059\u308b\u3002\n\u76f8\u624b\u306e\u3000\u7d20\u65e9\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u7528\u529b\u8e29\u8e0f\u5730\u9762\u5e76\u653b\u51fb\n\u81ea\u5df1\u5468\u56f4\u6240\u6709\u7684\u5b9d\u53ef\u68a6\u3002\n\u964d\u4f4e\u5bf9\u65b9\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-v",
+        "url": "https://pokedex.mimo.dev/api/generation/5/"
+    },
+    "id": 523,
+    "learned_by_pokemon": [
+        {
+            "name": "venusaur",
+            "url": "https://pokedex.mimo.dev/api/pokemon/3/"
+        },
+        {
+            "name": "charizard",
+            "url": "https://pokedex.mimo.dev/api/pokemon/6/"
+        },
+        {
+            "name": "blastoise",
+            "url": "https://pokedex.mimo.dev/api/pokemon/9/"
+        },
+        {
+            "name": "ekans",
+            "url": "https://pokedex.mimo.dev/api/pokemon/23/"
+        },
+        {
+            "name": "arbok",
+            "url": "https://pokedex.mimo.dev/api/pokemon/24/"
+        },
+        {
+            "name": "sandshrew",
+            "url": "https://pokedex.mimo.dev/api/pokemon/27/"
+        },
+        {
+            "name": "sandslash",
+            "url": "https://pokedex.mimo.dev/api/pokemon/28/"
+        },
+        {
+            "name": "nidoqueen",
+            "url": "https://pokedex.mimo.dev/api/pokemon/31/"
+        },
+        {
+            "name": "nidoking",
+            "url": "https://pokedex.mimo.dev/api/pokemon/34/"
+        },
+        {
+            "name": "diglett",
+            "url": "https://pokedex.mimo.dev/api/pokemon/50/"
+        },
+        {
+            "name": "dugtrio",
+            "url": "https://pokedex.mimo.dev/api/pokemon/51/"
+        },
+        {
+            "name": "mankey",
+            "url": "https://pokedex.mimo.dev/api/pokemon/56/"
+        },
+        {
+            "name": "primeape",
+            "url": "https://pokedex.mimo.dev/api/pokemon/57/"
+        },
+        {
+            "name": "arcanine",
+            "url": "https://pokedex.mimo.dev/api/pokemon/59/"
+        },
+        {
+            "name": "poliwag",
+            "url": "https://pokedex.mimo.dev/api/pokemon/60/"
+        },
+        {
+            "name": "poliwhirl",
+            "url": "https://pokedex.mimo.dev/api/pokemon/61/"
+        },
+        {
+            "name": "poliwrath",
+            "url": "https://pokedex.mimo.dev/api/pokemon/62/"
+        },
+        {
+            "name": "machop",
+            "url": "https://pokedex.mimo.dev/api/pokemon/66/"
+        },
+        {
+            "name": "machoke",
+            "url": "https://pokedex.mimo.dev/api/pokemon/67/"
+        },
+        {
+            "name": "machamp",
+            "url": "https://pokedex.mimo.dev/api/pokemon/68/"
+        },
+        {
+            "name": "geodude",
+            "url": "https://pokedex.mimo.dev/api/pokemon/74/"
+        },
+        {
+            "name": "graveler",
+            "url": "https://pokedex.mimo.dev/api/pokemon/75/"
+        },
+        {
+            "name": "golem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/76/"
+        },
+        {
+            "name": "slowpoke",
+            "url": "https://pokedex.mimo.dev/api/pokemon/79/"
+        },
+        {
+            "name": "slowbro",
+            "url": "https://pokedex.mimo.dev/api/pokemon/80/"
+        },
+        {
+            "name": "onix",
+            "url": "https://pokedex.mimo.dev/api/pokemon/95/"
+        },
+        {
+            "name": "exeggutor",
+            "url": "https://pokedex.mimo.dev/api/pokemon/103/"
+        },
+        {
+            "name": "cubone",
+            "url": "https://pokedex.mimo.dev/api/pokemon/104/"
+        },
+        {
+            "name": "marowak",
+            "url": "https://pokedex.mimo.dev/api/pokemon/105/"
+        },
+        {
+            "name": "hitmonlee",
+            "url": "https://pokedex.mimo.dev/api/pokemon/106/"
+        },
+        {
+            "name": "hitmonchan",
+            "url": "https://pokedex.mimo.dev/api/pokemon/107/"
+        },
+        {
+            "name": "lickitung",
+            "url": "https://pokedex.mimo.dev/api/pokemon/108/"
+        },
+        {
+            "name": "rhyhorn",
+            "url": "https://pokedex.mimo.dev/api/pokemon/111/"
+        },
+        {
+            "name": "rhydon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/112/"
+        },
+        {
+            "name": "chansey",
+            "url": "https://pokedex.mimo.dev/api/pokemon/113/"
+        },
+        {
+            "name": "kangaskhan",
+            "url": "https://pokedex.mimo.dev/api/pokemon/115/"
+        },
+        {
+            "name": "pinsir",
+            "url": "https://pokedex.mimo.dev/api/pokemon/127/"
+        },
+        {
+            "name": "tauros",
+            "url": "https://pokedex.mimo.dev/api/pokemon/128/"
+        },
+        {
+            "name": "gyarados",
+            "url": "https://pokedex.mimo.dev/api/pokemon/130/"
+        },
+        {
+            "name": "lapras",
+            "url": "https://pokedex.mimo.dev/api/pokemon/131/"
+        },
+        {
+            "name": "aerodactyl",
+            "url": "https://pokedex.mimo.dev/api/pokemon/142/"
+        },
+        {
+            "name": "snorlax",
+            "url": "https://pokedex.mimo.dev/api/pokemon/143/"
+        },
+        {
+            "name": "dragonite",
+            "url": "https://pokedex.mimo.dev/api/pokemon/149/"
+        },
+        {
+            "name": "mewtwo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/150/"
+        },
+        {
+            "name": "mew",
+            "url": "https://pokedex.mimo.dev/api/pokemon/151/"
+        },
+        {
+            "name": "meganium",
+            "url": "https://pokedex.mimo.dev/api/pokemon/154/"
+        },
+        {
+            "name": "typhlosion",
+            "url": "https://pokedex.mimo.dev/api/pokemon/157/"
+        },
+        {
+            "name": "feraligatr",
+            "url": "https://pokedex.mimo.dev/api/pokemon/160/"
+        },
+        {
+            "name": "ampharos",
+            "url": "https://pokedex.mimo.dev/api/pokemon/181/"
+        },
+        {
+            "name": "marill",
+            "url": "https://pokedex.mimo.dev/api/pokemon/183/"
+        },
+        {
+            "name": "azumarill",
+            "url": "https://pokedex.mimo.dev/api/pokemon/184/"
+        },
+        {
+            "name": "sudowoodo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/185/"
+        },
+        {
+            "name": "politoed",
+            "url": "https://pokedex.mimo.dev/api/pokemon/186/"
+        },
+        {
+            "name": "wooper",
+            "url": "https://pokedex.mimo.dev/api/pokemon/194/"
+        },
+        {
+            "name": "quagsire",
+            "url": "https://pokedex.mimo.dev/api/pokemon/195/"
+        },
+        {
+            "name": "slowking",
+            "url": "https://pokedex.mimo.dev/api/pokemon/199/"
+        },
+        {
+            "name": "girafarig",
+            "url": "https://pokedex.mimo.dev/api/pokemon/203/"
+        },
+        {
+            "name": "pineco",
+            "url": "https://pokedex.mimo.dev/api/pokemon/204/"
+        },
+        {
+            "name": "forretress",
+            "url": "https://pokedex.mimo.dev/api/pokemon/205/"
+        },
+        {
+            "name": "dunsparce",
+            "url": "https://pokedex.mimo.dev/api/pokemon/206/"
+        },
+        {
+            "name": "gligar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/207/"
+        },
+        {
+            "name": "steelix",
+            "url": "https://pokedex.mimo.dev/api/pokemon/208/"
+        },
+        {
+            "name": "snubbull",
+            "url": "https://pokedex.mimo.dev/api/pokemon/209/"
+        },
+        {
+            "name": "granbull",
+            "url": "https://pokedex.mimo.dev/api/pokemon/210/"
+        },
+        {
+            "name": "shuckle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/213/"
+        },
+        {
+            "name": "heracross",
+            "url": "https://pokedex.mimo.dev/api/pokemon/214/"
+        },
+        {
+            "name": "teddiursa",
+            "url": "https://pokedex.mimo.dev/api/pokemon/216/"
+        },
+        {
+            "name": "ursaring",
+            "url": "https://pokedex.mimo.dev/api/pokemon/217/"
+        },
+        {
+            "name": "slugma",
+            "url": "https://pokedex.mimo.dev/api/pokemon/218/"
+        },
+        {
+            "name": "magcargo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/219/"
+        },
+        {
+            "name": "swinub",
+            "url": "https://pokedex.mimo.dev/api/pokemon/220/"
+        },
+        {
+            "name": "piloswine",
+            "url": "https://pokedex.mimo.dev/api/pokemon/221/"
+        },
+        {
+            "name": "corsola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/222/"
+        },
+        {
+            "name": "mantine",
+            "url": "https://pokedex.mimo.dev/api/pokemon/226/"
+        },
+        {
+            "name": "phanpy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/231/"
+        },
+        {
+            "name": "donphan",
+            "url": "https://pokedex.mimo.dev/api/pokemon/232/"
+        },
+        {
+            "name": "stantler",
+            "url": "https://pokedex.mimo.dev/api/pokemon/234/"
+        },
+        {
+            "name": "tyrogue",
+            "url": "https://pokedex.mimo.dev/api/pokemon/236/"
+        },
+        {
+            "name": "hitmontop",
+            "url": "https://pokedex.mimo.dev/api/pokemon/237/"
+        },
+        {
+            "name": "miltank",
+            "url": "https://pokedex.mimo.dev/api/pokemon/241/"
+        },
+        {
+            "name": "blissey",
+            "url": "https://pokedex.mimo.dev/api/pokemon/242/"
+        },
+        {
+            "name": "raikou",
+            "url": "https://pokedex.mimo.dev/api/pokemon/243/"
+        },
+        {
+            "name": "entei",
+            "url": "https://pokedex.mimo.dev/api/pokemon/244/"
+        },
+        {
+            "name": "suicune",
+            "url": "https://pokedex.mimo.dev/api/pokemon/245/"
+        },
+        {
+            "name": "larvitar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/246/"
+        },
+        {
+            "name": "pupitar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/247/"
+        },
+        {
+            "name": "tyranitar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/248/"
+        },
+        {
+            "name": "lugia",
+            "url": "https://pokedex.mimo.dev/api/pokemon/249/"
+        },
+        {
+            "name": "ho-oh",
+            "url": "https://pokedex.mimo.dev/api/pokemon/250/"
+        },
+        {
+            "name": "sceptile",
+            "url": "https://pokedex.mimo.dev/api/pokemon/254/"
+        },
+        {
+            "name": "blaziken",
+            "url": "https://pokedex.mimo.dev/api/pokemon/257/"
+        },
+        {
+            "name": "marshtomp",
+            "url": "https://pokedex.mimo.dev/api/pokemon/259/"
+        },
+        {
+            "name": "swampert",
+            "url": "https://pokedex.mimo.dev/api/pokemon/260/"
+        },
+        {
+            "name": "breloom",
+            "url": "https://pokedex.mimo.dev/api/pokemon/286/"
+        },
+        {
+            "name": "vigoroth",
+            "url": "https://pokedex.mimo.dev/api/pokemon/288/"
+        },
+        {
+            "name": "slaking",
+            "url": "https://pokedex.mimo.dev/api/pokemon/289/"
+        },
+        {
+            "name": "loudred",
+            "url": "https://pokedex.mimo.dev/api/pokemon/294/"
+        },
+        {
+            "name": "exploud",
+            "url": "https://pokedex.mimo.dev/api/pokemon/295/"
+        },
+        {
+            "name": "makuhita",
+            "url": "https://pokedex.mimo.dev/api/pokemon/296/"
+        },
+        {
+            "name": "hariyama",
+            "url": "https://pokedex.mimo.dev/api/pokemon/297/"
+        },
+        {
+            "name": "nosepass",
+            "url": "https://pokedex.mimo.dev/api/pokemon/299/"
+        },
+        {
+            "name": "aron",
+            "url": "https://pokedex.mimo.dev/api/pokemon/304/"
+        },
+        {
+            "name": "lairon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/305/"
+        },
+        {
+            "name": "aggron",
+            "url": "https://pokedex.mimo.dev/api/pokemon/306/"
+        },
+        {
+            "name": "swalot",
+            "url": "https://pokedex.mimo.dev/api/pokemon/317/"
+        },
+        {
+            "name": "sharpedo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/319/"
+        },
+        {
+            "name": "wailmer",
+            "url": "https://pokedex.mimo.dev/api/pokemon/320/"
+        },
+        {
+            "name": "wailord",
+            "url": "https://pokedex.mimo.dev/api/pokemon/321/"
+        },
+        {
+            "name": "numel",
+            "url": "https://pokedex.mimo.dev/api/pokemon/322/"
+        },
+        {
+            "name": "camerupt",
+            "url": "https://pokedex.mimo.dev/api/pokemon/323/"
+        },
+        {
+            "name": "torkoal",
+            "url": "https://pokedex.mimo.dev/api/pokemon/324/"
+        },
+        {
+            "name": "grumpig",
+            "url": "https://pokedex.mimo.dev/api/pokemon/326/"
+        },
+        {
+            "name": "trapinch",
+            "url": "https://pokedex.mimo.dev/api/pokemon/328/"
+        },
+        {
+            "name": "vibrava",
+            "url": "https://pokedex.mimo.dev/api/pokemon/329/"
+        },
+        {
+            "name": "flygon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/330/"
+        },
+        {
+            "name": "cacnea",
+            "url": "https://pokedex.mimo.dev/api/pokemon/331/"
+        },
+        {
+            "name": "cacturne",
+            "url": "https://pokedex.mimo.dev/api/pokemon/332/"
+        },
+        {
+            "name": "altaria",
+            "url": "https://pokedex.mimo.dev/api/pokemon/334/"
+        },
+        {
+            "name": "seviper",
+            "url": "https://pokedex.mimo.dev/api/pokemon/336/"
+        },
+        {
+            "name": "lunatone",
+            "url": "https://pokedex.mimo.dev/api/pokemon/337/"
+        },
+        {
+            "name": "solrock",
+            "url": "https://pokedex.mimo.dev/api/pokemon/338/"
+        },
+        {
+            "name": "barboach",
+            "url": "https://pokedex.mimo.dev/api/pokemon/339/"
+        },
+        {
+            "name": "whiscash",
+            "url": "https://pokedex.mimo.dev/api/pokemon/340/"
+        },
+        {
+            "name": "baltoy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/343/"
+        },
+        {
+            "name": "claydol",
+            "url": "https://pokedex.mimo.dev/api/pokemon/344/"
+        },
+        {
+            "name": "cradily",
+            "url": "https://pokedex.mimo.dev/api/pokemon/346/"
+        },
+        {
+            "name": "armaldo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/348/"
+        },
+        {
+            "name": "milotic",
+            "url": "https://pokedex.mimo.dev/api/pokemon/350/"
+        },
+        {
+            "name": "dusclops",
+            "url": "https://pokedex.mimo.dev/api/pokemon/356/"
+        },
+        {
+            "name": "tropius",
+            "url": "https://pokedex.mimo.dev/api/pokemon/357/"
+        },
+        {
+            "name": "glalie",
+            "url": "https://pokedex.mimo.dev/api/pokemon/362/"
+        },
+        {
+            "name": "spheal",
+            "url": "https://pokedex.mimo.dev/api/pokemon/363/"
+        },
+        {
+            "name": "sealeo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/364/"
+        },
+        {
+            "name": "walrein",
+            "url": "https://pokedex.mimo.dev/api/pokemon/365/"
+        },
+        {
+            "name": "relicanth",
+            "url": "https://pokedex.mimo.dev/api/pokemon/369/"
+        },
+        {
+            "name": "salamence",
+            "url": "https://pokedex.mimo.dev/api/pokemon/373/"
+        },
+        {
+            "name": "metang",
+            "url": "https://pokedex.mimo.dev/api/pokemon/375/"
+        },
+        {
+            "name": "metagross",
+            "url": "https://pokedex.mimo.dev/api/pokemon/376/"
+        },
+        {
+            "name": "regirock",
+            "url": "https://pokedex.mimo.dev/api/pokemon/377/"
+        },
+        {
+            "name": "regice",
+            "url": "https://pokedex.mimo.dev/api/pokemon/378/"
+        },
+        {
+            "name": "registeel",
+            "url": "https://pokedex.mimo.dev/api/pokemon/379/"
+        },
+        {
+            "name": "latias",
+            "url": "https://pokedex.mimo.dev/api/pokemon/380/"
+        },
+        {
+            "name": "latios",
+            "url": "https://pokedex.mimo.dev/api/pokemon/381/"
+        },
+        {
+            "name": "kyogre",
+            "url": "https://pokedex.mimo.dev/api/pokemon/382/"
+        },
+        {
+            "name": "groudon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/383/"
+        },
+        {
+            "name": "rayquaza",
+            "url": "https://pokedex.mimo.dev/api/pokemon/384/"
+        },
+        {
+            "name": "turtwig",
+            "url": "https://pokedex.mimo.dev/api/pokemon/387/"
+        },
+        {
+            "name": "grotle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/388/"
+        },
+        {
+            "name": "torterra",
+            "url": "https://pokedex.mimo.dev/api/pokemon/389/"
+        },
+        {
+            "name": "infernape",
+            "url": "https://pokedex.mimo.dev/api/pokemon/392/"
+        },
+        {
+            "name": "empoleon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/395/"
+        },
+        {
+            "name": "bibarel",
+            "url": "https://pokedex.mimo.dev/api/pokemon/400/"
+        },
+        {
+            "name": "cranidos",
+            "url": "https://pokedex.mimo.dev/api/pokemon/408/"
+        },
+        {
+            "name": "rampardos",
+            "url": "https://pokedex.mimo.dev/api/pokemon/409/"
+        },
+        {
+            "name": "shieldon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/410/"
+        },
+        {
+            "name": "bastiodon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/411/"
+        },
+        {
+            "name": "shellos",
+            "url": "https://pokedex.mimo.dev/api/pokemon/422/"
+        },
+        {
+            "name": "gastrodon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/423/"
+        },
+        {
+            "name": "purugly",
+            "url": "https://pokedex.mimo.dev/api/pokemon/432/"
+        },
+        {
+            "name": "bronzor",
+            "url": "https://pokedex.mimo.dev/api/pokemon/436/"
+        },
+        {
+            "name": "bronzong",
+            "url": "https://pokedex.mimo.dev/api/pokemon/437/"
+        },
+        {
+            "name": "bonsly",
+            "url": "https://pokedex.mimo.dev/api/pokemon/438/"
+        },
+        {
+            "name": "gible",
+            "url": "https://pokedex.mimo.dev/api/pokemon/443/"
+        },
+        {
+            "name": "gabite",
+            "url": "https://pokedex.mimo.dev/api/pokemon/444/"
+        },
+        {
+            "name": "garchomp",
+            "url": "https://pokedex.mimo.dev/api/pokemon/445/"
+        },
+        {
+            "name": "munchlax",
+            "url": "https://pokedex.mimo.dev/api/pokemon/446/"
+        },
+        {
+            "name": "riolu",
+            "url": "https://pokedex.mimo.dev/api/pokemon/447/"
+        },
+        {
+            "name": "lucario",
+            "url": "https://pokedex.mimo.dev/api/pokemon/448/"
+        },
+        {
+            "name": "hippopotas",
+            "url": "https://pokedex.mimo.dev/api/pokemon/449/"
+        },
+        {
+            "name": "hippowdon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/450/"
+        },
+        {
+            "name": "drapion",
+            "url": "https://pokedex.mimo.dev/api/pokemon/452/"
+        },
+        {
+            "name": "croagunk",
+            "url": "https://pokedex.mimo.dev/api/pokemon/453/"
+        },
+        {
+            "name": "toxicroak",
+            "url": "https://pokedex.mimo.dev/api/pokemon/454/"
+        },
+        {
+            "name": "mantyke",
+            "url": "https://pokedex.mimo.dev/api/pokemon/458/"
+        },
+        {
+            "name": "abomasnow",
+            "url": "https://pokedex.mimo.dev/api/pokemon/460/"
+        },
+        {
+            "name": "lickilicky",
+            "url": "https://pokedex.mimo.dev/api/pokemon/463/"
+        },
+        {
+            "name": "rhyperior",
+            "url": "https://pokedex.mimo.dev/api/pokemon/464/"
+        },
+        {
+            "name": "tangrowth",
+            "url": "https://pokedex.mimo.dev/api/pokemon/465/"
+        },
+        {
+            "name": "electivire",
+            "url": "https://pokedex.mimo.dev/api/pokemon/466/"
+        },
+        {
+            "name": "magmortar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/467/"
+        },
+        {
+            "name": "gliscor",
+            "url": "https://pokedex.mimo.dev/api/pokemon/472/"
+        },
+        {
+            "name": "mamoswine",
+            "url": "https://pokedex.mimo.dev/api/pokemon/473/"
+        },
+        {
+            "name": "gallade",
+            "url": "https://pokedex.mimo.dev/api/pokemon/475/"
+        },
+        {
+            "name": "probopass",
+            "url": "https://pokedex.mimo.dev/api/pokemon/476/"
+        },
+        {
+            "name": "dusknoir",
+            "url": "https://pokedex.mimo.dev/api/pokemon/477/"
+        },
+        {
+            "name": "dialga",
+            "url": "https://pokedex.mimo.dev/api/pokemon/483/"
+        },
+        {
+            "name": "palkia",
+            "url": "https://pokedex.mimo.dev/api/pokemon/484/"
+        },
+        {
+            "name": "heatran",
+            "url": "https://pokedex.mimo.dev/api/pokemon/485/"
+        },
+        {
+            "name": "regigigas",
+            "url": "https://pokedex.mimo.dev/api/pokemon/486/"
+        },
+        {
+            "name": "giratina-altered",
+            "url": "https://pokedex.mimo.dev/api/pokemon/487/"
+        },
+        {
+            "name": "arceus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/493/"
+        },
+        {
+            "name": "pignite",
+            "url": "https://pokedex.mimo.dev/api/pokemon/499/"
+        },
+        {
+            "name": "emboar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/500/"
+        },
+        {
+            "name": "samurott",
+            "url": "https://pokedex.mimo.dev/api/pokemon/503/"
+        },
+        {
+            "name": "zebstrika",
+            "url": "https://pokedex.mimo.dev/api/pokemon/523/"
+        },
+        {
+            "name": "roggenrola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/524/"
+        },
+        {
+            "name": "boldore",
+            "url": "https://pokedex.mimo.dev/api/pokemon/525/"
+        },
+        {
+            "name": "gigalith",
+            "url": "https://pokedex.mimo.dev/api/pokemon/526/"
+        },
+        {
+            "name": "drilbur",
+            "url": "https://pokedex.mimo.dev/api/pokemon/529/"
+        },
+        {
+            "name": "excadrill",
+            "url": "https://pokedex.mimo.dev/api/pokemon/530/"
+        },
+        {
+            "name": "conkeldurr",
+            "url": "https://pokedex.mimo.dev/api/pokemon/534/"
+        },
+        {
+            "name": "palpitoad",
+            "url": "https://pokedex.mimo.dev/api/pokemon/536/"
+        },
+        {
+            "name": "seismitoad",
+            "url": "https://pokedex.mimo.dev/api/pokemon/537/"
+        },
+        {
+            "name": "throh",
+            "url": "https://pokedex.mimo.dev/api/pokemon/538/"
+        },
+        {
+            "name": "sawk",
+            "url": "https://pokedex.mimo.dev/api/pokemon/539/"
+        },
+        {
+            "name": "scolipede",
+            "url": "https://pokedex.mimo.dev/api/pokemon/545/"
+        },
+        {
+            "name": "sandile",
+            "url": "https://pokedex.mimo.dev/api/pokemon/551/"
+        },
+        {
+            "name": "krokorok",
+            "url": "https://pokedex.mimo.dev/api/pokemon/552/"
+        },
+        {
+            "name": "krookodile",
+            "url": "https://pokedex.mimo.dev/api/pokemon/553/"
+        },
+        {
+            "name": "darmanitan-standard",
+            "url": "https://pokedex.mimo.dev/api/pokemon/555/"
+        },
+        {
+            "name": "dwebble",
+            "url": "https://pokedex.mimo.dev/api/pokemon/557/"
+        },
+        {
+            "name": "crustle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/558/"
+        },
+        {
+            "name": "tirtouga",
+            "url": "https://pokedex.mimo.dev/api/pokemon/564/"
+        },
+        {
+            "name": "carracosta",
+            "url": "https://pokedex.mimo.dev/api/pokemon/565/"
+        },
+        {
+            "name": "archen",
+            "url": "https://pokedex.mimo.dev/api/pokemon/566/"
+        },
+        {
+            "name": "archeops",
+            "url": "https://pokedex.mimo.dev/api/pokemon/567/"
+        },
+        {
+            "name": "deerling",
+            "url": "https://pokedex.mimo.dev/api/pokemon/585/"
+        },
+        {
+            "name": "sawsbuck",
+            "url": "https://pokedex.mimo.dev/api/pokemon/586/"
+        },
+        {
+            "name": "ferrothorn",
+            "url": "https://pokedex.mimo.dev/api/pokemon/598/"
+        },
+        {
+            "name": "eelektross",
+            "url": "https://pokedex.mimo.dev/api/pokemon/604/"
+        },
+        {
+            "name": "axew",
+            "url": "https://pokedex.mimo.dev/api/pokemon/610/"
+        },
+        {
+            "name": "fraxure",
+            "url": "https://pokedex.mimo.dev/api/pokemon/611/"
+        },
+        {
+            "name": "haxorus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/612/"
+        },
+        {
+            "name": "cubchoo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/613/"
+        },
+        {
+            "name": "beartic",
+            "url": "https://pokedex.mimo.dev/api/pokemon/614/"
+        },
+        {
+            "name": "stunfisk",
+            "url": "https://pokedex.mimo.dev/api/pokemon/618/"
+        },
+        {
+            "name": "druddigon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/621/"
+        },
+        {
+            "name": "golett",
+            "url": "https://pokedex.mimo.dev/api/pokemon/622/"
+        },
+        {
+            "name": "golurk",
+            "url": "https://pokedex.mimo.dev/api/pokemon/623/"
+        },
+        {
+            "name": "bouffalant",
+            "url": "https://pokedex.mimo.dev/api/pokemon/626/"
+        },
+        {
+            "name": "hydreigon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/635/"
+        },
+        {
+            "name": "terrakion",
+            "url": "https://pokedex.mimo.dev/api/pokemon/639/"
+        },
+        {
+            "name": "landorus-incarnate",
+            "url": "https://pokedex.mimo.dev/api/pokemon/645/"
+        },
+        {
+            "name": "chespin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/650/"
+        },
+        {
+            "name": "quilladin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/651/"
+        },
+        {
+            "name": "chesnaught",
+            "url": "https://pokedex.mimo.dev/api/pokemon/652/"
+        },
+        {
+            "name": "bunnelby",
+            "url": "https://pokedex.mimo.dev/api/pokemon/659/"
+        },
+        {
+            "name": "diggersby",
+            "url": "https://pokedex.mimo.dev/api/pokemon/660/"
+        },
+        {
+            "name": "litleo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/667/"
+        },
+        {
+            "name": "pyroar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/668/"
+        },
+        {
+            "name": "skiddo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/672/"
+        },
+        {
+            "name": "gogoat",
+            "url": "https://pokedex.mimo.dev/api/pokemon/673/"
+        },
+        {
+            "name": "pancham",
+            "url": "https://pokedex.mimo.dev/api/pokemon/674/"
+        },
+        {
+            "name": "pangoro",
+            "url": "https://pokedex.mimo.dev/api/pokemon/675/"
+        },
+        {
+            "name": "binacle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/688/"
+        },
+        {
+            "name": "barbaracle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/689/"
+        },
+        {
+            "name": "helioptile",
+            "url": "https://pokedex.mimo.dev/api/pokemon/694/"
+        },
+        {
+            "name": "heliolisk",
+            "url": "https://pokedex.mimo.dev/api/pokemon/695/"
+        },
+        {
+            "name": "tyrunt",
+            "url": "https://pokedex.mimo.dev/api/pokemon/696/"
+        },
+        {
+            "name": "tyrantrum",
+            "url": "https://pokedex.mimo.dev/api/pokemon/697/"
+        },
+        {
+            "name": "amaura",
+            "url": "https://pokedex.mimo.dev/api/pokemon/698/"
+        },
+        {
+            "name": "aurorus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/699/"
+        },
+        {
+            "name": "goodra",
+            "url": "https://pokedex.mimo.dev/api/pokemon/706/"
+        },
+        {
+            "name": "phantump",
+            "url": "https://pokedex.mimo.dev/api/pokemon/708/"
+        },
+        {
+            "name": "trevenant",
+            "url": "https://pokedex.mimo.dev/api/pokemon/709/"
+        },
+        {
+            "name": "bergmite",
+            "url": "https://pokedex.mimo.dev/api/pokemon/712/"
+        },
+        {
+            "name": "avalugg",
+            "url": "https://pokedex.mimo.dev/api/pokemon/713/"
+        },
+        {
+            "name": "zygarde-50",
+            "url": "https://pokedex.mimo.dev/api/pokemon/718/"
+        },
+        {
+            "name": "diancie",
+            "url": "https://pokedex.mimo.dev/api/pokemon/719/"
+        },
+        {
+            "name": "volcanion",
+            "url": "https://pokedex.mimo.dev/api/pokemon/721/"
+        },
+        {
+            "name": "incineroar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/727/"
+        },
+        {
+            "name": "yungoos",
+            "url": "https://pokedex.mimo.dev/api/pokemon/734/"
+        },
+        {
+            "name": "gumshoos",
+            "url": "https://pokedex.mimo.dev/api/pokemon/735/"
+        },
+        {
+            "name": "vikavolt",
+            "url": "https://pokedex.mimo.dev/api/pokemon/738/"
+        },
+        {
+            "name": "crabrawler",
+            "url": "https://pokedex.mimo.dev/api/pokemon/739/"
+        },
+        {
+            "name": "crabominable",
+            "url": "https://pokedex.mimo.dev/api/pokemon/740/"
+        },
+        {
+            "name": "rockruff",
+            "url": "https://pokedex.mimo.dev/api/pokemon/744/"
+        },
+        {
+            "name": "lycanroc-midday",
+            "url": "https://pokedex.mimo.dev/api/pokemon/745/"
+        },
+        {
+            "name": "wishiwashi-solo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/746/"
+        },
+        {
+            "name": "mudbray",
+            "url": "https://pokedex.mimo.dev/api/pokemon/749/"
+        },
+        {
+            "name": "mudsdale",
+            "url": "https://pokedex.mimo.dev/api/pokemon/750/"
+        },
+        {
+            "name": "stufful",
+            "url": "https://pokedex.mimo.dev/api/pokemon/759/"
+        },
+        {
+            "name": "bewear",
+            "url": "https://pokedex.mimo.dev/api/pokemon/760/"
+        },
+        {
+            "name": "oranguru",
+            "url": "https://pokedex.mimo.dev/api/pokemon/765/"
+        },
+        {
+            "name": "passimian",
+            "url": "https://pokedex.mimo.dev/api/pokemon/766/"
+        },
+        {
+            "name": "sandygast",
+            "url": "https://pokedex.mimo.dev/api/pokemon/769/"
+        },
+        {
+            "name": "palossand",
+            "url": "https://pokedex.mimo.dev/api/pokemon/770/"
+        },
+        {
+            "name": "minior-red-meteor",
+            "url": "https://pokedex.mimo.dev/api/pokemon/774/"
+        },
+        {
+            "name": "komala",
+            "url": "https://pokedex.mimo.dev/api/pokemon/775/"
+        },
+        {
+            "name": "turtonator",
+            "url": "https://pokedex.mimo.dev/api/pokemon/776/"
+        },
+        {
+            "name": "drampa",
+            "url": "https://pokedex.mimo.dev/api/pokemon/780/"
+        },
+        {
+            "name": "dhelmise",
+            "url": "https://pokedex.mimo.dev/api/pokemon/781/"
+        },
+        {
+            "name": "jangmo-o",
+            "url": "https://pokedex.mimo.dev/api/pokemon/782/"
+        },
+        {
+            "name": "hakamo-o",
+            "url": "https://pokedex.mimo.dev/api/pokemon/783/"
+        },
+        {
+            "name": "kommo-o",
+            "url": "https://pokedex.mimo.dev/api/pokemon/784/"
+        },
+        {
+            "name": "solgaleo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/791/"
+        },
+        {
+            "name": "buzzwole",
+            "url": "https://pokedex.mimo.dev/api/pokemon/794/"
+        },
+        {
+            "name": "celesteela",
+            "url": "https://pokedex.mimo.dev/api/pokemon/797/"
+        },
+        {
+            "name": "guzzlord",
+            "url": "https://pokedex.mimo.dev/api/pokemon/799/"
+        },
+        {
+            "name": "necrozma",
+            "url": "https://pokedex.mimo.dev/api/pokemon/800/"
+        },
+        {
+            "name": "stakataka",
+            "url": "https://pokedex.mimo.dev/api/pokemon/805/"
+        },
+        {
+            "name": "rillaboom",
+            "url": "https://pokedex.mimo.dev/api/pokemon/812/"
+        },
+        {
+            "name": "greedent",
+            "url": "https://pokedex.mimo.dev/api/pokemon/820/"
+        },
+        {
+            "name": "drednaw",
+            "url": "https://pokedex.mimo.dev/api/pokemon/834/"
+        },
+        {
+            "name": "rolycoly",
+            "url": "https://pokedex.mimo.dev/api/pokemon/837/"
+        },
+        {
+            "name": "carkol",
+            "url": "https://pokedex.mimo.dev/api/pokemon/838/"
+        },
+        {
+            "name": "coalossal",
+            "url": "https://pokedex.mimo.dev/api/pokemon/839/"
+        },
+        {
+            "name": "appletun",
+            "url": "https://pokedex.mimo.dev/api/pokemon/842/"
+        },
+        {
+            "name": "silicobra",
+            "url": "https://pokedex.mimo.dev/api/pokemon/843/"
+        },
+        {
+            "name": "sandaconda",
+            "url": "https://pokedex.mimo.dev/api/pokemon/844/"
+        },
+        {
+            "name": "cursola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/864/"
+        },
+        {
+            "name": "runerigus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/867/"
+        },
+        {
+            "name": "stonjourner",
+            "url": "https://pokedex.mimo.dev/api/pokemon/874/"
+        },
+        {
+            "name": "cufant",
+            "url": "https://pokedex.mimo.dev/api/pokemon/878/"
+        },
+        {
+            "name": "copperajah",
+            "url": "https://pokedex.mimo.dev/api/pokemon/879/"
+        },
+        {
+            "name": "dracozolt",
+            "url": "https://pokedex.mimo.dev/api/pokemon/880/"
+        },
+        {
+            "name": "arctozolt",
+            "url": "https://pokedex.mimo.dev/api/pokemon/881/"
+        },
+        {
+            "name": "dracovish",
+            "url": "https://pokedex.mimo.dev/api/pokemon/882/"
+        },
+        {
+            "name": "glastrier",
+            "url": "https://pokedex.mimo.dev/api/pokemon/896/"
+        },
+        {
+            "name": "spectrier",
+            "url": "https://pokedex.mimo.dev/api/pokemon/897/"
+        },
+        {
+            "name": "wyrdeer",
+            "url": "https://pokedex.mimo.dev/api/pokemon/899/"
+        },
+        {
+            "name": "ursaluna",
+            "url": "https://pokedex.mimo.dev/api/pokemon/901/"
+        },
+        {
+            "name": "lechonk",
+            "url": "https://pokedex.mimo.dev/api/pokemon/915/"
+        },
+        {
+            "name": "oinkologne",
+            "url": "https://pokedex.mimo.dev/api/pokemon/916/"
+        },
+        {
+            "name": "nacli",
+            "url": "https://pokedex.mimo.dev/api/pokemon/932/"
+        },
+        {
+            "name": "naclstack",
+            "url": "https://pokedex.mimo.dev/api/pokemon/933/"
+        },
+        {
+            "name": "garganacl",
+            "url": "https://pokedex.mimo.dev/api/pokemon/934/"
+        },
+        {
+            "name": "klawf",
+            "url": "https://pokedex.mimo.dev/api/pokemon/950/"
+        },
+        {
+            "name": "tinkaton",
+            "url": "https://pokedex.mimo.dev/api/pokemon/959/"
+        },
+        {
+            "name": "wiglett",
+            "url": "https://pokedex.mimo.dev/api/pokemon/960/"
+        },
+        {
+            "name": "wugtrio",
+            "url": "https://pokedex.mimo.dev/api/pokemon/961/"
+        },
+        {
+            "name": "varoom",
+            "url": "https://pokedex.mimo.dev/api/pokemon/965/"
+        },
+        {
+            "name": "revavroom",
+            "url": "https://pokedex.mimo.dev/api/pokemon/966/"
+        },
+        {
+            "name": "orthworm",
+            "url": "https://pokedex.mimo.dev/api/pokemon/968/"
+        },
+        {
+            "name": "greavard",
+            "url": "https://pokedex.mimo.dev/api/pokemon/971/"
+        },
+        {
+            "name": "houndstone",
+            "url": "https://pokedex.mimo.dev/api/pokemon/972/"
+        },
+        {
+            "name": "cetoddle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/974/"
+        },
+        {
+            "name": "cetitan",
+            "url": "https://pokedex.mimo.dev/api/pokemon/975/"
+        },
+        {
+            "name": "dondozo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/977/"
+        },
+        {
+            "name": "annihilape",
+            "url": "https://pokedex.mimo.dev/api/pokemon/979/"
+        },
+        {
+            "name": "clodsire",
+            "url": "https://pokedex.mimo.dev/api/pokemon/980/"
+        },
+        {
+            "name": "farigiraf",
+            "url": "https://pokedex.mimo.dev/api/pokemon/981/"
+        },
+        {
+            "name": "dudunsparce",
+            "url": "https://pokedex.mimo.dev/api/pokemon/982/"
+        },
+        {
+            "name": "great-tusk",
+            "url": "https://pokedex.mimo.dev/api/pokemon/984/"
+        },
+        {
+            "name": "sandy-shocks",
+            "url": "https://pokedex.mimo.dev/api/pokemon/989/"
+        },
+        {
+            "name": "iron-treads",
+            "url": "https://pokedex.mimo.dev/api/pokemon/990/"
+        },
+        {
+            "name": "iron-hands",
+            "url": "https://pokedex.mimo.dev/api/pokemon/992/"
+        },
+        {
+            "name": "iron-thorns",
+            "url": "https://pokedex.mimo.dev/api/pokemon/995/"
+        },
+        {
+            "name": "baxcalibur",
+            "url": "https://pokedex.mimo.dev/api/pokemon/998/"
+        },
+        {
+            "name": "ting-lu",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1003/"
+        },
+        {
+            "name": "koraidon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1007/"
+        },
+        {
+            "name": "gouging-fire",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1020/"
+        },
+        {
+            "name": "iron-boulder",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1022/"
+        },
+        {
+            "name": "iron-crown",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1023/"
+        },
+        {
+            "name": "wormadam-sandy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10004/"
+        },
+        {
+            "name": "wormadam-trash",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10005/"
+        },
+        {
+            "name": "giratina-origin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10007/"
+        },
+        {
+            "name": "darmanitan-zen",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10017/"
+        },
+        {
+            "name": "landorus-therian",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10021/"
+        },
+        {
+            "name": "venusaur-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10033/"
+        },
+        {
+            "name": "charizard-mega-x",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10034/"
+        },
+        {
+            "name": "charizard-mega-y",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10035/"
+        },
+        {
+            "name": "blastoise-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10036/"
+        },
+        {
+            "name": "kangaskhan-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10039/"
+        },
+        {
+            "name": "pinsir-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10040/"
+        },
+        {
+            "name": "gyarados-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10041/"
+        },
+        {
+            "name": "aerodactyl-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10042/"
+        },
+        {
+            "name": "mewtwo-mega-x",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10043/"
+        },
+        {
+            "name": "mewtwo-mega-y",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10044/"
+        },
+        {
+            "name": "ampharos-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10045/"
+        },
+        {
+            "name": "heracross-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10047/"
+        },
+        {
+            "name": "tyranitar-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10049/"
+        },
+        {
+            "name": "blaziken-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10050/"
+        },
+        {
+            "name": "aggron-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10053/"
+        },
+        {
+            "name": "garchomp-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10058/"
+        },
+        {
+            "name": "lucario-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10059/"
+        },
+        {
+            "name": "abomasnow-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10060/"
+        },
+        {
+            "name": "latias-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10062/"
+        },
+        {
+            "name": "latios-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10063/"
+        },
+        {
+            "name": "swampert-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10064/"
+        },
+        {
+            "name": "sceptile-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10065/"
+        },
+        {
+            "name": "altaria-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10067/"
+        },
+        {
+            "name": "gallade-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10068/"
+        },
+        {
+            "name": "sharpedo-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10070/"
+        },
+        {
+            "name": "slowbro-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10071/"
+        },
+        {
+            "name": "steelix-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10072/"
+        },
+        {
+            "name": "glalie-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10074/"
+        },
+        {
+            "name": "metagross-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10076/"
+        },
+        {
+            "name": "kyogre-primal",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10077/"
+        },
+        {
+            "name": "groudon-primal",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10078/"
+        },
+        {
+            "name": "rayquaza-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10079/"
+        },
+        {
+            "name": "camerupt-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10087/"
+        },
+        {
+            "name": "salamence-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10089/"
+        },
+        {
+            "name": "sandshrew-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10101/"
+        },
+        {
+            "name": "sandslash-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10102/"
+        },
+        {
+            "name": "diglett-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10105/"
+        },
+        {
+            "name": "dugtrio-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10106/"
+        },
+        {
+            "name": "geodude-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10109/"
+        },
+        {
+            "name": "graveler-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10110/"
+        },
+        {
+            "name": "golem-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10111/"
+        },
+        {
+            "name": "exeggutor-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10114/"
+        },
+        {
+            "name": "marowak-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10115/"
+        },
+        {
+            "name": "zygarde-10-power-construct",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10118/"
+        },
+        {
+            "name": "zygarde-50-power-construct",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10119/"
+        },
+        {
+            "name": "zygarde-complete",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10120/"
+        },
+        {
+            "name": "gumshoos-totem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10121/"
+        },
+        {
+            "name": "lycanroc-midnight",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10126/"
+        },
+        {
+            "name": "wishiwashi-school",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10127/"
+        },
+        {
+            "name": "minior-orange-meteor",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10130/"
+        },
+        {
+            "name": "minior-yellow-meteor",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10131/"
+        },
+        {
+            "name": "minior-green-meteor",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10132/"
+        },
+        {
+            "name": "minior-blue-meteor",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10133/"
+        },
+        {
+            "name": "minior-indigo-meteor",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10134/"
+        },
+        {
+            "name": "minior-violet-meteor",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10135/"
+        },
+        {
+            "name": "minior-red",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10136/"
+        },
+        {
+            "name": "minior-orange",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10137/"
+        },
+        {
+            "name": "minior-yellow",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10138/"
+        },
+        {
+            "name": "minior-green",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10139/"
+        },
+        {
+            "name": "minior-blue",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10140/"
+        },
+        {
+            "name": "minior-indigo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10141/"
+        },
+        {
+            "name": "minior-violet",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10142/"
+        },
+        {
+            "name": "kommo-o-totem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10146/"
+        },
+        {
+            "name": "marowak-totem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10149/"
+        },
+        {
+            "name": "rockruff-own-tempo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10151/"
+        },
+        {
+            "name": "lycanroc-dusk",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10152/"
+        },
+        {
+            "name": "necrozma-dusk",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10155/"
+        },
+        {
+            "name": "necrozma-dawn",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10156/"
+        },
+        {
+            "name": "necrozma-ultra",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10157/"
+        },
+        {
+            "name": "slowpoke-galar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10164/"
+        },
+        {
+            "name": "slowbro-galar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10165/"
+        },
+        {
+            "name": "slowking-galar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10172/"
+        },
+        {
+            "name": "corsola-galar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10173/"
+        },
+        {
+            "name": "darmanitan-galar-standard",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10177/"
+        },
+        {
+            "name": "darmanitan-galar-zen",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10178/"
+        },
+        {
+            "name": "stunfisk-galar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10180/"
+        },
+        {
+            "name": "zygarde-10",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10181/"
+        },
+        {
+            "name": "calyrex-ice",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10193/"
+        },
+        {
+            "name": "calyrex-shadow",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10194/"
+        },
+        {
+            "name": "arcanine-hisui",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10230/"
+        },
+        {
+            "name": "typhlosion-hisui",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10233/"
+        },
+        {
+            "name": "samurott-hisui",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10236/"
+        },
+        {
+            "name": "goodra-hisui",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10242/"
+        },
+        {
+            "name": "avalugg-hisui",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10243/"
+        },
+        {
+            "name": "dialga-origin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10245/"
+        },
+        {
+            "name": "palkia-origin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10246/"
+        },
+        {
+            "name": "tauros-paldea-combat-breed",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10250/"
+        },
+        {
+            "name": "tauros-paldea-blaze-breed",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10251/"
+        },
+        {
+            "name": "tauros-paldea-aqua-breed",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10252/"
+        },
+        {
+            "name": "wooper-paldea",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10253/"
+        },
+        {
+            "name": "oinkologne-female",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10254/"
+        },
+        {
+            "name": "dudunsparce-three-segment",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10255/"
+        },
+        {
+            "name": "koraidon-limited-build",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10264/"
+        },
+        {
+            "name": "koraidon-sprinting-build",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10265/"
+        },
+        {
+            "name": "koraidon-swimming-build",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10266/"
+        },
+        {
+            "name": "koraidon-gliding-build",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10267/"
+        },
+        {
+            "name": "ursaluna-bloodmoon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10272/"
+        }
+    ],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1285/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "https://pokedex.mimo.dev/api/version-group/11/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1286/"
+            },
+            "version_group": {
+                "name": "black-2-white-2",
+                "url": "https://pokedex.mimo.dev/api/version-group/14/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1287/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1288/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1289/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1290/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1321/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        }
+    ],
+    "meta": {
+        "ailment": {
+            "name": "none",
+            "url": "https://pokedex.mimo.dev/api/move-ailment/0/"
+        },
+        "ailment_chance": 0,
+        "category": {
+            "name": "damage+lower",
+            "url": "https://pokedex.mimo.dev/api/move-category/6/"
+        },
+        "crit_rate": 0,
+        "drain": 0,
+        "flinch_chance": 0,
+        "healing": 0,
+        "max_hits": null,
+        "max_turns": null,
+        "min_hits": null,
+        "min_turns": null,
+        "stat_chance": 100
+    },
+    "name": "bulldoze",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u3058\u306a\u3089\u3057"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\ub545\uace0\ub974\uae30"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u91cd\u8e0f"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Pi\u00e9tisol"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Dampfwalze"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Terratemblor"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Battiterra"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Bulldoze"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u3058\u306a\u3089\u3057"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u91cd\u8e0f"
+        }
+    ],
+    "past_values": [],
+    "power": 60,
+    "pp": 20,
+    "priority": 0,
+    "stat_changes": [
+        {
+            "change": -1,
+            "stat": {
+                "name": "speed",
+                "url": "https://pokedex.mimo.dev/api/stat/6/"
+            }
+        }
+    ],
+    "super_contest_effect": null,
+    "target": {
+        "name": "all-other-pokemon",
+        "url": "https://pokedex.mimo.dev/api/move-target/9/"
+    },
+    "type": {
+        "name": "ground",
+        "url": "https://pokedex.mimo.dev/api/type/5/"
+    }
+}

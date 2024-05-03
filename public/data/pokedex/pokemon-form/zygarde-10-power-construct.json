@@ -1,0 +1,139 @@
+{
+    "form_name": "10-power-construct",
+    "form_names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\uff11\uff10\uff05\u30d5\u30a9\u30eb\u30e0"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "10%\ud3fc"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\uff11\uff10\uff05\u5f62\u614b"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Forme 10 %"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "10%-Form"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Forma 10%"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Forma 10%"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "10% Forme"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\uff11\uff10\uff05\u30d5\u30a9\u30eb\u30e0"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\uff11\uff10\uff05\u5f62\u6001"
+        }
+    ],
+    "form_order": 3,
+    "id": 10220,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "zygarde-10-power-construct",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Zygarde Forme 10 %"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Zygarde (10%)"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "10% Zygarde"
+        }
+    ],
+    "order": 1002,
+    "pokemon": {
+        "name": "zygarde-10-power-construct",
+        "url": "https://pokedex.mimo.dev/api/pokemon/10118/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/10118.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/10118.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/10118.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/10118.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "dragon",
+                "url": "https://pokedex.mimo.dev/api/type/16/"
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "ground",
+                "url": "https://pokedex.mimo.dev/api/type/5/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "sun-moon",
+        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+    }
+}

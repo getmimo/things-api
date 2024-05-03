@@ -1,0 +1,139 @@
+{
+    "form_name": "dusk",
+    "form_names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u305f\u305d\u304c\u308c\u306e\u305f\u3066\u304c\u307f"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\ud669\ud63c\uc758 \uac08\uae30"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u9ec3\u660f\u4e4b\u9b03"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Crini\u00e8re du Couchant"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Abendm\u00e4hne"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Melena Crepuscular"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Criniera del Vespro"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Dusk Mane"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u305f\u305d\u304c\u308c\u306e\u305f\u3066\u304c\u307f"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u9ec4\u660f\u4e4b\u9b03"
+        }
+    ],
+    "form_order": 2,
+    "id": 10314,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "necrozma-dusk",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Necrozma Crini\u00e8re du Couchant"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Necrozma (Abendm\u00e4hne)"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Dusk Necrozma"
+        }
+    ],
+    "order": 1137,
+    "pokemon": {
+        "name": "necrozma-dusk",
+        "url": "https://pokedex.mimo.dev/api/pokemon/10155/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/10155.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/10155.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/10155.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/10155.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "psychic",
+                "url": "https://pokedex.mimo.dev/api/type/14/"
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "steel",
+                "url": "https://pokedex.mimo.dev/api/type/9/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+    }
+}

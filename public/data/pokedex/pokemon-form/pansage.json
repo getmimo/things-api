@@ -1,0 +1,39 @@
+{
+    "form_name": "",
+    "form_names": [],
+    "form_order": 1,
+    "id": 511,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "pansage",
+    "names": [],
+    "order": 679,
+    "pokemon": {
+        "name": "pansage",
+        "url": "https://pokedex.mimo.dev/api/pokemon/511/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/511.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/511.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/511.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/511.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "grass",
+                "url": "https://pokedex.mimo.dev/api/type/12/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "black-white",
+        "url": "https://pokedex.mimo.dev/api/version-group/11/"
+    }
+}

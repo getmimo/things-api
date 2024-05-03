@@ -1,0 +1,3840 @@
+{
+    "encounter_method_rates": [],
+    "game_index": 84,
+    "id": 629,
+    "location": {
+        "name": "unova-route-6",
+        "url": "https://pokedex.mimo.dev/api/location/361/"
+    },
+    "name": "unova-route-6-area",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Road 6"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Route 6"
+        }
+    ],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "poliwag",
+                "url": "https://pokedex.mimo.dev/api/pokemon/60/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 55,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 55,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 55,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 35
+                        }
+                    ],
+                    "max_chance": 45,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 55,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 55,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 55,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 35
+                        }
+                    ],
+                    "max_chance": 45,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 60,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 60,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "poliwhirl",
+                "url": "https://pokedex.mimo.dev/api/pokemon/61/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 55,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 35
+                        }
+                    ],
+                    "max_chance": 70,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 55,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 35
+                        }
+                    ],
+                    "max_chance": 70,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 55,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 55,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "marill",
+                "url": "https://pokedex.mimo.dev/api/pokemon/183/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 28,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 28
+                        },
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 28,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 28
+                        },
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 35,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "azumarill",
+                "url": "https://pokedex.mimo.dev/api/pokemon/184/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 35,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 35,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "politoed",
+                "url": "https://pokedex.mimo.dev/api/pokemon/186/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 45
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 45
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 45
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 45
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "dunsparce",
+                "url": "https://pokedex.mimo.dev/api/pokemon/206/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "castform",
+                "url": "https://pokedex.mimo.dev/api/pokemon/351/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "tranquill",
+                "url": "https://pokedex.mimo.dev/api/pokemon/520/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 90,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 90,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "unfezant",
+                "url": "https://pokedex.mimo.dev/api/pokemon/521/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-spring",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-summer",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-autumn",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "audino",
+                "url": "https://pokedex.mimo.dev/api/pokemon/531/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 22,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 22
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 24,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 24
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 75,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 22,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 22
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 24,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 24
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 75,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 24,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 24
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 50,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 24,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 24
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 50,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "swadloon",
+                "url": "https://pokedex.mimo.dev/api/pokemon/541/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "leavanny",
+                "url": "https://pokedex.mimo.dev/api/pokemon/542/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "basculin-red-striped",
+                "url": "https://pokedex.mimo.dev/api/pokemon/550/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 55,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        }
+                    ],
+                    "max_chance": 140,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        }
+                    ],
+                    "max_chance": 140,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        }
+                    ],
+                    "max_chance": 110,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 35,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 35,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        }
+                    ],
+                    "max_chance": 75,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "vanillite",
+                "url": "https://pokedex.mimo.dev/api/pokemon/582/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "season-winter",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+                                }
+                            ],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "deerling",
+                "url": "https://pokedex.mimo.dev/api/pokemon/585/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 28,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 28
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 22,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 22
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 24,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 24
+                        }
+                    ],
+                    "max_chance": 70,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 28,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 28
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 22,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 22
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 24,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 24
+                        }
+                    ],
+                    "max_chance": 70,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 28,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 28
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 60,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 28,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 28
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 60,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "emolga",
+                "url": "https://pokedex.mimo.dev/api/pokemon/587/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 24,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 24
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 24,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 24
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "grass-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/9/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "karrablast",
+                "url": "https://pokedex.mimo.dev/api/pokemon/588/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 28,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 28
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 22,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 22
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 24,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 24
+                        }
+                    ],
+                    "max_chance": 50,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 28,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 28
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 22,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 22
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 24,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 24
+                        }
+                    ],
+                    "max_chance": 50,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 50,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "foongus",
+                "url": "https://pokedex.mimo.dev/api/pokemon/590/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 27,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 27
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 25
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "shelmet",
+                "url": "https://pokedex.mimo.dev/api/pokemon/616/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 50,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 26,
+                            "method": {
+                                "name": "dark-grass",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/8/"
+                            },
+                            "min_level": 26
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 23,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 23
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "basculin-blue-striped",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10016/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        }
+                    ],
+                    "max_chance": 140,
+                    "version": {
+                        "name": "black",
+                        "url": "https://pokedex.mimo.dev/api/version/17/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 55,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 35
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 25,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        }
+                    ],
+                    "max_chance": 140,
+                    "version": {
+                        "name": "white",
+                        "url": "https://pokedex.mimo.dev/api/version/18/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 10
+                        }
+                    ],
+                    "max_chance": 75,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 10
+                        }
+                    ],
+                    "max_chance": 110,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        }
+    ]
+}

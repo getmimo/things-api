@@ -1,0 +1,57 @@
+{
+    "generation": {
+        "name": "generation-v",
+        "url": "https://pokedex.mimo.dev/api/generation/5/"
+    },
+    "id": 14,
+    "move_learn_methods": [
+        {
+            "name": "level-up",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+        },
+        {
+            "name": "egg",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/2/"
+        },
+        {
+            "name": "tutor",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+        },
+        {
+            "name": "machine",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+        },
+        {
+            "name": "light-ball-egg",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/6/"
+        },
+        {
+            "name": "form-change",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/10/"
+        }
+    ],
+    "name": "black-2-white-2",
+    "order": 14,
+    "pokedexes": [
+        {
+            "name": "updated-unova",
+            "url": "https://pokedex.mimo.dev/api/pokedex/9/"
+        }
+    ],
+    "regions": [
+        {
+            "name": "unova",
+            "url": "https://pokedex.mimo.dev/api/region/5/"
+        }
+    ],
+    "versions": [
+        {
+            "name": "black-2",
+            "url": "https://pokedex.mimo.dev/api/version/21/"
+        },
+        {
+            "name": "white-2",
+            "url": "https://pokedex.mimo.dev/api/version/22/"
+        }
+    ]
+}

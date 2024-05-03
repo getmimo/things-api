@@ -1,0 +1,182 @@
+{
+    "base_happiness": 50,
+    "capture_rate": 10,
+    "color": {
+        "name": "green",
+        "url": "https://pokedex.mimo.dev/api/pokemon-color/5/"
+    },
+    "egg_groups": [],
+    "evolution_chain": {
+        "url": "https://pokedex.mimo.dev/api/evolution-chain/442/"
+    },
+    "evolves_from_species": {
+        "name": "dipplin",
+        "url": "https://pokedex.mimo.dev/api/pokemon-species/1011/"
+    },
+    "flavor_text_entries": [
+        {
+            "flavor_text": "Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version": {
+                "name": "scarlet",
+                "url": "https://pokedex.mimo.dev/api/version/40/"
+            }
+        },
+        {
+            "flavor_text": "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version": {
+                "name": "violet",
+                "url": "https://pokedex.mimo.dev/api/version/41/"
+            }
+        }
+    ],
+    "form_descriptions": [],
+    "forms_switchable": false,
+    "gender_rate": 4,
+    "genera": [
+        {
+            "genus": "\u308a\u3093\u3054\u30aa\u30ed\u30c1\u30dd\u30b1\u30e2\u30f3",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            }
+        },
+        {
+            "genus": "Apple Hydra Pok\u00e9mon",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            }
+        },
+        {
+            "genus": "\u308a\u3093\u3054\u30aa\u30ed\u30c1\u30dd\u30b1\u30e2\u30f3",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-ix",
+        "url": "https://pokedex.mimo.dev/api/generation/9/"
+    },
+    "growth_rate": {
+        "name": "slow-then-very-fast",
+        "url": "https://pokedex.mimo.dev/api/growth-rate/5/"
+    },
+    "habitat": null,
+    "has_gender_differences": false,
+    "hatch_counter": 20,
+    "id": 1019,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "name": "hydrapple",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30ab\u30df\u30c4\u30aa\u30ed\u30c1"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uacfc\ubbf8\ub4dc\ub77c"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u871c\u96c6\u5927\u86c7"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Pomdorochi"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Hydrapfel"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Hydrapple"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Hydrapple"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Hydrapple"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u30ab\u30df\u30c4\u30aa\u30ed\u30c1"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u871c\u96c6\u5927\u86c7"
+        }
+    ],
+    "order": 1021,
+    "pal_park_encounters": [],
+    "pokedex_numbers": [
+        {
+            "entry_number": 1019,
+            "pokedex": {
+                "name": "national",
+                "url": "https://pokedex.mimo.dev/api/pokedex/1/"
+            }
+        },
+        {
+            "entry_number": 163,
+            "pokedex": {
+                "name": "blueberry",
+                "url": "https://pokedex.mimo.dev/api/pokedex/33/"
+            }
+        }
+    ],
+    "shape": null,
+    "varieties": [
+        {
+            "is_default": true,
+            "pokemon": {
+                "name": "hydrapple",
+                "url": "https://pokedex.mimo.dev/api/pokemon/1019/"
+            }
+        }
+    ]
+}

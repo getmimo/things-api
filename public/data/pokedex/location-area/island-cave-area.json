@@ -1,0 +1,93 @@
+{
+    "encounter_method_rates": [],
+    "game_index": 0,
+    "id": 811,
+    "location": {
+        "name": "island-cave",
+        "url": "https://pokedex.mimo.dev/api/location/581/"
+    },
+    "name": "island-cave-area",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Island Cave"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Grotte de l\u2019\u00celot"
+        }
+    ],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "regice",
+                "url": "https://pokedex.mimo.dev/api/pokemon/378/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 40,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 40
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ruby",
+                        "url": "https://pokedex.mimo.dev/api/version/7/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 40,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 40
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "sapphire",
+                        "url": "https://pokedex.mimo.dev/api/version/8/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 40,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 40
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "emerald",
+                        "url": "https://pokedex.mimo.dev/api/version/9/"
+                    }
+                }
+            ]
+        }
+    ]
+}

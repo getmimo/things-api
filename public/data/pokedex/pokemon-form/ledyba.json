@@ -1,0 +1,46 @@
+{
+    "form_name": "",
+    "form_names": [],
+    "form_order": 1,
+    "id": 165,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "ledyba",
+    "names": [],
+    "order": 263,
+    "pokemon": {
+        "name": "ledyba",
+        "url": "https://pokedex.mimo.dev/api/pokemon/165/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/165.png",
+        "back_female": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/female/165.png",
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/165.png",
+        "back_shiny_female": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/female/165.png",
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/165.png",
+        "front_female": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/female/165.png",
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/165.png",
+        "front_shiny_female": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/female/165.png"
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "bug",
+                "url": "https://pokedex.mimo.dev/api/type/7/"
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "flying",
+                "url": "https://pokedex.mimo.dev/api/type/3/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "gold-silver",
+        "url": "https://pokedex.mimo.dev/api/version-group/3/"
+    }
+}

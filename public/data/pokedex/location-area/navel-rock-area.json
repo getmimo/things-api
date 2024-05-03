@@ -1,0 +1,158 @@
+{
+    "encounter_method_rates": [],
+    "game_index": 0,
+    "id": 807,
+    "location": {
+        "name": "navel-rock",
+        "url": "https://pokedex.mimo.dev/api/location/811/"
+    },
+    "name": "navel-rock-area",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Navel Rock"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Roc Nombri"
+        }
+    ],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "lugia",
+                "url": "https://pokedex.mimo.dev/api/pokemon/249/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 70
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "emerald",
+                        "url": "https://pokedex.mimo.dev/api/version/9/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 70
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "firered",
+                        "url": "https://pokedex.mimo.dev/api/version/10/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 70
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "leafgreen",
+                        "url": "https://pokedex.mimo.dev/api/version/11/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "ho-oh",
+                "url": "https://pokedex.mimo.dev/api/pokemon/250/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 70
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "emerald",
+                        "url": "https://pokedex.mimo.dev/api/version/9/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 70
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "firered",
+                        "url": "https://pokedex.mimo.dev/api/version/10/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 70
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "leafgreen",
+                        "url": "https://pokedex.mimo.dev/api/version/11/"
+                    }
+                }
+            ]
+        }
+    ]
+}

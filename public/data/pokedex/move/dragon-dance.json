@@ -1,0 +1,1253 @@
+{
+    "accuracy": null,
+    "contest_combos": {
+        "normal": {
+            "use_after": [
+                {
+                    "name": "dragon-rage",
+                    "url": "https://pokedex.mimo.dev/api/move/82/"
+                },
+                {
+                    "name": "dragon-breath",
+                    "url": "https://pokedex.mimo.dev/api/move/225/"
+                }
+            ],
+            "use_before": [
+                {
+                    "name": "dragon-rage",
+                    "url": "https://pokedex.mimo.dev/api/move/82/"
+                },
+                {
+                    "name": "dragon-breath",
+                    "url": "https://pokedex.mimo.dev/api/move/225/"
+                },
+                {
+                    "name": "dragon-claw",
+                    "url": "https://pokedex.mimo.dev/api/move/337/"
+                }
+            ]
+        },
+        "super": {
+            "use_after": null,
+            "use_before": null
+        }
+    },
+    "contest_effect": {
+        "url": "https://pokedex.mimo.dev/api/contest-effect/32/"
+    },
+    "contest_type": {
+        "name": "cool",
+        "url": "https://pokedex.mimo.dev/api/contest-type/1/"
+    },
+    "damage_class": {
+        "name": "status",
+        "url": "https://pokedex.mimo.dev/api/move-damage-class/1/"
+    },
+    "effect_chance": null,
+    "effect_changes": [],
+    "effect_entries": [
+        {
+            "effect": "Raises the user's Attack and Speed by one stage each.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "short_effect": "Raises the user's Attack and Speed by one stage."
+        }
+    ],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "A mystical dance that ups\nATTACK and SPEED.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "ruby-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/5/"
+            }
+        },
+        {
+            "flavor_text": "A mystical dance that ups\nATTACK and SPEED.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "emerald",
+                "url": "https://pokedex.mimo.dev/api/version-group/6/"
+            }
+        },
+        {
+            "flavor_text": "A mystic, powerful\ndance that boosts\nthe user\u2019s ATTACK\nand SPEED stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "firered-leafgreen",
+                "url": "https://pokedex.mimo.dev/api/version-group/7/"
+            }
+        },
+        {
+            "flavor_text": "The user vigorously\nperforms a mystic,\npowerful dance that\nboosts its Attack and\nSpeed stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "diamond-pearl",
+                "url": "https://pokedex.mimo.dev/api/version-group/8/"
+            }
+        },
+        {
+            "flavor_text": "The user vigorously\nperforms a mystic,\npowerful dance that\nboosts its Attack and\nSpeed stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "platinum",
+                "url": "https://pokedex.mimo.dev/api/version-group/9/"
+            }
+        },
+        {
+            "flavor_text": "The user vigorously\nperforms a mystic,\npowerful dance that\nboosts its Attack and\nSpeed stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "heartgold-soulsilver",
+                "url": "https://pokedex.mimo.dev/api/version-group/10/"
+            }
+        },
+        {
+            "flavor_text": "Une danse mystique dont le rythme\neffr\u00e9n\u00e9 augmente l\u2019Attaque et la\nVitesse du lanceur.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "https://pokedex.mimo.dev/api/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "The user vigorously performs a mystic,\npowerful dance that boosts its Attack and\nSpeed stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "https://pokedex.mimo.dev/api/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "The user vigorously performs a mystic,\npowerful dance that boosts its Attack and\nSpeed stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "black-2-white-2",
+                "url": "https://pokedex.mimo.dev/api/version-group/14/"
+            }
+        },
+        {
+            "flavor_text": "\u3057\u3093\u3074\u3066\u304d\u3067\u3000\u3061\u304b\u3089\u3065\u3088\u3044\u3000\u307e\u3044\u3092\n\u306f\u3052\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u3058\u3076\u3093\u306e\n\u3053\u3046\u3052\u304d\u3068\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\uc2e0\ube44\ub86d\uace0 \ud798\uc13c \ucda4\uc744\n\uaca9\ub82c\ud558\uac8c \ucd98\ub2e4. \uc790\uc2e0\uc758\n\uacf5\uaca9\uacfc \uc2a4\ud53c\ub4dc\ub97c \uc62c\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Une danse mystique dont le rythme effr\u00e9n\u00e9\naugmente l\u2019Attaque et la Vitesse du lanceur.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Ein mystischer Tanz, der den\nAngriffs- und Initiative-Wert erh\u00f6ht.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Danza m\u00edstica que sube el Ataque y la Velocidad.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Danza mistica e vigorosa che aumenta l\u2019Attacco\ne la Velocit\u00e0 di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "The user vigorously performs a mystic,\npowerful dance that raises its Attack and\nSpeed stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u795e\u79d8\u7684\u3067\u3000\u529b\u5f37\u3044\u3000\u821e\u3092\n\u6fc0\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u81ea\u5206\u306e\n\u653b\u6483\u3068\u3000\u7d20\u65e9\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u3057\u3093\u3074\u3066\u304d\u3067\u3000\u3061\u304b\u3089\u3065\u3088\u3044\u3000\u307e\u3044\u3092\n\u306f\u3052\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u3058\u3076\u3093\u306e\n\u3053\u3046\u3052\u304d\u3068\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\uc2e0\ube44\ub86d\uace0 \ud798\uc13c \ucda4\uc744\n\uaca9\ub82c\ud558\uac8c \ucd98\ub2e4. \uc790\uc2e0\uc758\n\uacf5\uaca9\uacfc \uc2a4\ud53c\ub4dc\ub97c \uc62c\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Une danse mystique dont le rythme effr\u00e9n\u00e9\naugmente l\u2019Attaque et la Vitesse du lanceur.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Ein mystischer Tanz, der den\nAngriffs- und Initiative-Wert erh\u00f6ht.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Danza m\u00edstica que sube el Ataque y la Velocidad. ",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Danza mistica e vigorosa che aumenta l\u2019Attacco\ne la Velocit\u00e0 di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "The user vigorously performs a mystic,\npowerful dance that raises its Attack and\nSpeed stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u795e\u79d8\u7684\u3067\u3000\u529b\u5f37\u3044\u3000\u821e\u3092\n\u6fc0\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u81ea\u5206\u306e\n\u653b\u6483\u3068\u3000\u7d20\u65e9\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u3057\u3093\u3074\u3066\u304d\u3067\u3000\u3061\u304b\u3089\u3065\u3088\u3044\u3000\u307e\u3044\u3092\n\u306f\u3052\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u3000\u3058\u3076\u3093\u306e\n\u3053\u3046\u3052\u304d\u3068\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\uc2e0\ube44\ub86d\uace0 \ud798\uc13c \ucda4\uc744\n\uaca9\ub82c\ud558\uac8c \ucd98\ub2e4. \uc790\uc2e0\uc758\n\uacf5\uaca9\uacfc \uc2a4\ud53c\ub4dc\ub97c \uc62c\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u6fc0\u70c8\u5730\u8df3\u8d77\u795e\u79d8\u53c8\u5f37\u800c\u6709\u529b\u7684\u821e\u8e48\u3002\n\u63d0\u9ad8\u81ea\u5df1\u7684\u653b\u64ca\u548c\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Une danse mystique dont le rythme effr\u00e9n\u00e9\naugmente l\u2019Attaque et la Vitesse du lanceur.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Ein mystischer Tanz, der den Angriffs- und\nInitiative-Wert erh\u00f6ht.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Danza m\u00edstica que sube el Ataque y la Velocidad. ",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Danza mistica e vigorosa che aumenta l\u2019Attacco\ne la Velocit\u00e0 di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "The user vigorously performs a mystic, powerful\ndance that raises its Attack and Speed stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u795e\u79d8\u7684\u3067\u3000\u529b\u5f37\u3044\u3000\u821e\u3092\n\u6fc0\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u3000\u81ea\u5206\u306e\n\u653b\u6483\u3068\u3000\u7d20\u65e9\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u6fc0\u70c8\u5730\u8df3\u8d77\u795e\u79d8\n\u4e14\u5f3a\u6709\u529b\u7684\u821e\u8e48\u3002\n\u4ece\u800c\u63d0\u9ad8\u81ea\u5df1\u7684\u653b\u51fb\u548c\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u3057\u3093\u3074\u3066\u304d\u3067\u3000\u3061\u304b\u3089\u3065\u3088\u3044\u3000\u307e\u3044\u3092\n\u306f\u3052\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u3000\u3058\u3076\u3093\u306e\n\u3053\u3046\u3052\u304d\u3068\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\uc2e0\ube44\ub86d\uace0 \ud798\uc13c \ucda4\uc744\n\uaca9\ub82c\ud558\uac8c \ucd98\ub2e4. \uc790\uc2e0\uc758\n\uacf5\uaca9\uacfc \uc2a4\ud53c\ub4dc\ub97c \uc62c\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u6fc0\u70c8\u5730\u8df3\u8d77\u795e\u79d8\u53c8\u5f37\u800c\u6709\u529b\u7684\u821e\u8e48\u3002\n\u63d0\u9ad8\u81ea\u5df1\u7684\u653b\u64ca\u548c\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Une danse mystique dont le rythme effr\u00e9n\u00e9\naugmente l\u2019Attaque et la Vitesse du lanceur.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Ein mystischer Tanz, der den Angriffs- und\nInitiative-Wert erh\u00f6ht.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Danza m\u00edstica que sube el Ataque y la Velocidad. ",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Danza mistica e vigorosa che aumenta l\u2019Attacco\ne la Velocit\u00e0 di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "The user vigorously performs a mystic, powerful\ndance that raises its Attack and Speed stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u795e\u79d8\u7684\u3067\u3000\u529b\u5f37\u3044\u3000\u821e\u3092\n\u6fc0\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u3000\u81ea\u5206\u306e\n\u653b\u6483\u3068\u3000\u7d20\u65e9\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u6fc0\u70c8\u5730\u8df3\u8d77\u795e\u79d8\n\u4e14\u5f3a\u6709\u529b\u7684\u821e\u8e48\u3002\n\u4ece\u800c\u63d0\u9ad8\u81ea\u5df1\u7684\u653b\u51fb\u548c\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u3057\u3093\u3074\u3066\u304d\u3067\u3000\u3061\u304b\u3089\u3065\u3088\u3044\u3000\u307e\u3044\u3092\n\u306f\u3052\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u3000\u3058\u3076\u3093\u306e\n\u3053\u3046\u3052\u304d\u3068\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\uc2e0\ube44\ub86d\uace0 \ud798\uc13c \ucda4\uc744\n\uaca9\ub82c\ud558\uac8c \ucd98\ub2e4. \uc790\uc2e0\uc758\n\uacf5\uaca9\uacfc \uc2a4\ud53c\ub4dc\ub97c \uc62c\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u6fc0\u70c8\u5730\u8df3\u8d77\u795e\u79d8\u53c8\u5f37\u800c\u6709\u529b\u7684\u821e\u8e48\u3002\n\u63d0\u9ad8\u81ea\u5df1\u7684\u653b\u64ca\u548c\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Une danse mystique dont le rythme effr\u00e9n\u00e9\naugmente l\u2019Attaque et la Vitesse du lanceur.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Ein mystischer Tanz, der den Angriffs- und\nInitiative-Wert erh\u00f6ht.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Danza m\u00edstica que sube el Ataque y la Velocidad. ",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Danza mistica e vigorosa che aumenta l\u2019Attacco\ne la Velocit\u00e0 di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "The user vigorously performs a mystic, powerful\ndance that raises its Attack and Speed stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u795e\u79d8\u7684\u3067\u3000\u529b\u5f37\u3044\u3000\u821e\u3092\n\u6fc0\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u3000\u81ea\u5206\u306e\n\u653b\u6483\u3068\u3000\u7d20\u65e9\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u6fc0\u70c8\u5730\u8df3\u8d77\u795e\u79d8\n\u4e14\u5f3a\u6709\u529b\u7684\u821e\u8e48\u3002\n\u4ece\u800c\u63d0\u9ad8\u81ea\u5df1\u7684\u653b\u51fb\u548c\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u3057\u3093\u3074\u3066\u304d\u3067\u3000\u3061\u304b\u3089\u3065\u3088\u3044\u3000\u307e\u3044\u3092\n\u306f\u3052\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u3000\u3058\u3076\u3093\u306e\n\u3053\u3046\u3052\u304d\u3068\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\uc2e0\ube44\ub86d\uace0 \ud798\uc13c \ucda4\uc744\n\uaca9\ub82c\ud558\uac8c \ucd98\ub2e4. \uc790\uc2e0\uc758\n\uacf5\uaca9\uacfc \uc2a4\ud53c\ub4dc\ub97c \uc62c\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u6fc0\u70c8\u5730\u8df3\u8d77\u795e\u79d8\u53c8\u5f37\u800c\u6709\u529b\u7684\u821e\u8e48\u3002\n\u63d0\u9ad8\u81ea\u5df1\u7684\u653b\u64ca\u548c\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Une danse mystique dont le rythme effr\u00e9n\u00e9\naugmente l\u2019Attaque et la Vitesse du lanceur.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Ein mystischer Tanz, der den Angriffs- und\nInitiative-Wert erh\u00f6ht.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Danza m\u00edstica que sube el Ataque y la Velocidad. ",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Danza mistica e vigorosa che aumenta l\u2019Attacco\ne la Velocit\u00e0 di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "The user vigorously performs a mystic, powerful\ndance that raises its Attack and Speed stats.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u795e\u79d8\u7684\u3067\u3000\u529b\u5f37\u3044\u3000\u821e\u3092\n\u6fc0\u3057\u304f\u3000\u304a\u3069\u308b\u3002\u3000\u81ea\u5206\u306e\n\u653b\u6483\u3068\u3000\u7d20\u65e9\u3055\u3092\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u6fc0\u70c8\u5730\u8df3\u8d77\u795e\u79d8\n\u4e14\u5f3a\u6709\u529b\u7684\u821e\u8e48\u3002\n\u4ece\u800c\u63d0\u9ad8\u81ea\u5df1\u7684\u653b\u51fb\u548c\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-iii",
+        "url": "https://pokedex.mimo.dev/api/generation/3/"
+    },
+    "id": 349,
+    "learned_by_pokemon": [
+        {
+            "name": "charmander",
+            "url": "https://pokedex.mimo.dev/api/pokemon/4/"
+        },
+        {
+            "name": "charmeleon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/5/"
+        },
+        {
+            "name": "charizard",
+            "url": "https://pokedex.mimo.dev/api/pokemon/6/"
+        },
+        {
+            "name": "onix",
+            "url": "https://pokedex.mimo.dev/api/pokemon/95/"
+        },
+        {
+            "name": "horsea",
+            "url": "https://pokedex.mimo.dev/api/pokemon/116/"
+        },
+        {
+            "name": "seadra",
+            "url": "https://pokedex.mimo.dev/api/pokemon/117/"
+        },
+        {
+            "name": "gyarados",
+            "url": "https://pokedex.mimo.dev/api/pokemon/130/"
+        },
+        {
+            "name": "lapras",
+            "url": "https://pokedex.mimo.dev/api/pokemon/131/"
+        },
+        {
+            "name": "aerodactyl",
+            "url": "https://pokedex.mimo.dev/api/pokemon/142/"
+        },
+        {
+            "name": "dratini",
+            "url": "https://pokedex.mimo.dev/api/pokemon/147/"
+        },
+        {
+            "name": "dragonair",
+            "url": "https://pokedex.mimo.dev/api/pokemon/148/"
+        },
+        {
+            "name": "dragonite",
+            "url": "https://pokedex.mimo.dev/api/pokemon/149/"
+        },
+        {
+            "name": "mew",
+            "url": "https://pokedex.mimo.dev/api/pokemon/151/"
+        },
+        {
+            "name": "totodile",
+            "url": "https://pokedex.mimo.dev/api/pokemon/158/"
+        },
+        {
+            "name": "croconaw",
+            "url": "https://pokedex.mimo.dev/api/pokemon/159/"
+        },
+        {
+            "name": "feraligatr",
+            "url": "https://pokedex.mimo.dev/api/pokemon/160/"
+        },
+        {
+            "name": "steelix",
+            "url": "https://pokedex.mimo.dev/api/pokemon/208/"
+        },
+        {
+            "name": "kingdra",
+            "url": "https://pokedex.mimo.dev/api/pokemon/230/"
+        },
+        {
+            "name": "larvitar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/246/"
+        },
+        {
+            "name": "pupitar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/247/"
+        },
+        {
+            "name": "tyranitar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/248/"
+        },
+        {
+            "name": "sceptile",
+            "url": "https://pokedex.mimo.dev/api/pokemon/254/"
+        },
+        {
+            "name": "flygon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/330/"
+        },
+        {
+            "name": "altaria",
+            "url": "https://pokedex.mimo.dev/api/pokemon/334/"
+        },
+        {
+            "name": "barboach",
+            "url": "https://pokedex.mimo.dev/api/pokemon/339/"
+        },
+        {
+            "name": "whiscash",
+            "url": "https://pokedex.mimo.dev/api/pokemon/340/"
+        },
+        {
+            "name": "corphish",
+            "url": "https://pokedex.mimo.dev/api/pokemon/341/"
+        },
+        {
+            "name": "crawdaunt",
+            "url": "https://pokedex.mimo.dev/api/pokemon/342/"
+        },
+        {
+            "name": "milotic",
+            "url": "https://pokedex.mimo.dev/api/pokemon/350/"
+        },
+        {
+            "name": "tropius",
+            "url": "https://pokedex.mimo.dev/api/pokemon/357/"
+        },
+        {
+            "name": "bagon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/371/"
+        },
+        {
+            "name": "shelgon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/372/"
+        },
+        {
+            "name": "salamence",
+            "url": "https://pokedex.mimo.dev/api/pokemon/373/"
+        },
+        {
+            "name": "latias",
+            "url": "https://pokedex.mimo.dev/api/pokemon/380/"
+        },
+        {
+            "name": "latios",
+            "url": "https://pokedex.mimo.dev/api/pokemon/381/"
+        },
+        {
+            "name": "rayquaza",
+            "url": "https://pokedex.mimo.dev/api/pokemon/384/"
+        },
+        {
+            "name": "arceus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/493/"
+        },
+        {
+            "name": "scraggy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/559/"
+        },
+        {
+            "name": "scrafty",
+            "url": "https://pokedex.mimo.dev/api/pokemon/560/"
+        },
+        {
+            "name": "axew",
+            "url": "https://pokedex.mimo.dev/api/pokemon/610/"
+        },
+        {
+            "name": "fraxure",
+            "url": "https://pokedex.mimo.dev/api/pokemon/611/"
+        },
+        {
+            "name": "haxorus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/612/"
+        },
+        {
+            "name": "hydreigon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/635/"
+        },
+        {
+            "name": "reshiram",
+            "url": "https://pokedex.mimo.dev/api/pokemon/643/"
+        },
+        {
+            "name": "zekrom",
+            "url": "https://pokedex.mimo.dev/api/pokemon/644/"
+        },
+        {
+            "name": "kyurem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/646/"
+        },
+        {
+            "name": "tyrunt",
+            "url": "https://pokedex.mimo.dev/api/pokemon/696/"
+        },
+        {
+            "name": "tyrantrum",
+            "url": "https://pokedex.mimo.dev/api/pokemon/697/"
+        },
+        {
+            "name": "noivern",
+            "url": "https://pokedex.mimo.dev/api/pokemon/715/"
+        },
+        {
+            "name": "zygarde-50",
+            "url": "https://pokedex.mimo.dev/api/pokemon/718/"
+        },
+        {
+            "name": "salazzle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/758/"
+        },
+        {
+            "name": "drampa",
+            "url": "https://pokedex.mimo.dev/api/pokemon/780/"
+        },
+        {
+            "name": "jangmo-o",
+            "url": "https://pokedex.mimo.dev/api/pokemon/782/"
+        },
+        {
+            "name": "hakamo-o",
+            "url": "https://pokedex.mimo.dev/api/pokemon/783/"
+        },
+        {
+            "name": "kommo-o",
+            "url": "https://pokedex.mimo.dev/api/pokemon/784/"
+        },
+        {
+            "name": "necrozma",
+            "url": "https://pokedex.mimo.dev/api/pokemon/800/"
+        },
+        {
+            "name": "naganadel",
+            "url": "https://pokedex.mimo.dev/api/pokemon/804/"
+        },
+        {
+            "name": "flapple",
+            "url": "https://pokedex.mimo.dev/api/pokemon/841/"
+        },
+        {
+            "name": "drakloak",
+            "url": "https://pokedex.mimo.dev/api/pokemon/886/"
+        },
+        {
+            "name": "dragapult",
+            "url": "https://pokedex.mimo.dev/api/pokemon/887/"
+        },
+        {
+            "name": "eternatus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/890/"
+        },
+        {
+            "name": "regidrago",
+            "url": "https://pokedex.mimo.dev/api/pokemon/895/"
+        },
+        {
+            "name": "tatsugiri",
+            "url": "https://pokedex.mimo.dev/api/pokemon/978/"
+        },
+        {
+            "name": "iron-thorns",
+            "url": "https://pokedex.mimo.dev/api/pokemon/995/"
+        },
+        {
+            "name": "baxcalibur",
+            "url": "https://pokedex.mimo.dev/api/pokemon/998/"
+        },
+        {
+            "name": "roaring-moon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1005/"
+        },
+        {
+            "name": "walking-wake",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1009/"
+        },
+        {
+            "name": "gouging-fire",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1020/"
+        },
+        {
+            "name": "kyurem-black",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10022/"
+        },
+        {
+            "name": "kyurem-white",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10023/"
+        },
+        {
+            "name": "gyarados-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10041/"
+        },
+        {
+            "name": "latios-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10063/"
+        },
+        {
+            "name": "altaria-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10067/"
+        },
+        {
+            "name": "rayquaza-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10079/"
+        },
+        {
+            "name": "zygarde-10-power-construct",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10118/"
+        },
+        {
+            "name": "zygarde-50-power-construct",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10119/"
+        },
+        {
+            "name": "zygarde-complete",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10120/"
+        },
+        {
+            "name": "kommo-o-totem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10146/"
+        },
+        {
+            "name": "necrozma-dusk",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10155/"
+        },
+        {
+            "name": "necrozma-dawn",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10156/"
+        },
+        {
+            "name": "zygarde-10",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10181/"
+        },
+        {
+            "name": "eternatus-eternamax",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10190/"
+        },
+        {
+            "name": "tatsugiri-droopy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10258/"
+        },
+        {
+            "name": "tatsugiri-stretchy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10259/"
+        }
+    ],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1640/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        }
+    ],
+    "meta": {
+        "ailment": {
+            "name": "none",
+            "url": "https://pokedex.mimo.dev/api/move-ailment/0/"
+        },
+        "ailment_chance": 0,
+        "category": {
+            "name": "net-good-stats",
+            "url": "https://pokedex.mimo.dev/api/move-category/2/"
+        },
+        "crit_rate": 0,
+        "drain": 0,
+        "flinch_chance": 0,
+        "healing": 0,
+        "max_hits": null,
+        "max_turns": null,
+        "min_hits": null,
+        "min_turns": null,
+        "stat_chance": 0
+    },
+    "name": "dragon-dance",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u308a\u3085\u3046\u306e\u307e\u3044"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc6a9\uc758\ucda4"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u9f8d\u4e4b\u821e"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Danse Draco"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Drachentanz"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Danza Drag\u00f3n"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Dragodanza"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Dragon Dance"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u308a\u3085\u3046\u306e\u307e\u3044"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u9f99\u4e4b\u821e"
+        }
+    ],
+    "past_values": [],
+    "power": null,
+    "pp": 20,
+    "priority": 0,
+    "stat_changes": [
+        {
+            "change": 1,
+            "stat": {
+                "name": "attack",
+                "url": "https://pokedex.mimo.dev/api/stat/2/"
+            }
+        },
+        {
+            "change": 1,
+            "stat": {
+                "name": "speed",
+                "url": "https://pokedex.mimo.dev/api/stat/6/"
+            }
+        }
+    ],
+    "super_contest_effect": {
+        "url": "https://pokedex.mimo.dev/api/super-contest-effect/11/"
+    },
+    "target": {
+        "name": "user",
+        "url": "https://pokedex.mimo.dev/api/move-target/7/"
+    },
+    "type": {
+        "name": "dragon",
+        "url": "https://pokedex.mimo.dev/api/type/16/"
+    }
+}

@@ -1,0 +1,1207 @@
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "water-absorb",
+                "url": "https://pokedex.mimo.dev/api/ability/11/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "ice-body",
+                "url": "https://pokedex.mimo.dev/api/ability/115/"
+            },
+            "is_hidden": false,
+            "slot": 2
+        },
+        {
+            "ability": {
+                "name": "slush-rush",
+                "url": "https://pokedex.mimo.dev/api/ability/202/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+    "base_experience": 177,
+    "cries": {
+        "latest": "https://pokedex.mimo.dev/data/pokedex/files/cries/main/cries/pokemon/latest/883.ogg",
+        "legacy": null
+    },
+    "forms": [
+        {
+            "name": "arctovish",
+            "url": "https://pokedex.mimo.dev/api/pokemon-form/883/"
+        }
+    ],
+    "game_indices": [],
+    "height": 20,
+    "held_items": [],
+    "id": 883,
+    "is_default": true,
+    "location_area_encounters": "https://pokedex.mimo.dev/api/pokemon/883/encounters",
+    "moves": [
+        {
+            "move": {
+                "name": "body-slam",
+                "url": "https://pokedex.mimo.dev/api/move/34/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "bite",
+                "url": "https://pokedex.mimo.dev/api/move/44/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 28,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "water-gun",
+                "url": "https://pokedex.mimo.dev/api/move/55/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "hydro-pump",
+                "url": "https://pokedex.mimo.dev/api/move/56/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "surf",
+                "url": "https://pokedex.mimo.dev/api/move/57/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "ice-beam",
+                "url": "https://pokedex.mimo.dev/api/move/58/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "blizzard",
+                "url": "https://pokedex.mimo.dev/api/move/59/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 77,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "hyper-beam",
+                "url": "https://pokedex.mimo.dev/api/move/63/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "waterfall",
+                "url": "https://pokedex.mimo.dev/api/move/127/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "rest",
+                "url": "https://pokedex.mimo.dev/api/move/156/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "rock-slide",
+                "url": "https://pokedex.mimo.dev/api/move/157/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "super-fang",
+                "url": "https://pokedex.mimo.dev/api/move/162/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 49,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "substitute",
+                "url": "https://pokedex.mimo.dev/api/move/164/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "snore",
+                "url": "https://pokedex.mimo.dev/api/move/173/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "powder-snow",
+                "url": "https://pokedex.mimo.dev/api/move/181/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "protect",
+                "url": "https://pokedex.mimo.dev/api/move/182/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 7,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "icy-wind",
+                "url": "https://pokedex.mimo.dev/api/move/196/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 14,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "endure",
+                "url": "https://pokedex.mimo.dev/api/move/203/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "sleep-talk",
+                "url": "https://pokedex.mimo.dev/api/move/214/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "rain-dance",
+                "url": "https://pokedex.mimo.dev/api/move/240/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "crunch",
+                "url": "https://pokedex.mimo.dev/api/move/242/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 56,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "ancient-power",
+                "url": "https://pokedex.mimo.dev/api/move/246/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 21,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "whirlpool",
+                "url": "https://pokedex.mimo.dev/api/move/250/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "hail",
+                "url": "https://pokedex.mimo.dev/api/move/258/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "facade",
+                "url": "https://pokedex.mimo.dev/api/move/263/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "dive",
+                "url": "https://pokedex.mimo.dev/api/move/291/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "rock-tomb",
+                "url": "https://pokedex.mimo.dev/api/move/317/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "icicle-spear",
+                "url": "https://pokedex.mimo.dev/api/move/333/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "iron-defense",
+                "url": "https://pokedex.mimo.dev/api/move/334/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "rock-blast",
+                "url": "https://pokedex.mimo.dev/api/move/350/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "brine",
+                "url": "https://pokedex.mimo.dev/api/move/362/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "giga-impact",
+                "url": "https://pokedex.mimo.dev/api/move/416/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "avalanche",
+                "url": "https://pokedex.mimo.dev/api/move/419/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "ice-fang",
+                "url": "https://pokedex.mimo.dev/api/move/423/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "zen-headbutt",
+                "url": "https://pokedex.mimo.dev/api/move/428/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "iron-head",
+                "url": "https://pokedex.mimo.dev/api/move/442/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "stone-edge",
+                "url": "https://pokedex.mimo.dev/api/move/444/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "round",
+                "url": "https://pokedex.mimo.dev/api/move/496/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "icicle-crash",
+                "url": "https://pokedex.mimo.dev/api/move/556/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 70,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "freeze-dry",
+                "url": "https://pokedex.mimo.dev/api/move/573/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 42,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "aurora-veil",
+                "url": "https://pokedex.mimo.dev/api/move/694/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 35,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "psychic-fangs",
+                "url": "https://pokedex.mimo.dev/api/move/706/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "liquidation",
+                "url": "https://pokedex.mimo.dev/api/move/710/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "fishious-rend",
+                "url": "https://pokedex.mimo.dev/api/move/755/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 63,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "meteor-beam",
+                "url": "https://pokedex.mimo.dev/api/move/800/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "sword-shield",
+                        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+                    }
+                }
+            ]
+        }
+    ],
+    "name": "arctovish",
+    "order": 1070,
+    "past_abilities": [],
+    "past_types": [],
+    "species": {
+        "name": "arctovish",
+        "url": "https://pokedex.mimo.dev/api/pokemon-species/883/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/883.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/883.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/883.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/883.png",
+        "front_shiny_female": null,
+        "other": {
+            "dream_world": {
+                "front_default": null,
+                "front_female": null
+            },
+            "home": {
+                "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/home/883.png",
+                "front_female": null,
+                "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/home/shiny/883.png",
+                "front_shiny_female": null
+            },
+            "official-artwork": {
+                "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+                "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/official-artwork/shiny/883.png"
+            },
+            "showdown": {
+                "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/showdown/back/883.gif",
+                "back_female": null,
+                "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/showdown/back/shiny/883.gif",
+                "back_shiny_female": null,
+                "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/showdown/883.gif",
+                "front_female": null,
+                "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/showdown/shiny/883.gif",
+                "front_shiny_female": null
+            }
+        },
+        "versions": {
+            "generation-i": {
+                "red-blue": {
+                    "back_default": null,
+                    "back_gray": null,
+                    "back_transparent": null,
+                    "front_default": null,
+                    "front_gray": null,
+                    "front_transparent": null
+                },
+                "yellow": {
+                    "back_default": null,
+                    "back_gray": null,
+                    "back_transparent": null,
+                    "front_default": null,
+                    "front_gray": null,
+                    "front_transparent": null
+                }
+            },
+            "generation-ii": {
+                "crystal": {
+                    "back_default": null,
+                    "back_shiny": null,
+                    "back_shiny_transparent": null,
+                    "back_transparent": null,
+                    "front_default": null,
+                    "front_shiny": null,
+                    "front_shiny_transparent": null,
+                    "front_transparent": null
+                },
+                "gold": {
+                    "back_default": null,
+                    "back_shiny": null,
+                    "front_default": null,
+                    "front_shiny": null,
+                    "front_transparent": null
+                },
+                "silver": {
+                    "back_default": null,
+                    "back_shiny": null,
+                    "front_default": null,
+                    "front_shiny": null,
+                    "front_transparent": null
+                }
+            },
+            "generation-iii": {
+                "emerald": {
+                    "front_default": null,
+                    "front_shiny": null
+                },
+                "firered-leafgreen": {
+                    "back_default": null,
+                    "back_shiny": null,
+                    "front_default": null,
+                    "front_shiny": null
+                },
+                "ruby-sapphire": {
+                    "back_default": null,
+                    "back_shiny": null,
+                    "front_default": null,
+                    "front_shiny": null
+                }
+            },
+            "generation-iv": {
+                "diamond-pearl": {
+                    "back_default": null,
+                    "back_female": null,
+                    "back_shiny": null,
+                    "back_shiny_female": null,
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                },
+                "heartgold-soulsilver": {
+                    "back_default": null,
+                    "back_female": null,
+                    "back_shiny": null,
+                    "back_shiny_female": null,
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                },
+                "platinum": {
+                    "back_default": null,
+                    "back_female": null,
+                    "back_shiny": null,
+                    "back_shiny_female": null,
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                }
+            },
+            "generation-v": {
+                "black-white": {
+                    "animated": {
+                        "back_default": null,
+                        "back_female": null,
+                        "back_shiny": null,
+                        "back_shiny_female": null,
+                        "front_default": null,
+                        "front_female": null,
+                        "front_shiny": null,
+                        "front_shiny_female": null
+                    },
+                    "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/883.png",
+                    "back_female": null,
+                    "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/883.png",
+                    "back_shiny_female": null,
+                    "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/versions/generation-v/black-white/883.png",
+                    "front_female": null,
+                    "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/883.png",
+                    "front_shiny_female": null
+                }
+            },
+            "generation-vi": {
+                "omegaruby-alphasapphire": {
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                },
+                "x-y": {
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                }
+            },
+            "generation-vii": {
+                "icons": {
+                    "front_default": null,
+                    "front_female": null
+                },
+                "ultra-sun-ultra-moon": {
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                }
+            },
+            "generation-viii": {
+                "icons": {
+                    "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/versions/generation-viii/icons/883.png",
+                    "front_female": null
+                }
+            }
+        }
+    },
+    "stats": [
+        {
+            "base_stat": 90,
+            "effort": 0,
+            "stat": {
+                "name": "hp",
+                "url": "https://pokedex.mimo.dev/api/stat/1/"
+            }
+        },
+        {
+            "base_stat": 90,
+            "effort": 0,
+            "stat": {
+                "name": "attack",
+                "url": "https://pokedex.mimo.dev/api/stat/2/"
+            }
+        },
+        {
+            "base_stat": 100,
+            "effort": 2,
+            "stat": {
+                "name": "defense",
+                "url": "https://pokedex.mimo.dev/api/stat/3/"
+            }
+        },
+        {
+            "base_stat": 80,
+            "effort": 0,
+            "stat": {
+                "name": "special-attack",
+                "url": "https://pokedex.mimo.dev/api/stat/4/"
+            }
+        },
+        {
+            "base_stat": 90,
+            "effort": 0,
+            "stat": {
+                "name": "special-defense",
+                "url": "https://pokedex.mimo.dev/api/stat/5/"
+            }
+        },
+        {
+            "base_stat": 55,
+            "effort": 0,
+            "stat": {
+                "name": "speed",
+                "url": "https://pokedex.mimo.dev/api/stat/6/"
+            }
+        }
+    ],
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "water",
+                "url": "https://pokedex.mimo.dev/api/type/11/"
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "ice",
+                "url": "https://pokedex.mimo.dev/api/type/15/"
+            }
+        }
+    ],
+    "weight": 1750
+}

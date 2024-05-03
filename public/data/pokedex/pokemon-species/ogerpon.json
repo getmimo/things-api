@@ -1,0 +1,186 @@
+{
+    "base_happiness": 0,
+    "capture_rate": 5,
+    "color": {
+        "name": "green",
+        "url": "https://pokedex.mimo.dev/api/pokemon-color/5/"
+    },
+    "egg_groups": [],
+    "evolution_chain": {
+        "url": "https://pokedex.mimo.dev/api/evolution-chain/543/"
+    },
+    "evolves_from_species": null,
+    "flavor_text_entries": [
+        {
+            "flavor_text": "This Pok\u00e9mon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version": {
+                "name": "scarlet",
+                "url": "https://pokedex.mimo.dev/api/version/40/"
+            }
+        },
+        {
+            "flavor_text": "This mischief-loving Pok\u00e9mon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version": {
+                "name": "violet",
+                "url": "https://pokedex.mimo.dev/api/version/41/"
+            }
+        }
+    ],
+    "form_descriptions": [],
+    "forms_switchable": false,
+    "gender_rate": -1,
+    "genera": [
+        {
+            "genus": "Mask Pok\u00e9mon",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-ix",
+        "url": "https://pokedex.mimo.dev/api/generation/9/"
+    },
+    "growth_rate": {
+        "name": "slow",
+        "url": "https://pokedex.mimo.dev/api/growth-rate/1/"
+    },
+    "habitat": null,
+    "has_gender_differences": false,
+    "hatch_counter": 50,
+    "id": 1017,
+    "is_baby": false,
+    "is_legendary": true,
+    "is_mythical": false,
+    "name": "ogerpon",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30aa\u30fc\u30ac\u30dd\u30f3"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc624\uac70\ud3f0"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u5384\u9b3c\u692a"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Ogerpon"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Ogerpon"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Ogerpon"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Ogerpon"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Ogerpon"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u30aa\u30fc\u30ac\u30dd\u30f3"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u5384\u8be1\u692a"
+        }
+    ],
+    "order": 1019,
+    "pal_park_encounters": [],
+    "pokedex_numbers": [
+        {
+            "entry_number": 1017,
+            "pokedex": {
+                "name": "national",
+                "url": "https://pokedex.mimo.dev/api/pokedex/1/"
+            }
+        },
+        {
+            "entry_number": 200,
+            "pokedex": {
+                "name": "kitakami",
+                "url": "https://pokedex.mimo.dev/api/pokedex/32/"
+            }
+        }
+    ],
+    "shape": null,
+    "varieties": [
+        {
+            "is_default": true,
+            "pokemon": {
+                "name": "ogerpon",
+                "url": "https://pokedex.mimo.dev/api/pokemon/1017/"
+            }
+        },
+        {
+            "is_default": false,
+            "pokemon": {
+                "name": "ogerpon-wellspring-mask",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10273/"
+            }
+        },
+        {
+            "is_default": false,
+            "pokemon": {
+                "name": "ogerpon-hearthflame-mask",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10274/"
+            }
+        },
+        {
+            "is_default": false,
+            "pokemon": {
+                "name": "ogerpon-cornerstone-mask",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10275/"
+            }
+        }
+    ]
+}

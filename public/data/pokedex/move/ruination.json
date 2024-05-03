@@ -1,0 +1,91 @@
+{
+    "accuracy": 90,
+    "contest_combos": null,
+    "contest_effect": null,
+    "contest_type": null,
+    "damage_class": {
+        "name": "special",
+        "url": "https://pokedex.mimo.dev/api/move-damage-class/3/"
+    },
+    "effect_chance": null,
+    "effect_changes": [],
+    "effect_entries": [],
+    "flavor_text_entries": [],
+    "generation": {
+        "name": "generation-ix",
+        "url": "https://pokedex.mimo.dev/api/generation/9/"
+    },
+    "id": 877,
+    "learned_by_pokemon": [
+        {
+            "name": "wo-chien",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1001/"
+        },
+        {
+            "name": "chien-pao",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1002/"
+        },
+        {
+            "name": "ting-lu",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1003/"
+        },
+        {
+            "name": "chi-yu",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1004/"
+        }
+    ],
+    "machines": [],
+    "meta": null,
+    "name": "ruination",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30ab\u30bf\u30b9\u30c8\u30ed\u30d5\u30a3"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u5927\u707e\u96be"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Catastrofe"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Ruination"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u30ab\u30bf\u30b9\u30c8\u30ed\u30d5\u30a3"
+        }
+    ],
+    "past_values": [],
+    "power": 1,
+    "pp": 10,
+    "priority": 0,
+    "stat_changes": [],
+    "super_contest_effect": null,
+    "target": {
+        "name": "selected-pokemon",
+        "url": "https://pokedex.mimo.dev/api/move-target/10/"
+    },
+    "type": {
+        "name": "dark",
+        "url": "https://pokedex.mimo.dev/api/type/17/"
+    }
+}

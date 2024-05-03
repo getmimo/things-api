@@ -1,0 +1,41 @@
+{
+    "id": 2,
+    "name": "time",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "P\u00e9riode horaire"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Tageszeit"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Time of day"
+        }
+    ],
+    "values": [
+        {
+            "name": "time-morning",
+            "url": "https://pokedex.mimo.dev/api/encounter-condition-value/3/"
+        },
+        {
+            "name": "time-day",
+            "url": "https://pokedex.mimo.dev/api/encounter-condition-value/4/"
+        },
+        {
+            "name": "time-night",
+            "url": "https://pokedex.mimo.dev/api/encounter-condition-value/5/"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "decreased_stat": {
+        "name": "defense",
+        "url": "https://pokedex.mimo.dev/api/stat/3/"
+    },
+    "hates_flavor": {
+        "name": "sour",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/5/"
+    },
+    "id": 10,
+    "increased_stat": {
+        "name": "speed",
+        "url": "https://pokedex.mimo.dev/api/stat/6/"
+    },
+    "likes_flavor": {
+        "name": "sweet",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/3/"
+    },
+    "move_battle_style_preferences": [
+        {
+            "high_hp_preference": 58,
+            "low_hp_preference": 88,
+            "move_battle_style": {
+                "name": "attack",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/1/"
+            }
+        },
+        {
+            "high_hp_preference": 37,
+            "low_hp_preference": 6,
+            "move_battle_style": {
+                "name": "defense",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/2/"
+            }
+        },
+        {
+            "high_hp_preference": 5,
+            "low_hp_preference": 6,
+            "move_battle_style": {
+                "name": "support",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/3/"
+            }
+        }
+    ],
+    "name": "hasty",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u305b\u3063\u304b\u3061"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc131\uae09"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u6025\u8e81"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Press\u00e9"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Hastig"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Activa"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Lesta"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Hasty"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u305b\u3063\u304b\u3061"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u6025\u8e81"
+        }
+    ],
+    "pokeathlon_stat_changes": [
+        {
+            "max_change": 2,
+            "pokeathlon_stat": {
+                "name": "speed",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/1/"
+            }
+        },
+        {
+            "max_change": -2,
+            "pokeathlon_stat": {
+                "name": "skill",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/3/"
+            }
+        }
+    ]
+}

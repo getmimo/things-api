@@ -1,0 +1,105 @@
+{
+    "encounter_method_rates": [],
+    "game_index": 0,
+    "id": 1084,
+    "location": {
+        "name": "hauoli-city",
+        "url": "https://pokedex.mimo.dev/api/location/1042/"
+    },
+    "name": "hauoli-city-main",
+    "names": [],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "klink",
+                "url": "https://pokedex.mimo.dev/api/pokemon/599/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 8,
+                            "method": {
+                                "name": "island-scan",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/32/"
+                            },
+                            "min_level": 8
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 8,
+                            "method": {
+                                "name": "island-scan",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/32/"
+                            },
+                            "min_level": 8
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "moon",
+                        "url": "https://pokedex.mimo.dev/api/version/28/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "scatterbug",
+                "url": "https://pokedex.mimo.dev/api/pokemon/664/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 9,
+                            "method": {
+                                "name": "island-scan",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/32/"
+                            },
+                            "min_level": 9
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 9,
+                            "method": {
+                                "name": "island-scan",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/32/"
+                            },
+                            "min_level": 9
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        }
+    ]
+}

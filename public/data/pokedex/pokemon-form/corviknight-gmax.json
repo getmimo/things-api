@@ -1,0 +1,90 @@
+{
+    "form_name": "gmax",
+    "form_names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Forme Gigamax"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Gigadynamax-Form"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Gigantamax Form"
+        }
+    ],
+    "form_order": 1,
+    "id": 10381,
+    "is_battle_only": true,
+    "is_default": true,
+    "is_mega": false,
+    "name": "corviknight-gmax",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Corvaillus Gigamax"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Gigadynamax-Krarmor"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Gigantamax Corviknight"
+        }
+    ],
+    "order": 1266,
+    "pokemon": {
+        "name": "corviknight-gmax",
+        "url": "https://pokedex.mimo.dev/api/pokemon/10212/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/10212.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/10212.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/10212.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/10212.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "flying",
+                "url": "https://pokedex.mimo.dev/api/type/3/"
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "steel",
+                "url": "https://pokedex.mimo.dev/api/type/9/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "sword-shield",
+        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+    }
+}

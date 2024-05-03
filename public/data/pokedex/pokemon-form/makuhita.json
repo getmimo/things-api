@@ -1,0 +1,39 @@
+{
+    "form_name": "",
+    "form_names": [],
+    "form_order": 1,
+    "id": 296,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "makuhita",
+    "names": [],
+    "order": 427,
+    "pokemon": {
+        "name": "makuhita",
+        "url": "https://pokedex.mimo.dev/api/pokemon/296/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/296.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/296.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/296.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/296.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "fighting",
+                "url": "https://pokedex.mimo.dev/api/type/2/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "ruby-sapphire",
+        "url": "https://pokedex.mimo.dev/api/version-group/5/"
+    }
+}

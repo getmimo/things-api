@@ -1,0 +1,105 @@
+{
+    "attributes": [],
+    "baby_trigger_for": null,
+    "category": {
+        "name": "plot-advancement",
+        "url": "https://pokedex.mimo.dev/api/item-category/22/"
+    },
+    "cost": 0,
+    "effect_entries": [
+        {
+            "effect": "Provides access to the first three Sevii Islands.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "short_effect": "Grants access to the first three Sevii Islands."
+        }
+    ],
+    "flavor_text_entries": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "text": "A pass for ferries\nbetween ONE, TWO,\nand THREE ISLAND.",
+            "version_group": {
+                "name": "emerald",
+                "url": "https://pokedex.mimo.dev/api/version-group/6/"
+            }
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "text": "A pass for ferries between ONE,\nTWO, and THREE ISLAND.\nIt has a drawing of three islands.",
+            "version_group": {
+                "name": "firered-leafgreen",
+                "url": "https://pokedex.mimo.dev/api/version-group/7/"
+            }
+        }
+    ],
+    "fling_effect": null,
+    "fling_power": null,
+    "game_indices": [
+        {
+            "game_index": 367,
+            "generation": {
+                "name": "generation-iii",
+                "url": "https://pokedex.mimo.dev/api/generation/3/"
+            }
+        }
+    ],
+    "held_by_pokemon": [],
+    "id": 553,
+    "machines": [],
+    "name": "tri-pass",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30c8\u30e9\u30a4\u30d1\u30b9"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Tri-Passe"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Tri-Pass"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Tri-Ticket"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Tris Pass"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Tri-Pass"
+        }
+    ],
+    "sprites": {
+        "default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/items/tri-pass.png"
+    }
+}

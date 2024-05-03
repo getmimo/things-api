@@ -1,0 +1,79 @@
+{
+    "accuracy": null,
+    "contest_combos": null,
+    "contest_effect": null,
+    "contest_type": null,
+    "damage_class": {
+        "name": "physical",
+        "url": "https://pokedex.mimo.dev/api/move-damage-class/2/"
+    },
+    "effect_chance": null,
+    "effect_changes": [],
+    "effect_entries": [],
+    "flavor_text_entries": [],
+    "generation": {
+        "name": "generation-ix",
+        "url": "https://pokedex.mimo.dev/api/generation/9/"
+    },
+    "id": 869,
+    "learned_by_pokemon": [
+        {
+            "name": "kingambit",
+            "url": "https://pokedex.mimo.dev/api/pokemon/983/"
+        }
+    ],
+    "machines": [],
+    "meta": null,
+    "name": "kowtow-cleave",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30c9\u30b2\u30b6\u30f3"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u4ec6\u5200"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Genufendente"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Kowtow Cleave"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u30c9\u30b2\u30b6\u30f3"
+        }
+    ],
+    "past_values": [],
+    "power": 85,
+    "pp": 10,
+    "priority": 0,
+    "stat_changes": [],
+    "super_contest_effect": null,
+    "target": {
+        "name": "selected-pokemon",
+        "url": "https://pokedex.mimo.dev/api/move-target/10/"
+    },
+    "type": {
+        "name": "dark",
+        "url": "https://pokedex.mimo.dev/api/type/17/"
+    }
+}

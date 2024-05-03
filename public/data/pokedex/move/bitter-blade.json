@@ -1,0 +1,79 @@
+{
+    "accuracy": 100,
+    "contest_combos": null,
+    "contest_effect": null,
+    "contest_type": null,
+    "damage_class": {
+        "name": "physical",
+        "url": "https://pokedex.mimo.dev/api/move-damage-class/2/"
+    },
+    "effect_chance": null,
+    "effect_changes": [],
+    "effect_entries": [],
+    "flavor_text_entries": [],
+    "generation": {
+        "name": "generation-ix",
+        "url": "https://pokedex.mimo.dev/api/generation/9/"
+    },
+    "id": 891,
+    "learned_by_pokemon": [
+        {
+            "name": "ceruledge",
+            "url": "https://pokedex.mimo.dev/api/pokemon/937/"
+        }
+    ],
+    "machines": [],
+    "meta": null,
+    "name": "bitter-blade",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u3080\u306d\u3093\u306e\u3064\u308b\u304e"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u6094\u5ff5\u5251"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Lama del Rimorso"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Bitter Blade"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u3080\u306d\u3093\u306e\u3064\u308b\u304e"
+        }
+    ],
+    "past_values": [],
+    "power": 90,
+    "pp": 10,
+    "priority": 0,
+    "stat_changes": [],
+    "super_contest_effect": null,
+    "target": {
+        "name": "selected-pokemon",
+        "url": "https://pokedex.mimo.dev/api/move-target/10/"
+    },
+    "type": {
+        "name": "fire",
+        "url": "https://pokedex.mimo.dev/api/type/10/"
+    }
+}

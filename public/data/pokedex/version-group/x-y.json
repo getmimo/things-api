@@ -1,0 +1,65 @@
+{
+    "generation": {
+        "name": "generation-vi",
+        "url": "https://pokedex.mimo.dev/api/generation/6/"
+    },
+    "id": 15,
+    "move_learn_methods": [
+        {
+            "name": "level-up",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+        },
+        {
+            "name": "egg",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/2/"
+        },
+        {
+            "name": "tutor",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+        },
+        {
+            "name": "machine",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+        },
+        {
+            "name": "light-ball-egg",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/6/"
+        },
+        {
+            "name": "form-change",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/10/"
+        }
+    ],
+    "name": "x-y",
+    "order": 15,
+    "pokedexes": [
+        {
+            "name": "kalos-central",
+            "url": "https://pokedex.mimo.dev/api/pokedex/12/"
+        },
+        {
+            "name": "kalos-coastal",
+            "url": "https://pokedex.mimo.dev/api/pokedex/13/"
+        },
+        {
+            "name": "kalos-mountain",
+            "url": "https://pokedex.mimo.dev/api/pokedex/14/"
+        }
+    ],
+    "regions": [
+        {
+            "name": "kalos",
+            "url": "https://pokedex.mimo.dev/api/region/6/"
+        }
+    ],
+    "versions": [
+        {
+            "name": "x",
+            "url": "https://pokedex.mimo.dev/api/version/23/"
+        },
+        {
+            "name": "y",
+            "url": "https://pokedex.mimo.dev/api/version/24/"
+        }
+    ]
+}

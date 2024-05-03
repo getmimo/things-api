@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "name": "swarm",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Essaim"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Schwarm"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Swarm"
+        }
+    ],
+    "values": [
+        {
+            "name": "swarm-yes",
+            "url": "https://pokedex.mimo.dev/api/encounter-condition-value/1/"
+        },
+        {
+            "name": "swarm-no",
+            "url": "https://pokedex.mimo.dev/api/encounter-condition-value/2/"
+        }
+    ]
+}

@@ -1,0 +1,664 @@
+{
+    "encounter_method_rates": [],
+    "game_index": 0,
+    "id": 731,
+    "location": {
+        "name": "kalos-route-20",
+        "url": "https://pokedex.mimo.dev/api/location/650/"
+    },
+    "name": "kalos-route-20-area",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Road 20"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Route 20"
+        }
+    ],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "jigglypuff",
+                "url": "https://pokedex.mimo.dev/api/pokemon/39/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 49
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "x",
+                        "url": "https://pokedex.mimo.dev/api/version/23/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 49
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "y",
+                        "url": "https://pokedex.mimo.dev/api/version/24/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "noctowl",
+                "url": "https://pokedex.mimo.dev/api/pokemon/164/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 49
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 40,
+                    "version": {
+                        "name": "x",
+                        "url": "https://pokedex.mimo.dev/api/version/23/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 49
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 40,
+                    "version": {
+                        "name": "y",
+                        "url": "https://pokedex.mimo.dev/api/version/24/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "zoroark",
+                "url": "https://pokedex.mimo.dev/api/pokemon/571/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "x",
+                        "url": "https://pokedex.mimo.dev/api/version/23/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "y",
+                        "url": "https://pokedex.mimo.dev/api/version/24/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "gothorita",
+                "url": "https://pokedex.mimo.dev/api/pokemon/575/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 49
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 40,
+                    "version": {
+                        "name": "x",
+                        "url": "https://pokedex.mimo.dev/api/version/23/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 49
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 40,
+                    "version": {
+                        "name": "y",
+                        "url": "https://pokedex.mimo.dev/api/version/24/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "amoonguss",
+                "url": "https://pokedex.mimo.dev/api/pokemon/591/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 49
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 49
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 50,
+                    "version": {
+                        "name": "x",
+                        "url": "https://pokedex.mimo.dev/api/version/23/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 49
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 49
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 50,
+                    "version": {
+                        "name": "y",
+                        "url": "https://pokedex.mimo.dev/api/version/24/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "trevenant",
+                "url": "https://pokedex.mimo.dev/api/pokemon/709/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 49
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "x",
+                        "url": "https://pokedex.mimo.dev/api/version/23/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 50,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 48,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 48
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 49,
+                            "method": {
+                                "name": "red-flowers",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/16/"
+                            },
+                            "min_level": 49
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "y",
+                        "url": "https://pokedex.mimo.dev/api/version/24/"
+                    }
+                }
+            ]
+        }
+    ]
+}

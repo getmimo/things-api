@@ -1,0 +1,58 @@
+{
+    "descriptions": [
+        {
+            "description": "Eine spezifische F\u00e4higkeit.  Wie diese F\u00e4higkeit genutzt wird h\u00e4ngt von den genutzten F\u00e4higkeiten ab.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            }
+        },
+        {
+            "description": "One specific move.  How this move is chosen depends upon on the move being used.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            }
+        }
+    ],
+    "id": 1,
+    "moves": [
+        {
+            "name": "counter",
+            "url": "https://pokedex.mimo.dev/api/move/68/"
+        },
+        {
+            "name": "curse",
+            "url": "https://pokedex.mimo.dev/api/move/174/"
+        },
+        {
+            "name": "mirror-coat",
+            "url": "https://pokedex.mimo.dev/api/move/243/"
+        },
+        {
+            "name": "metal-burst",
+            "url": "https://pokedex.mimo.dev/api/move/368/"
+        },
+        {
+            "name": "comeuppance",
+            "url": "https://pokedex.mimo.dev/api/move/894/"
+        }
+    ],
+    "name": "specific-move",
+    "names": [
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Spezifische F\u00e4higkeit"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Specific move"
+        }
+    ]
+}

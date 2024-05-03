@@ -1,0 +1,139 @@
+{
+    "form_name": "sensu",
+    "form_names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u307e\u3044\u307e\u3044\u30b9\u30bf\u30a4\u30eb"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\ud558\ub298\ud558\ub298\uc2a4\ud0c0\uc77c"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u8f15\u76c8\u8f15\u76c8\u98a8\u683c"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Style Buy\u014d"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Buyo-Stil"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Estilo Refinado"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Stile Buy\u014d"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Sensu Style"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u307e\u3044\u307e\u3044\u30b9\u30bf\u30a4\u30eb"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u8f7b\u76c8\u8f7b\u76c8\u98ce\u683c"
+        }
+    ],
+    "form_order": 4,
+    "id": 10227,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "oricorio-sensu",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Plumeline Style Buy\u014d"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Choreogel (Buyo)"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Sensu Oricorio"
+        }
+    ],
+    "order": 1034,
+    "pokemon": {
+        "name": "oricorio-sensu",
+        "url": "https://pokedex.mimo.dev/api/pokemon/10125/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/10125.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/10125.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/10125.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/10125.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "ghost",
+                "url": "https://pokedex.mimo.dev/api/type/8/"
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "flying",
+                "url": "https://pokedex.mimo.dev/api/type/3/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "sun-moon",
+        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+    }
+}

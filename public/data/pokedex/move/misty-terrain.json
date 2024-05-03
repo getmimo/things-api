@@ -1,0 +1,1049 @@
+{
+    "accuracy": null,
+    "contest_combos": null,
+    "contest_effect": null,
+    "contest_type": null,
+    "damage_class": {
+        "name": "status",
+        "url": "https://pokedex.mimo.dev/api/move-damage-class/1/"
+    },
+    "effect_chance": null,
+    "effect_changes": [],
+    "effect_entries": [
+        {
+            "effect": "For five turns, protects all Pok\u00e9mon on the ground from major status ailments and confusion and weakens dragon moves used against them to 0.5\u00d7 their power.\n\nChanges nature power to moonblast.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "short_effect": "For five turns, protects all Pok\u00e9mon on the ground from major status ailments and confusion, and halves the power of incoming dragon moves."
+        }
+    ],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3000\u3042\u3044\u3060\u3000\u3042\u3057\u3082\u3068\u3092\n\u30df\u30b9\u30c8\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3059\u308b\u3002\u3000\u3058\u3081\u3093\u306b\u3044\u308b\u3068\n\u3058\u3087\u3046\u305f\u3044\u3044\u3058\u3087\u3046\u306b\u3000\u306a\u3089\u306a\u3044\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "5\ud134 \ub3d9\uc548 \ubc1c\ubc11\uc744\n\ubbf8\uc2a4\ud2b8\ud544\ub4dc\ub85c \ub9cc\ub4e0\ub2e4. \ub545\uc5d0 \uc788\uc73c\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uc9c0 \uc54a\ub294\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Pendant cinq tours, le terrain aux pieds du lanceur\nse couvre de brume. Les Pok\u00e9mon au sol ne\npeuvent pas subir d\u2019alt\u00e9ration de statut.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Verwandelt den Untergrund f\u00fcnf Runden lang\nin ein Nebelfeld und sch\u00fctzt alle Pok\u00e9mon,\ndie den Boden ber\u00fchren, vor Statusproblemen.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Cubre de niebla el terreno de combate durante\ncinco turnos. Los Pok\u00e9mon que est\u00e9n en el suelo\nno se ven afectados por cambios de estado.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Per cinque turni trasforma il terreno di lotta\nin un campo nebbioso, impedendo ai Pok\u00e9mon\na terra di essere colpiti da problemi di stato.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "The user covers the ground under everyone\u2019s feet\nwith mist for five turns. This protects Pok\u00e9mon\non the ground from status conditions.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3000\u3042\u3044\u3060\u3000\u8db3\u5143\u3092\n\u30df\u30b9\u30c8\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3059\u308b\u3002\u5730\u9762\u306b\u3044\u308b\u3068\n\u72b6\u614b\u7570\u5e38\u306b\u3000\u306a\u3089\u306a\u3044\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3000\u3042\u3044\u3060\u3000\u3042\u3057\u3082\u3068\u3092\n\u30df\u30b9\u30c8\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3059\u308b\u3002\u3000\u3058\u3081\u3093\u306b\u3044\u308b\u3068\n\u3058\u3087\u3046\u305f\u3044\u3044\u3058\u3087\u3046\u306b\u3000\u306a\u3089\u306a\u3044\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "5\ud134 \ub3d9\uc548 \ubc1c\ubc11\uc744\n\ubbf8\uc2a4\ud2b8\ud544\ub4dc\ub85c \ub9cc\ub4e0\ub2e4. \ub545\uc5d0 \uc788\uc73c\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uc9c0 \uc54a\ub294\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Pendant cinq tours, le terrain aux pieds du lanceur\nse couvre de brume. Les Pok\u00e9mon au sol ne\npeuvent pas subir d\u2019alt\u00e9ration de statut.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Verwandelt den Untergrund f\u00fcnf Runden lang\nin ein Nebelfeld und sch\u00fctzt alle Pok\u00e9mon,\ndie den Boden ber\u00fchren, vor Statusproblemen.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Cubre de niebla el terreno de combate durante\ncinco turnos. Los Pok\u00e9mon que est\u00e9n en el suelo \nno se ven afectados por cambios de estado.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Per cinque turni trasforma il terreno di lotta\nin un campo nebbioso, impedendo ai Pok\u00e9mon\na terra di essere colpiti da problemi di stato.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "The user covers the ground under everyone\u2019s feet\nwith mist for five turns. This protects Pok\u00e9mon\non the ground from status conditions.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3000\u3042\u3044\u3060\u3000\u8db3\u5143\u3092\n\u30df\u30b9\u30c8\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3059\u308b\u3002\u5730\u9762\u306b\u3044\u308b\u3068\n\u72b6\u614b\u7570\u5e38\u306b\u3000\u306a\u3089\u306a\u3044\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3042\u3044\u3060\u3000\u3058\u3081\u3093\u306b\u3044\u308b\u3068\n\u3058\u3087\u3046\u305f\u3044\u3044\u3058\u3087\u3046\u306b\u3000\u306a\u3089\u305a\u3000\u30c9\u30e9\u30b4\u30f3\n\u308f\u3056\u306e\u3000\u30c0\u30e1\u30fc\u30b8\u3082\u3000\u306f\u3093\u3076\u3093\u306b\u306a\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "5\ud134 \ub3d9\uc548 \ub545\uc5d0 \uc788\uc73c\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uc9c0 \uc54a\uace0\n\ub4dc\ub798\uace4\ud0c0\uc785 \uae30\uc220\uc758 \ub370\ubbf8\uc9c0\ub3c4 \uc808\ubc18\uc774 \ub41c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\uff15\u56de\u5408\u5167\uff0c\n\u5730\u9762\u4e0a\u7684\u5bf6\u53ef\u5922\u4e0d\u6703\u9677\u5165\u7570\u5e38\u72c0\u614b\u3002\n\u9f8d\u5c6c\u6027\u62db\u5f0f\u7684\u50b7\u5bb3\u4e5f\u6703\u6e1b\u534a\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Pendant cinq tours, les Pok\u00e9mon au sol ne peuvent\npas subir d\u2019alt\u00e9ration de statut et la puissance\ndes capacit\u00e9s de type Dragon est divis\u00e9e par deux.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Sch\u00fctzt f\u00fcnf Runden lang alle Pok\u00e9mon, die den\nBoden ber\u00fchren, vor Statusproblemen. Der erlittene\nSchaden durch Drachen-Attacken wird halbiert.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Durante cinco turnos, los Pok\u00e9mon que est\u00e1n en el\nsuelo no sufren cambios de estado y se reduce a la\nmitad el da\u00f1o de los movimientos de tipo Drag\u00f3n.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Per cinque turni il terreno entra nello stato di Campo\nNebbioso: i Pok\u00e9mon a terra sono immuni ai problemi\ndi stato e la potenza delle mosse Drago \u00e8 dimezzata.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "This protects Pok\u00e9mon on the ground from status\nconditions and halves damage from Dragon-type\nmoves for five turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3000\u9593\u3000\u5730\u9762\u306b\u3044\u308b\u3068\n\u72b6\u614b\u7570\u5e38\u306b\u3000\u306a\u3089\u305a\u3000\u30c9\u30e9\u30b4\u30f3\u6280\u306e\n\u30c0\u30e1\u30fc\u30b8\u3082\u3000\u534a\u5206\u306b\u306a\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\uff15\u56de\u5408\u5185\uff0c\n\u5730\u9762\u4e0a\u7684\u5b9d\u53ef\u68a6\u4e0d\u4f1a\u9677\u5165\u5f02\u5e38\u72b6\u6001\u3002\n\u9f99\u5c5e\u6027\u62db\u5f0f\u7684\u4f24\u5bb3\u4e5f\u4f1a\u51cf\u534a\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3042\u3044\u3060\u3000\u3058\u3081\u3093\u306b\u3044\u308b\u3068\n\u3058\u3087\u3046\u305f\u3044\u3044\u3058\u3087\u3046\u306b\u3000\u306a\u3089\u305a\u3000\u30c9\u30e9\u30b4\u30f3\n\u308f\u3056\u306e\u3000\u30c0\u30e1\u30fc\u30b8\u3082\u3000\u306f\u3093\u3076\u3093\u306b\u306a\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "5\ud134 \ub3d9\uc548 \ub545\uc5d0 \uc788\uc73c\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uc9c0 \uc54a\uace0\n\ub4dc\ub798\uace4\ud0c0\uc785 \uae30\uc220\uc758 \ub370\ubbf8\uc9c0\ub3c4 \uc808\ubc18\uc774 \ub41c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\uff15\u56de\u5408\u5167\uff0c\n\u5730\u9762\u4e0a\u7684\u5bf6\u53ef\u5922\u4e0d\u6703\u9677\u5165\u7570\u5e38\u72c0\u614b\u3002\n\u9f8d\u5c6c\u6027\u62db\u5f0f\u7684\u50b7\u5bb3\u4e5f\u6703\u6e1b\u534a\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Pendant cinq tours, les Pok\u00e9mon au sol ne peuvent\npas subir d\u2019alt\u00e9ration de statut et la puissance\ndes capacit\u00e9s de type Dragon est divis\u00e9e par deux.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Sch\u00fctzt f\u00fcnf Runden lang alle Pok\u00e9mon, die den\nBoden ber\u00fchren, vor Statusproblemen. Der erlittene\nSchaden durch Drachen-Attacken wird halbiert.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Durante cinco turnos, los Pok\u00e9mon que est\u00e1n en el\nsuelo no sufren cambios de estado y se reduce a la\nmitad el da\u00f1o de los movimientos de tipo Drag\u00f3n.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Per cinque turni il terreno entra nello stato di Campo\nNebbioso: i Pok\u00e9mon a terra sono immuni ai problemi\ndi stato e la potenza delle mosse Drago \u00e8 dimezzata.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "This protects Pok\u00e9mon on the ground from status\nconditions and halves damage from Dragon-type\nmoves for five turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3000\u9593\u3000\u5730\u9762\u306b\u3044\u308b\u3068\n\u72b6\u614b\u7570\u5e38\u306b\u3000\u306a\u3089\u305a\u3000\u30c9\u30e9\u30b4\u30f3\u6280\u306e\n\u30c0\u30e1\u30fc\u30b8\u3082\u3000\u534a\u5206\u306b\u306a\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\uff15\u56de\u5408\u5185\uff0c\n\u5730\u9762\u4e0a\u7684\u5b9d\u53ef\u68a6\u4e0d\u4f1a\u9677\u5165\u5f02\u5e38\u72b6\u6001\u3002\n\u9f99\u5c5e\u6027\u62db\u5f0f\u7684\u4f24\u5bb3\u4e5f\u4f1a\u51cf\u534a\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3042\u3044\u3060\u3000\u3058\u3081\u3093\u306b\u3044\u308b\u3068\n\u3058\u3087\u3046\u305f\u3044\u3044\u3058\u3087\u3046\u306b\u3000\u306a\u3089\u305a\u3000\u30c9\u30e9\u30b4\u30f3\n\u308f\u3056\u306e\u3000\u30c0\u30e1\u30fc\u30b8\u3082\u3000\u306f\u3093\u3076\u3093\u306b\u306a\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "5\ud134 \ub3d9\uc548 \ub545\uc5d0 \uc788\uc73c\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uc9c0 \uc54a\uace0\n\ub4dc\ub798\uace4\ud0c0\uc785 \uae30\uc220\uc758 \ub370\ubbf8\uc9c0\ub3c4 \uc808\ubc18\uc774 \ub41c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\uff15\u56de\u5408\u5167\uff0c\n\u5730\u9762\u4e0a\u7684\u5bf6\u53ef\u5922\u4e0d\u6703\u9677\u5165\u7570\u5e38\u72c0\u614b\u3002\n\u9f8d\u5c6c\u6027\u62db\u5f0f\u7684\u50b7\u5bb3\u4e5f\u6703\u6e1b\u534a\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Pendant cinq tours, les Pok\u00e9mon au sol ne peuvent\npas subir d\u2019alt\u00e9ration de statut et la puissance\ndes capacit\u00e9s de type Dragon est divis\u00e9e par deux.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Sch\u00fctzt f\u00fcnf Runden lang alle Pok\u00e9mon, die den\nBoden ber\u00fchren, vor Statusproblemen. Der erlittene\nSchaden durch Drachen-Attacken wird halbiert.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Durante cinco turnos, los Pok\u00e9mon que est\u00e1n en el\nsuelo no sufren cambios de estado y se reduce a la\nmitad el da\u00f1o de los movimientos de tipo Drag\u00f3n.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Per cinque turni il terreno entra nello stato di Campo\nNebbioso: i Pok\u00e9mon a terra sono immuni ai problemi\ndi stato e la potenza delle mosse Drago \u00e8 dimezzata.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "This protects Pok\u00e9mon on the ground from status\nconditions and halves damage from Dragon-type\nmoves for five turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3000\u9593\u3000\u5730\u9762\u306b\u3044\u308b\u3068\n\u72b6\u614b\u7570\u5e38\u306b\u3000\u306a\u3089\u305a\u3000\u30c9\u30e9\u30b4\u30f3\u6280\u306e\n\u30c0\u30e1\u30fc\u30b8\u3082\u3000\u534a\u5206\u306b\u306a\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\uff15\u56de\u5408\u5185\uff0c\n\u5730\u9762\u4e0a\u7684\u5b9d\u53ef\u68a6\u4e0d\u4f1a\u9677\u5165\u5f02\u5e38\u72b6\u6001\u3002\n\u9f99\u5c5e\u6027\u62db\u5f0f\u7684\u4f24\u5bb3\u4e5f\u4f1a\u51cf\u534a\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3042\u3044\u3060\u3000\u3058\u3081\u3093\u306b\u3044\u308b\u3068\n\u3058\u3087\u3046\u305f\u3044\u3044\u3058\u3087\u3046\u306b\u3000\u306a\u3089\u305a\u3000\u30c9\u30e9\u30b4\u30f3\n\u308f\u3056\u306e\u3000\u30c0\u30e1\u30fc\u30b8\u3082\u3000\u306f\u3093\u3076\u3093\u306b\u306a\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "5\ud134 \ub3d9\uc548 \ub545\uc5d0 \uc788\uc73c\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uc9c0 \uc54a\uace0\n\ub4dc\ub798\uace4\ud0c0\uc785 \uae30\uc220\uc758 \ub370\ubbf8\uc9c0\ub3c4 \uc808\ubc18\uc774 \ub41c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\uff15\u56de\u5408\u5167\uff0c\n\u5730\u9762\u4e0a\u7684\u5bf6\u53ef\u5922\u4e0d\u6703\u9677\u5165\u7570\u5e38\u72c0\u614b\u3002\n\u9f8d\u5c6c\u6027\u62db\u5f0f\u7684\u50b7\u5bb3\u4e5f\u6703\u6e1b\u534a\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Pendant cinq tours, les Pok\u00e9mon au sol ne peuvent\npas subir d\u2019alt\u00e9ration de statut et la puissance\ndes capacit\u00e9s de type Dragon est divis\u00e9e par deux.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Sch\u00fctzt f\u00fcnf Runden lang alle Pok\u00e9mon, die den Boden\nber\u00fchren, vor Statusproblemen. Der erlittene Schaden\ndurch Drachen-Attacken wird halbiert.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Durante cinco turnos, los Pok\u00e9mon que est\u00e1n en el\nsuelo no sufren problemas de estado y se reduce a la\nmitad el da\u00f1o de los movimientos de tipo Drag\u00f3n.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Per cinque turni il terreno entra nello stato di Campo\nNebbioso: i Pok\u00e9mon a terra sono immuni ai problemi\ndi stato e la potenza delle mosse Drago \u00e8 dimezzata.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "This protects Pok\u00e9mon on the ground from status\nconditions and halves damage from Dragon-type\nmoves for five turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\uff15\u30bf\u30fc\u30f3\u306e\u3000\u9593\u3000\u5730\u9762\u306b\u3044\u308b\u3068\n\u72b6\u614b\u7570\u5e38\u306b\u3000\u306a\u3089\u305a\u3000\u30c9\u30e9\u30b4\u30f3\u6280\u306e\n\u30c0\u30e1\u30fc\u30b8\u3082\u3000\u534a\u5206\u306b\u306a\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u5728\uff15\u56de\u5408\u5185\uff0c\n\u5730\u9762\u4e0a\u7684\u5b9d\u53ef\u68a6\u4e0d\u4f1a\u9677\u5165\u5f02\u5e38\u72b6\u6001\u3002\n\u9f99\u5c5e\u6027\u62db\u5f0f\u7684\u4f24\u5bb3\u4e5f\u4f1a\u51cf\u534a\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-vi",
+        "url": "https://pokedex.mimo.dev/api/generation/6/"
+    },
+    "id": 581,
+    "learned_by_pokemon": [
+        {
+            "name": "clefairy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/35/"
+        },
+        {
+            "name": "clefable",
+            "url": "https://pokedex.mimo.dev/api/pokemon/36/"
+        },
+        {
+            "name": "jigglypuff",
+            "url": "https://pokedex.mimo.dev/api/pokemon/39/"
+        },
+        {
+            "name": "wigglytuff",
+            "url": "https://pokedex.mimo.dev/api/pokemon/40/"
+        },
+        {
+            "name": "mr-mime",
+            "url": "https://pokedex.mimo.dev/api/pokemon/122/"
+        },
+        {
+            "name": "mew",
+            "url": "https://pokedex.mimo.dev/api/pokemon/151/"
+        },
+        {
+            "name": "cleffa",
+            "url": "https://pokedex.mimo.dev/api/pokemon/173/"
+        },
+        {
+            "name": "igglybuff",
+            "url": "https://pokedex.mimo.dev/api/pokemon/174/"
+        },
+        {
+            "name": "marill",
+            "url": "https://pokedex.mimo.dev/api/pokemon/183/"
+        },
+        {
+            "name": "azumarill",
+            "url": "https://pokedex.mimo.dev/api/pokemon/184/"
+        },
+        {
+            "name": "ralts",
+            "url": "https://pokedex.mimo.dev/api/pokemon/280/"
+        },
+        {
+            "name": "kirlia",
+            "url": "https://pokedex.mimo.dev/api/pokemon/281/"
+        },
+        {
+            "name": "gardevoir",
+            "url": "https://pokedex.mimo.dev/api/pokemon/282/"
+        },
+        {
+            "name": "mawile",
+            "url": "https://pokedex.mimo.dev/api/pokemon/303/"
+        },
+        {
+            "name": "mime-jr",
+            "url": "https://pokedex.mimo.dev/api/pokemon/439/"
+        },
+        {
+            "name": "gallade",
+            "url": "https://pokedex.mimo.dev/api/pokemon/475/"
+        },
+        {
+            "name": "arceus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/493/"
+        },
+        {
+            "name": "audino",
+            "url": "https://pokedex.mimo.dev/api/pokemon/531/"
+        },
+        {
+            "name": "cottonee",
+            "url": "https://pokedex.mimo.dev/api/pokemon/546/"
+        },
+        {
+            "name": "whimsicott",
+            "url": "https://pokedex.mimo.dev/api/pokemon/547/"
+        },
+        {
+            "name": "alomomola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/594/"
+        },
+        {
+            "name": "flabebe",
+            "url": "https://pokedex.mimo.dev/api/pokemon/669/"
+        },
+        {
+            "name": "floette",
+            "url": "https://pokedex.mimo.dev/api/pokemon/670/"
+        },
+        {
+            "name": "florges",
+            "url": "https://pokedex.mimo.dev/api/pokemon/671/"
+        },
+        {
+            "name": "meowstic-male",
+            "url": "https://pokedex.mimo.dev/api/pokemon/678/"
+        },
+        {
+            "name": "spritzee",
+            "url": "https://pokedex.mimo.dev/api/pokemon/682/"
+        },
+        {
+            "name": "aromatisse",
+            "url": "https://pokedex.mimo.dev/api/pokemon/683/"
+        },
+        {
+            "name": "sylveon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/700/"
+        },
+        {
+            "name": "dedenne",
+            "url": "https://pokedex.mimo.dev/api/pokemon/702/"
+        },
+        {
+            "name": "carbink",
+            "url": "https://pokedex.mimo.dev/api/pokemon/703/"
+        },
+        {
+            "name": "klefki",
+            "url": "https://pokedex.mimo.dev/api/pokemon/707/"
+        },
+        {
+            "name": "xerneas",
+            "url": "https://pokedex.mimo.dev/api/pokemon/716/"
+        },
+        {
+            "name": "volcanion",
+            "url": "https://pokedex.mimo.dev/api/pokemon/721/"
+        },
+        {
+            "name": "popplio",
+            "url": "https://pokedex.mimo.dev/api/pokemon/728/"
+        },
+        {
+            "name": "brionne",
+            "url": "https://pokedex.mimo.dev/api/pokemon/729/"
+        },
+        {
+            "name": "primarina",
+            "url": "https://pokedex.mimo.dev/api/pokemon/730/"
+        },
+        {
+            "name": "mimikyu-disguised",
+            "url": "https://pokedex.mimo.dev/api/pokemon/778/"
+        },
+        {
+            "name": "tapu-fini",
+            "url": "https://pokedex.mimo.dev/api/pokemon/788/"
+        },
+        {
+            "name": "magearna",
+            "url": "https://pokedex.mimo.dev/api/pokemon/801/"
+        },
+        {
+            "name": "hatenna",
+            "url": "https://pokedex.mimo.dev/api/pokemon/856/"
+        },
+        {
+            "name": "hattrem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/857/"
+        },
+        {
+            "name": "hatterene",
+            "url": "https://pokedex.mimo.dev/api/pokemon/858/"
+        },
+        {
+            "name": "impidimp",
+            "url": "https://pokedex.mimo.dev/api/pokemon/859/"
+        },
+        {
+            "name": "morgrem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/860/"
+        },
+        {
+            "name": "grimmsnarl",
+            "url": "https://pokedex.mimo.dev/api/pokemon/861/"
+        },
+        {
+            "name": "mr-rime",
+            "url": "https://pokedex.mimo.dev/api/pokemon/866/"
+        },
+        {
+            "name": "milcery",
+            "url": "https://pokedex.mimo.dev/api/pokemon/868/"
+        },
+        {
+            "name": "alcremie",
+            "url": "https://pokedex.mimo.dev/api/pokemon/869/"
+        },
+        {
+            "name": "zacian",
+            "url": "https://pokedex.mimo.dev/api/pokemon/888/"
+        },
+        {
+            "name": "enamorus-incarnate",
+            "url": "https://pokedex.mimo.dev/api/pokemon/905/"
+        },
+        {
+            "name": "quaxly",
+            "url": "https://pokedex.mimo.dev/api/pokemon/912/"
+        },
+        {
+            "name": "quaxwell",
+            "url": "https://pokedex.mimo.dev/api/pokemon/913/"
+        },
+        {
+            "name": "quaquaval",
+            "url": "https://pokedex.mimo.dev/api/pokemon/914/"
+        },
+        {
+            "name": "fidough",
+            "url": "https://pokedex.mimo.dev/api/pokemon/926/"
+        },
+        {
+            "name": "dachsbun",
+            "url": "https://pokedex.mimo.dev/api/pokemon/927/"
+        },
+        {
+            "name": "scream-tail",
+            "url": "https://pokedex.mimo.dev/api/pokemon/985/"
+        },
+        {
+            "name": "flutter-mane",
+            "url": "https://pokedex.mimo.dev/api/pokemon/987/"
+        },
+        {
+            "name": "iron-valiant",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1006/"
+        },
+        {
+            "name": "gardevoir-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10051/"
+        },
+        {
+            "name": "mawile-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10052/"
+        },
+        {
+            "name": "floette-eternal",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10061/"
+        },
+        {
+            "name": "audino-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10069/"
+        },
+        {
+            "name": "vulpix-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10103/"
+        },
+        {
+            "name": "ninetales-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10104/"
+        },
+        {
+            "name": "mimikyu-busted",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10143/"
+        },
+        {
+            "name": "magearna-original",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10147/"
+        },
+        {
+            "name": "rapidash-galar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10163/"
+        },
+        {
+            "name": "weezing-galar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10167/"
+        },
+        {
+            "name": "mr-mime-galar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10168/"
+        },
+        {
+            "name": "zacian-crowned",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10188/"
+        },
+        {
+            "name": "enamorus-therian",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10249/"
+        }
+    ],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1401/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        }
+    ],
+    "meta": {
+        "ailment": {
+            "name": "none",
+            "url": "https://pokedex.mimo.dev/api/move-ailment/0/"
+        },
+        "ailment_chance": 0,
+        "category": {
+            "name": "whole-field-effect",
+            "url": "https://pokedex.mimo.dev/api/move-category/10/"
+        },
+        "crit_rate": 0,
+        "drain": 0,
+        "flinch_chance": 0,
+        "healing": 0,
+        "max_hits": null,
+        "max_turns": null,
+        "min_hits": null,
+        "min_turns": null,
+        "stat_chance": 0
+    },
+    "name": "misty-terrain",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30df\u30b9\u30c8\u30d5\u30a3\u30fc\u30eb\u30c9"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\ubbf8\uc2a4\ud2b8\ud544\ub4dc"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u8584\u9727\u5834\u5730"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Champ Brumeux"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Nebelfeld"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Campo de Niebla"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Campo Nebbioso"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Misty Terrain"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u30df\u30b9\u30c8\u30d5\u30a3\u30fc\u30eb\u30c9"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u8584\u96fe\u573a\u5730"
+        }
+    ],
+    "past_values": [],
+    "power": null,
+    "pp": 10,
+    "priority": 0,
+    "stat_changes": [],
+    "super_contest_effect": null,
+    "target": {
+        "name": "entire-field",
+        "url": "https://pokedex.mimo.dev/api/move-target/12/"
+    },
+    "type": {
+        "name": "fairy",
+        "url": "https://pokedex.mimo.dev/api/type/18/"
+    }
+}

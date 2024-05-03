@@ -1,0 +1,83 @@
+{
+    "accuracy": null,
+    "contest_combos": null,
+    "contest_effect": null,
+    "contest_type": null,
+    "damage_class": {
+        "name": "status",
+        "url": "https://pokedex.mimo.dev/api/move-damage-class/1/"
+    },
+    "effect_chance": null,
+    "effect_changes": [],
+    "effect_entries": [],
+    "flavor_text_entries": [],
+    "generation": {
+        "name": "generation-ix",
+        "url": "https://pokedex.mimo.dev/api/generation/9/"
+    },
+    "id": 863,
+    "learned_by_pokemon": [
+        {
+            "name": "pawmot",
+            "url": "https://pokedex.mimo.dev/api/pokemon/923/"
+        },
+        {
+            "name": "rabsca",
+            "url": "https://pokedex.mimo.dev/api/pokemon/954/"
+        }
+    ],
+    "machines": [],
+    "meta": null,
+    "name": "revival-blessing",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u3055\u3044\u304d\u306e\u3044\u306e\u308a"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u590d\u751f\u7948\u7977"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Preghiera Vitale"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Revival Blessing"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u3055\u3044\u304d\u306e\u3044\u306e\u308a"
+        }
+    ],
+    "past_values": [],
+    "power": 0,
+    "pp": 1,
+    "priority": 0,
+    "stat_changes": [],
+    "super_contest_effect": null,
+    "target": {
+        "name": "fainting-pokemon",
+        "url": "https://pokedex.mimo.dev/api/move-target/16/"
+    },
+    "type": {
+        "name": "normal",
+        "url": "https://pokedex.mimo.dev/api/type/1/"
+    }
+}

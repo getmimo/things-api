@@ -1,0 +1,1769 @@
+{
+    "accuracy": 100,
+    "contest_combos": null,
+    "contest_effect": {
+        "url": "https://pokedex.mimo.dev/api/contest-effect/18/"
+    },
+    "contest_type": {
+        "name": "cute",
+        "url": "https://pokedex.mimo.dev/api/contest-type/3/"
+    },
+    "damage_class": {
+        "name": "status",
+        "url": "https://pokedex.mimo.dev/api/move-damage-class/1/"
+    },
+    "effect_chance": null,
+    "effect_changes": [],
+    "effect_entries": [
+        {
+            "effect": "The next 4\u20138 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.\n\nIf the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror move, sketch, struggle, or transform, this move will fail.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "short_effect": "Forces the target to repeat its last used move every turn for 2 to 6 turns."
+        }
+    ],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "Makes the foe re\u00ad\npeat 2-6 times.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "gold-silver",
+                "url": "https://pokedex.mimo.dev/api/version-group/3/"
+            }
+        },
+        {
+            "flavor_text": "Makes the foe re\u00ad\npeat 2-6 times.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "crystal",
+                "url": "https://pokedex.mimo.dev/api/version-group/4/"
+            }
+        },
+        {
+            "flavor_text": "Makes the foe repeat its\nlast move over 2 to 6 turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "ruby-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/5/"
+            }
+        },
+        {
+            "flavor_text": "Makes the foe repeat its\nlast move over 2 to 6 turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "emerald",
+                "url": "https://pokedex.mimo.dev/api/version-group/6/"
+            }
+        },
+        {
+            "flavor_text": "Makes the foe use\nthe move it last\nused repeatedly for\ntwo to six turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "firered-leafgreen",
+                "url": "https://pokedex.mimo.dev/api/version-group/7/"
+            }
+        },
+        {
+            "flavor_text": "The user compels the\nfoe to keep using\nonly the move it last\nused for two to six\nturns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "diamond-pearl",
+                "url": "https://pokedex.mimo.dev/api/version-group/8/"
+            }
+        },
+        {
+            "flavor_text": "The user compels the\nfoe to keep using\nonly the move it last\nused for three to\nseven turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "platinum",
+                "url": "https://pokedex.mimo.dev/api/version-group/9/"
+            }
+        },
+        {
+            "flavor_text": "The user compels the\nfoe to keep using\nonly the move it last\nused for three to\nseven turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "heartgold-soulsilver",
+                "url": "https://pokedex.mimo.dev/api/version-group/10/"
+            }
+        },
+        {
+            "flavor_text": "Oblige l\u2019ennemi \u00e0 r\u00e9p\u00e9ter la derni\u00e8re\ncapacit\u00e9 utilis\u00e9e durant 3 tours.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "https://pokedex.mimo.dev/api/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "The user compels the target\nto keep using only the move\nit last used for three turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "https://pokedex.mimo.dev/api/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "The user compels the target\nto keep using only the move\nit last used for three turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "black-2-white-2",
+                "url": "https://pokedex.mimo.dev/api/version-group/14/"
+            }
+        },
+        {
+            "flavor_text": "\u3042\u3044\u3066\u304c\u3000\u3055\u3044\u3054\u306b\u3000\u3064\u304b\u3063\u305f\u3000\u308f\u3056\u3092\n\uff13\u30bf\u30fc\u30f3\u306e\u3000\u3042\u3044\u3060\n\u305a\u3063\u3068\u3000\u3060\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\uc0c1\ub300\uac00 \ub9c8\uc9c0\ub9c9\uc73c\ub85c \uc0ac\uc6a9\ud55c\n\uae30\uc220\uc744 3\ud134 \ub3d9\uc548\n\uacc4\uc18d \uc4f0\uac8c \ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Oblige l\u2019ennemi \u00e0 r\u00e9p\u00e9ter durant trois tours la\nderni\u00e8re capacit\u00e9 utilis\u00e9e.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Das Ziel wiederholt die letzte Attacke\ndrei Runden lang.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "El objetivo repite su \u00faltimo movimiento durante\ntres turnos.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa obbliga il bersaglio a ripetere per tre\nturni l\u2019ultima mossa eseguita.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "The user compels the target\nto keep using only the move\nit last used for three turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u76f8\u624b\u304c\u3000\u6700\u5f8c\u306b\u3000\u4f7f\u3063\u305f\u6280\u3092\n\uff13\u30bf\u30fc\u30f3\u306e\u3000\u3042\u3044\u3060\n\u305a\u3063\u3068\u3000\u3060\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u3042\u3044\u3066\u304c\u3000\u3055\u3044\u3054\u306b\u3000\u3064\u304b\u3063\u305f\u3000\u308f\u3056\u3092\n\uff13\u30bf\u30fc\u30f3\u306e\u3000\u3042\u3044\u3060\n\u305a\u3063\u3068\u3000\u3060\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\uc0c1\ub300\uac00 \ub9c8\uc9c0\ub9c9\uc73c\ub85c \uc0ac\uc6a9\ud55c\n\uae30\uc220\uc744 3\ud134 \ub3d9\uc548\n\uacc4\uc18d \uc4f0\uac8c \ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Oblige l\u2019ennemi \u00e0 r\u00e9p\u00e9ter durant trois tours la\nderni\u00e8re capacit\u00e9 utilis\u00e9e.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Das Ziel wiederholt die letzte Attacke\ndrei Runden lang.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "El objetivo repite su \u00faltimo movimiento durante tres \nturnos.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa obbliga il bersaglio a ripetere per tre\nturni l\u2019ultima mossa eseguita.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "The user compels the target\nto keep using only the move\nit last used for three turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u76f8\u624b\u304c\u3000\u6700\u5f8c\u306b\u3000\u4f7f\u3063\u305f\u6280\u3092\n\uff13\u30bf\u30fc\u30f3\u306e\u3000\u3042\u3044\u3060\n\u305a\u3063\u3068\u3000\u3060\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u3042\u3044\u3066\u306b\u3000\u30a2\u30f3\u30b3\u30fc\u30eb\u3057\u305f\u3000\u308f\u3056\u3092\n\uff13\u304b\u3044\u3000\u3064\u3065\u3051\u3066\u3000\u3060\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\uc0c1\ub300\uc5d0\uac8c \uc575\ucf5c\uc2dc\ud0a8 \uae30\uc220\uc744\n3\ubc88 \uc5f0\uc18d\uc73c\ub85c \uc4f0\uac8c \ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u8981\u6c42\u5c0d\u624b\u518d\u4f86\u4e00\u6b21\uff0c\n\u8b93\u5c0d\u624b\u9023\u7e8c\uff13\u6b21\n\u4f7f\u51fa\u6700\u8fd1\u4e00\u6b21\u4f7f\u7528\u7684\u62db\u5f0f\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Oblige l\u2019ennemi \u00e0 r\u00e9p\u00e9ter durant trois tours\nla derni\u00e8re capacit\u00e9 utilis\u00e9e.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Das Ziel wiederholt die letzte Attacke\ndrei Runden lang.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "El objetivo repite su \u00faltimo movimiento durante tres \nturnos.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa obbliga il bersaglio a ripetere per tre\nturni l\u2019ultima mossa eseguita.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "The user compels the target to keep using the move\nit encored for three turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u76f8\u624b\u306b\u3000\u30a2\u30f3\u30b3\u30fc\u30eb\u3057\u305f\u3000\u6280\u3092\n\uff13\u56de\u3000\u7d9a\u3051\u3066\u3000\u51fa\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u8ba9\u5bf9\u624b\u63a5\u53d7\u518d\u6765\u4e00\u6b21\uff0c\n\u8fde\u7eed\uff13\u6b21\u4f7f\u51fa\u6700\u540e\u4f7f\u7528\u7684\u62db\u5f0f\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u3042\u3044\u3066\u306b\u3000\u30a2\u30f3\u30b3\u30fc\u30eb\u3057\u305f\u3000\u308f\u3056\u3092\n\uff13\u304b\u3044\u3000\u3064\u3065\u3051\u3066\u3000\u3060\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\uc0c1\ub300\uc5d0\uac8c \uc575\ucf5c\uc2dc\ud0a8 \uae30\uc220\uc744\n3\ubc88 \uc5f0\uc18d\uc73c\ub85c \uc4f0\uac8c \ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u8981\u6c42\u5c0d\u624b\u518d\u4f86\u4e00\u6b21\uff0c\n\u8b93\u5c0d\u624b\u9023\u7e8c\uff13\u6b21\n\u4f7f\u51fa\u6700\u8fd1\u4e00\u6b21\u4f7f\u7528\u7684\u62db\u5f0f\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Oblige l\u2019ennemi \u00e0 r\u00e9p\u00e9ter durant trois tours\nla derni\u00e8re capacit\u00e9 utilis\u00e9e.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Das Ziel wiederholt die letzte Attacke\ndrei Runden lang.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "El objetivo repite su \u00faltimo movimiento durante tres \nturnos.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa obbliga il bersaglio a ripetere per tre\nturni l\u2019ultima mossa eseguita.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "The user compels the target to keep using the move\nit encored for three turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u76f8\u624b\u306b\u3000\u30a2\u30f3\u30b3\u30fc\u30eb\u3057\u305f\u3000\u6280\u3092\n\uff13\u56de\u3000\u7d9a\u3051\u3066\u3000\u51fa\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u8ba9\u5bf9\u624b\u63a5\u53d7\u518d\u6765\u4e00\u6b21\uff0c\n\u8fde\u7eed\uff13\u6b21\u4f7f\u51fa\u6700\u540e\u4f7f\u7528\u7684\u62db\u5f0f\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u3042\u3044\u3066\u306b\u3000\u30a2\u30f3\u30b3\u30fc\u30eb\u3057\u305f\u3000\u308f\u3056\u3092\n\uff13\u304b\u3044\u3000\u3064\u3065\u3051\u3066\u3000\u3060\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\uc0c1\ub300\uc5d0\uac8c \uc575\ucf5c\uc2dc\ud0a8 \uae30\uc220\uc744\n3\ubc88 \uc5f0\uc18d\uc73c\ub85c \uc4f0\uac8c \ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u8981\u6c42\u5c0d\u624b\u518d\u4f86\u4e00\u6b21\uff0c\n\u8b93\u5c0d\u624b\u9023\u7e8c\uff13\u6b21\n\u4f7f\u51fa\u6700\u8fd1\u4e00\u6b21\u4f7f\u7528\u7684\u62db\u5f0f\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Oblige l\u2019ennemi \u00e0 r\u00e9p\u00e9ter durant trois tours\nla derni\u00e8re capacit\u00e9 utilis\u00e9e.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Das Ziel wiederholt die letzte Attacke\ndrei Runden lang.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "El objetivo repite su \u00faltimo movimiento durante tres \nturnos.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa obbliga il bersaglio a ripetere per tre\nturni l\u2019ultima mossa eseguita.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "The user compels the target to keep using the move\nit encored for three turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u76f8\u624b\u306b\u3000\u30a2\u30f3\u30b3\u30fc\u30eb\u3057\u305f\u3000\u6280\u3092\n\uff13\u56de\u3000\u7d9a\u3051\u3066\u3000\u51fa\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u8ba9\u5bf9\u624b\u63a5\u53d7\u518d\u6765\u4e00\u6b21\uff0c\n\u8fde\u7eed\uff13\u6b21\u4f7f\u51fa\u6700\u540e\u4f7f\u7528\u7684\u62db\u5f0f\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u3042\u3044\u3066\u306b\u3000\u30a2\u30f3\u30b3\u30fc\u30eb\u3057\u305f\u3000\u308f\u3056\u3092\n\uff13\u304b\u3044\u3000\u3064\u3065\u3051\u3066\u3000\u3060\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\uc0c1\ub300\uc5d0\uac8c \uc575\ucf5c\uc2dc\ud0a8 \uae30\uc220\uc744\n3\ubc88 \uc5f0\uc18d\uc73c\ub85c \uc4f0\uac8c \ud55c\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u8981\u6c42\u5c0d\u624b\u518d\u4f86\u4e00\u6b21\uff0c\n\u8b93\u5c0d\u624b\u9023\u7e8c\uff13\u6b21\n\u4f7f\u51fa\u6700\u8fd1\u4e00\u6b21\u4f7f\u7528\u7684\u62db\u5f0f\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Oblige l\u2019ennemi \u00e0 r\u00e9p\u00e9ter la derni\u00e8re capacit\u00e9 utilis\u00e9e\ndurant trois tours.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Das Ziel wiederholt die letzte Attacke drei Runden lang.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "El objetivo repite su \u00faltimo movimiento durante tres \nturnos.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa obbliga il bersaglio a ripetere per tre\nturni l\u2019ultima mossa eseguita.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "The user compels the target to keep using the move\nit encored for three turns.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u76f8\u624b\u306b\u3000\u30a2\u30f3\u30b3\u30fc\u30eb\u3057\u305f\u3000\u6280\u3092\n\uff13\u56de\u3000\u7d9a\u3051\u3066\u3000\u51fa\u3055\u305b\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u8ba9\u5bf9\u624b\u63a5\u53d7\u518d\u6765\u4e00\u6b21\uff0c\n\u8fde\u7eed\uff13\u6b21\u4f7f\u51fa\u6700\u540e\u4f7f\u7528\u7684\u62db\u5f0f\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-ii",
+        "url": "https://pokedex.mimo.dev/api/generation/2/"
+    },
+    "id": 227,
+    "learned_by_pokemon": [
+        {
+            "name": "pikachu",
+            "url": "https://pokedex.mimo.dev/api/pokemon/25/"
+        },
+        {
+            "name": "raichu",
+            "url": "https://pokedex.mimo.dev/api/pokemon/26/"
+        },
+        {
+            "name": "clefairy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/35/"
+        },
+        {
+            "name": "clefable",
+            "url": "https://pokedex.mimo.dev/api/pokemon/36/"
+        },
+        {
+            "name": "vulpix",
+            "url": "https://pokedex.mimo.dev/api/pokemon/37/"
+        },
+        {
+            "name": "ninetales",
+            "url": "https://pokedex.mimo.dev/api/pokemon/38/"
+        },
+        {
+            "name": "jigglypuff",
+            "url": "https://pokedex.mimo.dev/api/pokemon/39/"
+        },
+        {
+            "name": "wigglytuff",
+            "url": "https://pokedex.mimo.dev/api/pokemon/40/"
+        },
+        {
+            "name": "psyduck",
+            "url": "https://pokedex.mimo.dev/api/pokemon/54/"
+        },
+        {
+            "name": "golduck",
+            "url": "https://pokedex.mimo.dev/api/pokemon/55/"
+        },
+        {
+            "name": "mankey",
+            "url": "https://pokedex.mimo.dev/api/pokemon/56/"
+        },
+        {
+            "name": "primeape",
+            "url": "https://pokedex.mimo.dev/api/pokemon/57/"
+        },
+        {
+            "name": "poliwag",
+            "url": "https://pokedex.mimo.dev/api/pokemon/60/"
+        },
+        {
+            "name": "poliwhirl",
+            "url": "https://pokedex.mimo.dev/api/pokemon/61/"
+        },
+        {
+            "name": "poliwrath",
+            "url": "https://pokedex.mimo.dev/api/pokemon/62/"
+        },
+        {
+            "name": "abra",
+            "url": "https://pokedex.mimo.dev/api/pokemon/63/"
+        },
+        {
+            "name": "kadabra",
+            "url": "https://pokedex.mimo.dev/api/pokemon/64/"
+        },
+        {
+            "name": "alakazam",
+            "url": "https://pokedex.mimo.dev/api/pokemon/65/"
+        },
+        {
+            "name": "machop",
+            "url": "https://pokedex.mimo.dev/api/pokemon/66/"
+        },
+        {
+            "name": "machoke",
+            "url": "https://pokedex.mimo.dev/api/pokemon/67/"
+        },
+        {
+            "name": "machamp",
+            "url": "https://pokedex.mimo.dev/api/pokemon/68/"
+        },
+        {
+            "name": "bellsprout",
+            "url": "https://pokedex.mimo.dev/api/pokemon/69/"
+        },
+        {
+            "name": "weepinbell",
+            "url": "https://pokedex.mimo.dev/api/pokemon/70/"
+        },
+        {
+            "name": "victreebel",
+            "url": "https://pokedex.mimo.dev/api/pokemon/71/"
+        },
+        {
+            "name": "seel",
+            "url": "https://pokedex.mimo.dev/api/pokemon/86/"
+        },
+        {
+            "name": "dewgong",
+            "url": "https://pokedex.mimo.dev/api/pokemon/87/"
+        },
+        {
+            "name": "haunter",
+            "url": "https://pokedex.mimo.dev/api/pokemon/93/"
+        },
+        {
+            "name": "gengar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/94/"
+        },
+        {
+            "name": "drowzee",
+            "url": "https://pokedex.mimo.dev/api/pokemon/96/"
+        },
+        {
+            "name": "hypno",
+            "url": "https://pokedex.mimo.dev/api/pokemon/97/"
+        },
+        {
+            "name": "hitmonchan",
+            "url": "https://pokedex.mimo.dev/api/pokemon/107/"
+        },
+        {
+            "name": "mr-mime",
+            "url": "https://pokedex.mimo.dev/api/pokemon/122/"
+        },
+        {
+            "name": "jynx",
+            "url": "https://pokedex.mimo.dev/api/pokemon/124/"
+        },
+        {
+            "name": "snorlax",
+            "url": "https://pokedex.mimo.dev/api/pokemon/143/"
+        },
+        {
+            "name": "dragonite",
+            "url": "https://pokedex.mimo.dev/api/pokemon/149/"
+        },
+        {
+            "name": "mew",
+            "url": "https://pokedex.mimo.dev/api/pokemon/151/"
+        },
+        {
+            "name": "chikorita",
+            "url": "https://pokedex.mimo.dev/api/pokemon/152/"
+        },
+        {
+            "name": "bayleef",
+            "url": "https://pokedex.mimo.dev/api/pokemon/153/"
+        },
+        {
+            "name": "meganium",
+            "url": "https://pokedex.mimo.dev/api/pokemon/154/"
+        },
+        {
+            "name": "ledyba",
+            "url": "https://pokedex.mimo.dev/api/pokemon/165/"
+        },
+        {
+            "name": "pichu",
+            "url": "https://pokedex.mimo.dev/api/pokemon/172/"
+        },
+        {
+            "name": "cleffa",
+            "url": "https://pokedex.mimo.dev/api/pokemon/173/"
+        },
+        {
+            "name": "igglybuff",
+            "url": "https://pokedex.mimo.dev/api/pokemon/174/"
+        },
+        {
+            "name": "togepi",
+            "url": "https://pokedex.mimo.dev/api/pokemon/175/"
+        },
+        {
+            "name": "togetic",
+            "url": "https://pokedex.mimo.dev/api/pokemon/176/"
+        },
+        {
+            "name": "bellossom",
+            "url": "https://pokedex.mimo.dev/api/pokemon/182/"
+        },
+        {
+            "name": "marill",
+            "url": "https://pokedex.mimo.dev/api/pokemon/183/"
+        },
+        {
+            "name": "azumarill",
+            "url": "https://pokedex.mimo.dev/api/pokemon/184/"
+        },
+        {
+            "name": "politoed",
+            "url": "https://pokedex.mimo.dev/api/pokemon/186/"
+        },
+        {
+            "name": "hoppip",
+            "url": "https://pokedex.mimo.dev/api/pokemon/187/"
+        },
+        {
+            "name": "skiploom",
+            "url": "https://pokedex.mimo.dev/api/pokemon/188/"
+        },
+        {
+            "name": "jumpluff",
+            "url": "https://pokedex.mimo.dev/api/pokemon/189/"
+        },
+        {
+            "name": "sunkern",
+            "url": "https://pokedex.mimo.dev/api/pokemon/191/"
+        },
+        {
+            "name": "sunflora",
+            "url": "https://pokedex.mimo.dev/api/pokemon/192/"
+        },
+        {
+            "name": "wooper",
+            "url": "https://pokedex.mimo.dev/api/pokemon/194/"
+        },
+        {
+            "name": "quagsire",
+            "url": "https://pokedex.mimo.dev/api/pokemon/195/"
+        },
+        {
+            "name": "wobbuffet",
+            "url": "https://pokedex.mimo.dev/api/pokemon/202/"
+        },
+        {
+            "name": "snubbull",
+            "url": "https://pokedex.mimo.dev/api/pokemon/209/"
+        },
+        {
+            "name": "granbull",
+            "url": "https://pokedex.mimo.dev/api/pokemon/210/"
+        },
+        {
+            "name": "shuckle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/213/"
+        },
+        {
+            "name": "phanpy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/231/"
+        },
+        {
+            "name": "donphan",
+            "url": "https://pokedex.mimo.dev/api/pokemon/232/"
+        },
+        {
+            "name": "smoochum",
+            "url": "https://pokedex.mimo.dev/api/pokemon/238/"
+        },
+        {
+            "name": "lombre",
+            "url": "https://pokedex.mimo.dev/api/pokemon/271/"
+        },
+        {
+            "name": "ludicolo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/272/"
+        },
+        {
+            "name": "ralts",
+            "url": "https://pokedex.mimo.dev/api/pokemon/280/"
+        },
+        {
+            "name": "kirlia",
+            "url": "https://pokedex.mimo.dev/api/pokemon/281/"
+        },
+        {
+            "name": "gardevoir",
+            "url": "https://pokedex.mimo.dev/api/pokemon/282/"
+        },
+        {
+            "name": "slakoth",
+            "url": "https://pokedex.mimo.dev/api/pokemon/287/"
+        },
+        {
+            "name": "vigoroth",
+            "url": "https://pokedex.mimo.dev/api/pokemon/288/"
+        },
+        {
+            "name": "slaking",
+            "url": "https://pokedex.mimo.dev/api/pokemon/289/"
+        },
+        {
+            "name": "azurill",
+            "url": "https://pokedex.mimo.dev/api/pokemon/298/"
+        },
+        {
+            "name": "sableye",
+            "url": "https://pokedex.mimo.dev/api/pokemon/302/"
+        },
+        {
+            "name": "plusle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/311/"
+        },
+        {
+            "name": "minun",
+            "url": "https://pokedex.mimo.dev/api/pokemon/312/"
+        },
+        {
+            "name": "volbeat",
+            "url": "https://pokedex.mimo.dev/api/pokemon/313/"
+        },
+        {
+            "name": "illumise",
+            "url": "https://pokedex.mimo.dev/api/pokemon/314/"
+        },
+        {
+            "name": "gulpin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/316/"
+        },
+        {
+            "name": "swalot",
+            "url": "https://pokedex.mimo.dev/api/pokemon/317/"
+        },
+        {
+            "name": "spoink",
+            "url": "https://pokedex.mimo.dev/api/pokemon/325/"
+        },
+        {
+            "name": "grumpig",
+            "url": "https://pokedex.mimo.dev/api/pokemon/326/"
+        },
+        {
+            "name": "spinda",
+            "url": "https://pokedex.mimo.dev/api/pokemon/327/"
+        },
+        {
+            "name": "cacnea",
+            "url": "https://pokedex.mimo.dev/api/pokemon/331/"
+        },
+        {
+            "name": "cacturne",
+            "url": "https://pokedex.mimo.dev/api/pokemon/332/"
+        },
+        {
+            "name": "shuppet",
+            "url": "https://pokedex.mimo.dev/api/pokemon/353/"
+        },
+        {
+            "name": "banette",
+            "url": "https://pokedex.mimo.dev/api/pokemon/354/"
+        },
+        {
+            "name": "chimecho",
+            "url": "https://pokedex.mimo.dev/api/pokemon/358/"
+        },
+        {
+            "name": "wynaut",
+            "url": "https://pokedex.mimo.dev/api/pokemon/360/"
+        },
+        {
+            "name": "spheal",
+            "url": "https://pokedex.mimo.dev/api/pokemon/363/"
+        },
+        {
+            "name": "sealeo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/364/"
+        },
+        {
+            "name": "walrein",
+            "url": "https://pokedex.mimo.dev/api/pokemon/365/"
+        },
+        {
+            "name": "jirachi",
+            "url": "https://pokedex.mimo.dev/api/pokemon/385/"
+        },
+        {
+            "name": "chimchar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/390/"
+        },
+        {
+            "name": "monferno",
+            "url": "https://pokedex.mimo.dev/api/pokemon/391/"
+        },
+        {
+            "name": "infernape",
+            "url": "https://pokedex.mimo.dev/api/pokemon/392/"
+        },
+        {
+            "name": "pachirisu",
+            "url": "https://pokedex.mimo.dev/api/pokemon/417/"
+        },
+        {
+            "name": "buneary",
+            "url": "https://pokedex.mimo.dev/api/pokemon/427/"
+        },
+        {
+            "name": "lopunny",
+            "url": "https://pokedex.mimo.dev/api/pokemon/428/"
+        },
+        {
+            "name": "mime-jr",
+            "url": "https://pokedex.mimo.dev/api/pokemon/439/"
+        },
+        {
+            "name": "chatot",
+            "url": "https://pokedex.mimo.dev/api/pokemon/441/"
+        },
+        {
+            "name": "munchlax",
+            "url": "https://pokedex.mimo.dev/api/pokemon/446/"
+        },
+        {
+            "name": "croagunk",
+            "url": "https://pokedex.mimo.dev/api/pokemon/453/"
+        },
+        {
+            "name": "toxicroak",
+            "url": "https://pokedex.mimo.dev/api/pokemon/454/"
+        },
+        {
+            "name": "lumineon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/457/"
+        },
+        {
+            "name": "togekiss",
+            "url": "https://pokedex.mimo.dev/api/pokemon/468/"
+        },
+        {
+            "name": "gallade",
+            "url": "https://pokedex.mimo.dev/api/pokemon/475/"
+        },
+        {
+            "name": "uxie",
+            "url": "https://pokedex.mimo.dev/api/pokemon/480/"
+        },
+        {
+            "name": "mesprit",
+            "url": "https://pokedex.mimo.dev/api/pokemon/481/"
+        },
+        {
+            "name": "azelf",
+            "url": "https://pokedex.mimo.dev/api/pokemon/482/"
+        },
+        {
+            "name": "victini",
+            "url": "https://pokedex.mimo.dev/api/pokemon/494/"
+        },
+        {
+            "name": "oshawott",
+            "url": "https://pokedex.mimo.dev/api/pokemon/501/"
+        },
+        {
+            "name": "dewott",
+            "url": "https://pokedex.mimo.dev/api/pokemon/502/"
+        },
+        {
+            "name": "samurott",
+            "url": "https://pokedex.mimo.dev/api/pokemon/503/"
+        },
+        {
+            "name": "purrloin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/509/"
+        },
+        {
+            "name": "liepard",
+            "url": "https://pokedex.mimo.dev/api/pokemon/510/"
+        },
+        {
+            "name": "audino",
+            "url": "https://pokedex.mimo.dev/api/pokemon/531/"
+        },
+        {
+            "name": "cottonee",
+            "url": "https://pokedex.mimo.dev/api/pokemon/546/"
+        },
+        {
+            "name": "whimsicott",
+            "url": "https://pokedex.mimo.dev/api/pokemon/547/"
+        },
+        {
+            "name": "petilil",
+            "url": "https://pokedex.mimo.dev/api/pokemon/548/"
+        },
+        {
+            "name": "lilligant",
+            "url": "https://pokedex.mimo.dev/api/pokemon/549/"
+        },
+        {
+            "name": "darumaka",
+            "url": "https://pokedex.mimo.dev/api/pokemon/554/"
+        },
+        {
+            "name": "darmanitan-standard",
+            "url": "https://pokedex.mimo.dev/api/pokemon/555/"
+        },
+        {
+            "name": "scraggy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/559/"
+        },
+        {
+            "name": "scrafty",
+            "url": "https://pokedex.mimo.dev/api/pokemon/560/"
+        },
+        {
+            "name": "zorua",
+            "url": "https://pokedex.mimo.dev/api/pokemon/570/"
+        },
+        {
+            "name": "zoroark",
+            "url": "https://pokedex.mimo.dev/api/pokemon/571/"
+        },
+        {
+            "name": "minccino",
+            "url": "https://pokedex.mimo.dev/api/pokemon/572/"
+        },
+        {
+            "name": "cinccino",
+            "url": "https://pokedex.mimo.dev/api/pokemon/573/"
+        },
+        {
+            "name": "solosis",
+            "url": "https://pokedex.mimo.dev/api/pokemon/577/"
+        },
+        {
+            "name": "duosion",
+            "url": "https://pokedex.mimo.dev/api/pokemon/578/"
+        },
+        {
+            "name": "reuniclus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/579/"
+        },
+        {
+            "name": "emolga",
+            "url": "https://pokedex.mimo.dev/api/pokemon/587/"
+        },
+        {
+            "name": "karrablast",
+            "url": "https://pokedex.mimo.dev/api/pokemon/588/"
+        },
+        {
+            "name": "escavalier",
+            "url": "https://pokedex.mimo.dev/api/pokemon/589/"
+        },
+        {
+            "name": "cubchoo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/613/"
+        },
+        {
+            "name": "beartic",
+            "url": "https://pokedex.mimo.dev/api/pokemon/614/"
+        },
+        {
+            "name": "shelmet",
+            "url": "https://pokedex.mimo.dev/api/pokemon/616/"
+        },
+        {
+            "name": "accelgor",
+            "url": "https://pokedex.mimo.dev/api/pokemon/617/"
+        },
+        {
+            "name": "fennekin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/653/"
+        },
+        {
+            "name": "braixen",
+            "url": "https://pokedex.mimo.dev/api/pokemon/654/"
+        },
+        {
+            "name": "delphox",
+            "url": "https://pokedex.mimo.dev/api/pokemon/655/"
+        },
+        {
+            "name": "spritzee",
+            "url": "https://pokedex.mimo.dev/api/pokemon/682/"
+        },
+        {
+            "name": "aromatisse",
+            "url": "https://pokedex.mimo.dev/api/pokemon/683/"
+        },
+        {
+            "name": "amaura",
+            "url": "https://pokedex.mimo.dev/api/pokemon/698/"
+        },
+        {
+            "name": "aurorus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/699/"
+        },
+        {
+            "name": "hawlucha",
+            "url": "https://pokedex.mimo.dev/api/pokemon/701/"
+        },
+        {
+            "name": "diancie",
+            "url": "https://pokedex.mimo.dev/api/pokemon/719/"
+        },
+        {
+            "name": "popplio",
+            "url": "https://pokedex.mimo.dev/api/pokemon/728/"
+        },
+        {
+            "name": "brionne",
+            "url": "https://pokedex.mimo.dev/api/pokemon/729/"
+        },
+        {
+            "name": "primarina",
+            "url": "https://pokedex.mimo.dev/api/pokemon/730/"
+        },
+        {
+            "name": "toucannon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/733/"
+        },
+        {
+            "name": "salazzle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/758/"
+        },
+        {
+            "name": "comfey",
+            "url": "https://pokedex.mimo.dev/api/pokemon/764/"
+        },
+        {
+            "name": "oranguru",
+            "url": "https://pokedex.mimo.dev/api/pokemon/765/"
+        },
+        {
+            "name": "togedemaru",
+            "url": "https://pokedex.mimo.dev/api/pokemon/777/"
+        },
+        {
+            "name": "magearna",
+            "url": "https://pokedex.mimo.dev/api/pokemon/801/"
+        },
+        {
+            "name": "blacephalon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/806/"
+        },
+        {
+            "name": "toxel",
+            "url": "https://pokedex.mimo.dev/api/pokemon/848/"
+        },
+        {
+            "name": "toxtricity-amped",
+            "url": "https://pokedex.mimo.dev/api/pokemon/849/"
+        },
+        {
+            "name": "mr-rime",
+            "url": "https://pokedex.mimo.dev/api/pokemon/866/"
+        },
+        {
+            "name": "alcremie",
+            "url": "https://pokedex.mimo.dev/api/pokemon/869/"
+        },
+        {
+            "name": "indeedee-male",
+            "url": "https://pokedex.mimo.dev/api/pokemon/876/"
+        },
+        {
+            "name": "zarude",
+            "url": "https://pokedex.mimo.dev/api/pokemon/893/"
+        },
+        {
+            "name": "calyrex",
+            "url": "https://pokedex.mimo.dev/api/pokemon/898/"
+        },
+        {
+            "name": "fuecoco",
+            "url": "https://pokedex.mimo.dev/api/pokemon/909/"
+        },
+        {
+            "name": "skeledirge",
+            "url": "https://pokedex.mimo.dev/api/pokemon/911/"
+        },
+        {
+            "name": "quaxly",
+            "url": "https://pokedex.mimo.dev/api/pokemon/912/"
+        },
+        {
+            "name": "quaxwell",
+            "url": "https://pokedex.mimo.dev/api/pokemon/913/"
+        },
+        {
+            "name": "quaquaval",
+            "url": "https://pokedex.mimo.dev/api/pokemon/914/"
+        },
+        {
+            "name": "pawmi",
+            "url": "https://pokedex.mimo.dev/api/pokemon/921/"
+        },
+        {
+            "name": "pawmo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/922/"
+        },
+        {
+            "name": "pawmot",
+            "url": "https://pokedex.mimo.dev/api/pokemon/923/"
+        },
+        {
+            "name": "tandemaus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/924/"
+        },
+        {
+            "name": "maushold",
+            "url": "https://pokedex.mimo.dev/api/pokemon/925/"
+        },
+        {
+            "name": "arboliva",
+            "url": "https://pokedex.mimo.dev/api/pokemon/930/"
+        },
+        {
+            "name": "shroodle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/944/"
+        },
+        {
+            "name": "grafaiai",
+            "url": "https://pokedex.mimo.dev/api/pokemon/945/"
+        },
+        {
+            "name": "tinkatink",
+            "url": "https://pokedex.mimo.dev/api/pokemon/957/"
+        },
+        {
+            "name": "tinkatuff",
+            "url": "https://pokedex.mimo.dev/api/pokemon/958/"
+        },
+        {
+            "name": "tinkaton",
+            "url": "https://pokedex.mimo.dev/api/pokemon/959/"
+        },
+        {
+            "name": "finizen",
+            "url": "https://pokedex.mimo.dev/api/pokemon/963/"
+        },
+        {
+            "name": "palafin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/964/"
+        },
+        {
+            "name": "annihilape",
+            "url": "https://pokedex.mimo.dev/api/pokemon/979/"
+        },
+        {
+            "name": "scream-tail",
+            "url": "https://pokedex.mimo.dev/api/pokemon/985/"
+        },
+        {
+            "name": "iron-bundle",
+            "url": "https://pokedex.mimo.dev/api/pokemon/991/"
+        },
+        {
+            "name": "iron-valiant",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1006/"
+        },
+        {
+            "name": "ogerpon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1017/"
+        },
+        {
+            "name": "darmanitan-zen",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10017/"
+        },
+        {
+            "name": "alakazam-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10037/"
+        },
+        {
+            "name": "audino-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10069/"
+        },
+        {
+            "name": "pikachu-original-cap",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10094/"
+        },
+        {
+            "name": "pikachu-hoenn-cap",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10095/"
+        },
+        {
+            "name": "pikachu-sinnoh-cap",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10096/"
+        },
+        {
+            "name": "pikachu-unova-cap",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10097/"
+        },
+        {
+            "name": "pikachu-kalos-cap",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10098/"
+        },
+        {
+            "name": "pikachu-alola-cap",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10099/"
+        },
+        {
+            "name": "raichu-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10100/"
+        },
+        {
+            "name": "vulpix-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10103/"
+        },
+        {
+            "name": "ninetales-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10104/"
+        },
+        {
+            "name": "salazzle-totem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10129/"
+        },
+        {
+            "name": "magearna-original",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10147/"
+        },
+        {
+            "name": "pikachu-partner-cap",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10148/"
+        },
+        {
+            "name": "togedemaru-totem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10154/"
+        },
+        {
+            "name": "pikachu-world-cap",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10160/"
+        },
+        {
+            "name": "mr-mime-galar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10168/"
+        },
+        {
+            "name": "darumaka-galar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10176/"
+        },
+        {
+            "name": "darmanitan-galar-standard",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10177/"
+        },
+        {
+            "name": "darmanitan-galar-zen",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10178/"
+        },
+        {
+            "name": "toxtricity-low-key",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10184/"
+        },
+        {
+            "name": "zarude-dada",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10192/"
+        },
+        {
+            "name": "calyrex-ice",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10193/"
+        },
+        {
+            "name": "calyrex-shadow",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10194/"
+        },
+        {
+            "name": "samurott-hisui",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10236/"
+        },
+        {
+            "name": "lilligant-hisui",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10237/"
+        },
+        {
+            "name": "palafin-hero",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10256/"
+        },
+        {
+            "name": "maushold-family-of-three",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10257/"
+        },
+        {
+            "name": "ogerpon-wellspring-mask",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10273/"
+        },
+        {
+            "name": "ogerpon-hearthflame-mask",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10274/"
+        },
+        {
+            "name": "ogerpon-cornerstone-mask",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10275/"
+        }
+    ],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1619/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        }
+    ],
+    "meta": {
+        "ailment": {
+            "name": "none",
+            "url": "https://pokedex.mimo.dev/api/move-ailment/0/"
+        },
+        "ailment_chance": 0,
+        "category": {
+            "name": "unique",
+            "url": "https://pokedex.mimo.dev/api/move-category/13/"
+        },
+        "crit_rate": 0,
+        "drain": 0,
+        "flinch_chance": 0,
+        "healing": 0,
+        "max_hits": null,
+        "max_turns": null,
+        "min_hits": null,
+        "min_turns": null,
+        "stat_chance": 0
+    },
+    "name": "encore",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30a2\u30f3\u30b3\u30fc\u30eb"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc575\ucf5c"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u518d\u4f86\u4e00\u6b21"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Encore"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Zugabe"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Otra Vez"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Ripeti"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Encore"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u30a2\u30f3\u30b3\u30fc\u30eb"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u518d\u6765\u4e00\u6b21"
+        }
+    ],
+    "past_values": [],
+    "power": null,
+    "pp": 5,
+    "priority": 0,
+    "stat_changes": [],
+    "super_contest_effect": {
+        "url": "https://pokedex.mimo.dev/api/super-contest-effect/20/"
+    },
+    "target": {
+        "name": "selected-pokemon",
+        "url": "https://pokedex.mimo.dev/api/move-target/10/"
+    },
+    "type": {
+        "name": "normal",
+        "url": "https://pokedex.mimo.dev/api/type/1/"
+    }
+}

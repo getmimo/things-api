@@ -1,0 +1,45 @@
+{
+    "id": 6,
+    "name": "season",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Saison"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Jahreszeit"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Season"
+        }
+    ],
+    "values": [
+        {
+            "name": "season-spring",
+            "url": "https://pokedex.mimo.dev/api/encounter-condition-value/17/"
+        },
+        {
+            "name": "season-summer",
+            "url": "https://pokedex.mimo.dev/api/encounter-condition-value/18/"
+        },
+        {
+            "name": "season-autumn",
+            "url": "https://pokedex.mimo.dev/api/encounter-condition-value/19/"
+        },
+        {
+            "name": "season-winter",
+            "url": "https://pokedex.mimo.dev/api/encounter-condition-value/20/"
+        }
+    ]
+}

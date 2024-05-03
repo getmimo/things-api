@@ -1,0 +1,74 @@
+{
+    "encounter_method_rates": [],
+    "game_index": 0,
+    "id": 792,
+    "location": {
+        "name": "nacrene-city",
+        "url": "https://pokedex.mimo.dev/api/location/349/"
+    },
+    "name": "nacrene-city-west-gate",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Nacrene City (west gate)"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Maillard (porte ouest)"
+        }
+    ],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "happiny",
+                "url": "https://pokedex.mimo.dev/api/pokemon/440/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 1,
+                            "method": {
+                                "name": "gift-egg",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/19/"
+                            },
+                            "min_level": 1
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 1,
+                            "method": {
+                                "name": "gift-egg",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/19/"
+                            },
+                            "min_level": 1
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        }
+    ]
+}

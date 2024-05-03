@@ -1,0 +1,46 @@
+{
+    "form_name": "",
+    "form_names": [],
+    "form_order": 1,
+    "id": 929,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "dolliv",
+    "names": [],
+    "order": 1297,
+    "pokemon": {
+        "name": "dolliv",
+        "url": "https://pokedex.mimo.dev/api/pokemon/929/"
+    },
+    "sprites": {
+        "back_default": null,
+        "back_female": null,
+        "back_shiny": null,
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/929.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/929.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "grass",
+                "url": "https://pokedex.mimo.dev/api/type/12/"
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "normal",
+                "url": "https://pokedex.mimo.dev/api/type/1/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "scarlet-violet",
+        "url": "https://pokedex.mimo.dev/api/version-group/25/"
+    }
+}

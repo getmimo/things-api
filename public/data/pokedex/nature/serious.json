@@ -1,0 +1,122 @@
+{
+    "decreased_stat": null,
+    "hates_flavor": null,
+    "id": 25,
+    "increased_stat": null,
+    "likes_flavor": null,
+    "move_battle_style_preferences": [
+        {
+            "high_hp_preference": 34,
+            "low_hp_preference": 29,
+            "move_battle_style": {
+                "name": "attack",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/1/"
+            }
+        },
+        {
+            "high_hp_preference": 11,
+            "low_hp_preference": 11,
+            "move_battle_style": {
+                "name": "defense",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/2/"
+            }
+        },
+        {
+            "high_hp_preference": 55,
+            "low_hp_preference": 60,
+            "move_battle_style": {
+                "name": "support",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/3/"
+            }
+        }
+    ],
+    "name": "serious",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u307e\u3058\u3081"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc131\uc2e4"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u8a8d\u771f"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "S\u00e9rieux"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Ernst"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Seria"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Seria"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Serious"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u307e\u3058\u3081"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u8ba4\u771f"
+        }
+    ],
+    "pokeathlon_stat_changes": [
+        {
+            "max_change": 1,
+            "pokeathlon_stat": {
+                "name": "speed",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/1/"
+            }
+        },
+        {
+            "max_change": -1,
+            "pokeathlon_stat": {
+                "name": "power",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/2/"
+            }
+        }
+    ]
+}

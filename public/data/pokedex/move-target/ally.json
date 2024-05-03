@@ -1,0 +1,50 @@
+{
+    "descriptions": [
+        {
+            "description": "Die Partner des Anwenders (wenn vorhanden).",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            }
+        },
+        {
+            "description": "The user's ally (if any).",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            }
+        }
+    ],
+    "id": 3,
+    "moves": [
+        {
+            "name": "helping-hand",
+            "url": "https://pokedex.mimo.dev/api/move/270/"
+        },
+        {
+            "name": "aromatic-mist",
+            "url": "https://pokedex.mimo.dev/api/move/597/"
+        },
+        {
+            "name": "hold-hands",
+            "url": "https://pokedex.mimo.dev/api/move/607/"
+        }
+    ],
+    "name": "ally",
+    "names": [
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Partner"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Ally"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "form_name": "icy-snow",
+    "form_names": [],
+    "form_order": 1,
+    "id": 665,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "spewpa-icy-snow",
+    "names": [],
+    "order": 879,
+    "pokemon": {
+        "name": "spewpa",
+        "url": "https://pokedex.mimo.dev/api/pokemon/665/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/665.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/665.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/665.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/665.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "bug",
+                "url": "https://pokedex.mimo.dev/api/type/7/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "x-y",
+        "url": "https://pokedex.mimo.dev/api/version-group/15/"
+    }
+}

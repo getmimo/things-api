@@ -1,0 +1,773 @@
+{
+    "id": 1,
+    "name": "forest",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "For\u00eat"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Bosque"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Forest"
+        }
+    ],
+    "pokemon_encounters": [
+        {
+            "base_score": 30,
+            "pokemon_species": {
+                "name": "caterpie",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/10/"
+            },
+            "rate": 50
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "metapod",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/11/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "butterfree",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/12/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 30,
+            "pokemon_species": {
+                "name": "weedle",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/13/"
+            },
+            "rate": 50
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "kakuna",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/14/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "beedrill",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/15/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 30,
+            "pokemon_species": {
+                "name": "ekans",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/23/"
+            },
+            "rate": 50
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "arbok",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/24/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "pikachu",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/25/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 90,
+            "pokemon_species": {
+                "name": "raichu",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/26/"
+            },
+            "rate": 3
+        },
+        {
+            "base_score": 30,
+            "pokemon_species": {
+                "name": "oddish",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/43/"
+            },
+            "rate": 50
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "gloom",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/44/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "vileplume",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/45/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 30,
+            "pokemon_species": {
+                "name": "paras",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/46/"
+            },
+            "rate": 50
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "parasect",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/47/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 30,
+            "pokemon_species": {
+                "name": "venonat",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/48/"
+            },
+            "rate": 50
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "venomoth",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/49/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 30,
+            "pokemon_species": {
+                "name": "bellsprout",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/69/"
+            },
+            "rate": 50
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "weepinbell",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/70/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "victreebel",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/71/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "gastly",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/92/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "haunter",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/93/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 90,
+            "pokemon_species": {
+                "name": "gengar",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/94/"
+            },
+            "rate": 3
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "drowzee",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/96/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "hypno",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/97/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "exeggcute",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/102/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "exeggutor",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/103/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "tangela",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/114/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "pinsir",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/127/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 100,
+            "pokemon_species": {
+                "name": "mew",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/151/"
+            },
+            "rate": 1
+        },
+        {
+            "base_score": 30,
+            "pokemon_species": {
+                "name": "hoothoot",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/163/"
+            },
+            "rate": 50
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "noctowl",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/164/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "natu",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/177/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "xatu",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/178/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "bellossom",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/182/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "aipom",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/190/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "murkrow",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/198/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "misdreavus",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/200/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "unown",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/201/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "pineco",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/204/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "forretress",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/205/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 90,
+            "pokemon_species": {
+                "name": "dunsparce",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/206/"
+            },
+            "rate": 3
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "heracross",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/214/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "teddiursa",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/216/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "ursaring",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/217/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 100,
+            "pokemon_species": {
+                "name": "celebi",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/251/"
+            },
+            "rate": 1
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "treecko",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/252/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "grovyle",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/253/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 90,
+            "pokemon_species": {
+                "name": "sceptile",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/254/"
+            },
+            "rate": 3
+        },
+        {
+            "base_score": 30,
+            "pokemon_species": {
+                "name": "wurmple",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/265/"
+            },
+            "rate": 50
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "silcoon",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/266/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "beautifly",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/267/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "cascoon",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/268/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "dustox",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/269/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 30,
+            "pokemon_species": {
+                "name": "seedot",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/273/"
+            },
+            "rate": 50
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "nuzleaf",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/274/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "shiftry",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/275/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "shroomish",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/285/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "breloom",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/286/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "slakoth",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/287/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "vigoroth",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/288/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "slaking",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/289/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "nincada",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/290/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "ninjask",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/291/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "shedinja",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/292/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "gulpin",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/316/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "swalot",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/317/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "seviper",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/336/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "kecleon",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/352/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "shuppet",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/353/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "banette",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/354/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "duskull",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/355/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "dusclops",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/356/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "tropius",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/357/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "turtwig",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/387/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "grotle",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/388/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 90,
+            "pokemon_species": {
+                "name": "torterra",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/389/"
+            },
+            "rate": 3
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "kricketot",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/401/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "kricketune",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/402/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "burmy",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/412/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "wormadam",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/413/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "mothim",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/414/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "combee",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/415/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "vespiquen",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/416/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 50,
+            "pokemon_species": {
+                "name": "pachirisu",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/417/"
+            },
+            "rate": 30
+        },
+        {
+            "base_score": 70,
+            "pokemon_species": {
+                "name": "buizel",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/418/"
+            },
+            "rate": 20
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "drifblim",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/426/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "mismagius",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/429/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "honchkrow",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/430/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 90,
+            "pokemon_species": {
+                "name": "croagunk",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/453/"
+            },
+            "rate": 3
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "tangrowth",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/465/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 80,
+            "pokemon_species": {
+                "name": "dusknoir",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/477/"
+            },
+            "rate": 10
+        },
+        {
+            "base_score": 90,
+            "pokemon_species": {
+                "name": "cresselia",
+                "url": "https://pokedex.mimo.dev/api/pokemon-species/488/"
+            },
+            "rate": 3
+        }
+    ]
+}

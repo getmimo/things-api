@@ -1,0 +1,134 @@
+{
+    "decreased_stat": {
+        "name": "attack",
+        "url": "https://pokedex.mimo.dev/api/stat/2/"
+    },
+    "hates_flavor": {
+        "name": "spicy",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/1/"
+    },
+    "id": 5,
+    "increased_stat": {
+        "name": "speed",
+        "url": "https://pokedex.mimo.dev/api/stat/6/"
+    },
+    "likes_flavor": {
+        "name": "sweet",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/3/"
+    },
+    "move_battle_style_preferences": [
+        {
+            "high_hp_preference": 62,
+            "low_hp_preference": 30,
+            "move_battle_style": {
+                "name": "attack",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/1/"
+            }
+        },
+        {
+            "high_hp_preference": 10,
+            "low_hp_preference": 20,
+            "move_battle_style": {
+                "name": "defense",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/2/"
+            }
+        },
+        {
+            "high_hp_preference": 28,
+            "low_hp_preference": 50,
+            "move_battle_style": {
+                "name": "support",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/3/"
+            }
+        }
+    ],
+    "name": "timid",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u304a\u304f\u3073\u3087\u3046"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uac81\uc7c1\uc774"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u81bd\u5c0f"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Timide"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Scheu"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Miedosa"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Timida"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Timid"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u304a\u304f\u3073\u3087\u3046"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u80c6\u5c0f"
+        }
+    ],
+    "pokeathlon_stat_changes": [
+        {
+            "max_change": 2,
+            "pokeathlon_stat": {
+                "name": "speed",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/1/"
+            }
+        },
+        {
+            "max_change": -2,
+            "pokeathlon_stat": {
+                "name": "power",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/2/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "decreased_stat": {
+        "name": "speed",
+        "url": "https://pokedex.mimo.dev/api/stat/6/"
+    },
+    "hates_flavor": {
+        "name": "sweet",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/3/"
+    },
+    "id": 22,
+    "increased_stat": {
+        "name": "defense",
+        "url": "https://pokedex.mimo.dev/api/stat/3/"
+    },
+    "likes_flavor": {
+        "name": "sour",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/5/"
+    },
+    "move_battle_style_preferences": [
+        {
+            "high_hp_preference": 25,
+            "low_hp_preference": 75,
+            "move_battle_style": {
+                "name": "attack",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/1/"
+            }
+        },
+        {
+            "high_hp_preference": 15,
+            "low_hp_preference": 15,
+            "move_battle_style": {
+                "name": "defense",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/2/"
+            }
+        },
+        {
+            "high_hp_preference": 60,
+            "low_hp_preference": 10,
+            "move_battle_style": {
+                "name": "support",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/3/"
+            }
+        }
+    ],
+    "name": "relaxed",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u306e\u3093\u304d"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\ubb34\uc0ac\ud0dc\ud3c9"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u60a0\u9592"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Relax"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Locker"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Pl\u00e1cida"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Placida"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Relaxed"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u306e\u3093\u304d"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u60a0\u95f2"
+        }
+    ],
+    "pokeathlon_stat_changes": [
+        {
+            "max_change": -2,
+            "pokeathlon_stat": {
+                "name": "speed",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/1/"
+            }
+        },
+        {
+            "max_change": 2,
+            "pokeathlon_stat": {
+                "name": "skill",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/3/"
+            }
+        }
+    ]
+}

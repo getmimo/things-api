@@ -1,0 +1,90 @@
+{
+    "form_name": "",
+    "form_names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30ce\u30fc\u30de\u30eb\u30d5\u30a9\u30eb\u30e0"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Forme Normale"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Forma normal"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Forma Normale"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Normal Form"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u30ce\u30fc\u30de\u30eb\u30d5\u30a9\u30eb\u30e0"
+        }
+    ],
+    "form_order": 1,
+    "id": 1024,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "terapagos",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Terapagos Forme Normale"
+        }
+    ],
+    "order": 1391,
+    "pokemon": {
+        "name": "terapagos",
+        "url": "https://pokedex.mimo.dev/api/pokemon/1024/"
+    },
+    "sprites": {
+        "back_default": null,
+        "back_female": null,
+        "back_shiny": null,
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/1024.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/1024.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "normal",
+                "url": "https://pokedex.mimo.dev/api/type/1/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "the-indigo-disk",
+        "url": "https://pokedex.mimo.dev/api/version-group/27/"
+    }
+}

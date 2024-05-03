@@ -1,0 +1,39 @@
+{
+    "form_name": "",
+    "form_names": [],
+    "form_order": 1,
+    "id": 405,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "luxray",
+    "names": [],
+    "order": 564,
+    "pokemon": {
+        "name": "luxray",
+        "url": "https://pokedex.mimo.dev/api/pokemon/405/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/405.png",
+        "back_female": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/female/405.png",
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/405.png",
+        "back_shiny_female": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/female/405.png",
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/405.png",
+        "front_female": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/female/405.png",
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/405.png",
+        "front_shiny_female": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/female/405.png"
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "electric",
+                "url": "https://pokedex.mimo.dev/api/type/13/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "diamond-pearl",
+        "url": "https://pokedex.mimo.dev/api/version-group/8/"
+    }
+}

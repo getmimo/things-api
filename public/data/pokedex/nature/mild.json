@@ -1,0 +1,134 @@
+{
+    "decreased_stat": {
+        "name": "defense",
+        "url": "https://pokedex.mimo.dev/api/stat/3/"
+    },
+    "hates_flavor": {
+        "name": "sour",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/5/"
+    },
+    "id": 8,
+    "increased_stat": {
+        "name": "special-attack",
+        "url": "https://pokedex.mimo.dev/api/stat/4/"
+    },
+    "likes_flavor": {
+        "name": "dry",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/2/"
+    },
+    "move_battle_style_preferences": [
+        {
+            "high_hp_preference": 44,
+            "low_hp_preference": 34,
+            "move_battle_style": {
+                "name": "attack",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/1/"
+            }
+        },
+        {
+            "high_hp_preference": 50,
+            "low_hp_preference": 6,
+            "move_battle_style": {
+                "name": "defense",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/2/"
+            }
+        },
+        {
+            "high_hp_preference": 6,
+            "low_hp_preference": 60,
+            "move_battle_style": {
+                "name": "support",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/3/"
+            }
+        }
+    ],
+    "name": "mild",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u304a\u3063\u3068\u308a"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc758\uc813"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u6162\u541e\u541e"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Doux"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Mild"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Afable"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Mite"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Mild"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u304a\u3063\u3068\u308a"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u6162\u541e\u541e"
+        }
+    ],
+    "pokeathlon_stat_changes": [
+        {
+            "max_change": -2,
+            "pokeathlon_stat": {
+                "name": "skill",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/3/"
+            }
+        },
+        {
+            "max_change": 2,
+            "pokeathlon_stat": {
+                "name": "jump",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/5/"
+            }
+        }
+    ]
+}

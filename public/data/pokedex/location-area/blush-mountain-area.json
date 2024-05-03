@@ -1,0 +1,1055 @@
+{
+    "encounter_method_rates": [],
+    "game_index": 0,
+    "id": 1073,
+    "location": {
+        "name": "blush-mountain",
+        "url": "https://pokedex.mimo.dev/api/location/771/"
+    },
+    "name": "blush-mountain-area",
+    "names": [],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "rhyhorn",
+                "url": "https://pokedex.mimo.dev/api/pokemon/111/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "island-scan",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/32/"
+                            },
+                            "min_level": 30
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 30,
+                            "method": {
+                                "name": "island-scan",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/32/"
+                            },
+                            "min_level": 30
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "moon",
+                        "url": "https://pokedex.mimo.dev/api/version/28/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "island-scan",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/32/"
+                            },
+                            "min_level": 32
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "island-scan",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/32/"
+                            },
+                            "min_level": 32
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "chansey",
+                "url": "https://pokedex.mimo.dev/api/pokemon/113/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "moon",
+                        "url": "https://pokedex.mimo.dev/api/version/28/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "electabuzz",
+                "url": "https://pokedex.mimo.dev/api/pokemon/125/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "moon",
+                        "url": "https://pokedex.mimo.dev/api/version/28/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "elekid",
+                "url": "https://pokedex.mimo.dev/api/pokemon/239/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "moon",
+                        "url": "https://pokedex.mimo.dev/api/version/28/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "torkoal",
+                "url": "https://pokedex.mimo.dev/api/pokemon/324/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "moon",
+                        "url": "https://pokedex.mimo.dev/api/version/28/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "happiny",
+                "url": "https://pokedex.mimo.dev/api/pokemon/440/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "dedenne",
+                "url": "https://pokedex.mimo.dev/api/pokemon/702/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 25,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 25,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "grubbin",
+                "url": "https://pokedex.mimo.dev/api/pokemon/736/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "charjabug",
+                "url": "https://pokedex.mimo.dev/api/pokemon/737/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "moon",
+                        "url": "https://pokedex.mimo.dev/api/version/28/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "vikavolt",
+                "url": "https://pokedex.mimo.dev/api/pokemon/738/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "mudbray",
+                "url": "https://pokedex.mimo.dev/api/pokemon/749/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "moon",
+                        "url": "https://pokedex.mimo.dev/api/version/28/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "mudsdale",
+                "url": "https://pokedex.mimo.dev/api/pokemon/750/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "turtonator",
+                "url": "https://pokedex.mimo.dev/api/pokemon/776/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "togedemaru",
+                "url": "https://pokedex.mimo.dev/api/pokemon/777/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 10,
+                    "version": {
+                        "name": "moon",
+                        "url": "https://pokedex.mimo.dev/api/version/28/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 25,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "sos-encounter",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/33/"
+                            },
+                            "min_level": 29
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 25,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "geodude-alola",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10109/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 29,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 26
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "moon",
+                        "url": "https://pokedex.mimo.dev/api/version/28/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "graveler-alola",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10110/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 32,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 29
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        }
+    ]
+}

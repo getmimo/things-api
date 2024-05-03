@@ -1,0 +1,535 @@
+{
+    "encounter_method_rates": [],
+    "game_index": 0,
+    "id": 1147,
+    "location": {
+        "name": "ultra-space-wilds",
+        "url": "https://pokedex.mimo.dev/api/location/1051/"
+    },
+    "name": "ultra-space-wilds-cave",
+    "names": [],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "magcargo",
+                "url": "https://pokedex.mimo.dev/api/pokemon/219/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "medicham",
+                "url": "https://pokedex.mimo.dev/api/pokemon/308/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "regirock",
+                "url": "https://pokedex.mimo.dev/api/pokemon/377/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "regice",
+                "url": "https://pokedex.mimo.dev/api/pokemon/378/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "registeel",
+                "url": "https://pokedex.mimo.dev/api/pokemon/379/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "groudon",
+                "url": "https://pokedex.mimo.dev/api/pokemon/383/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "hippowdon",
+                "url": "https://pokedex.mimo.dev/api/pokemon/450/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "abomasnow",
+                "url": "https://pokedex.mimo.dev/api/pokemon/460/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "palkia",
+                "url": "https://pokedex.mimo.dev/api/pokemon/484/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "heatran",
+                "url": "https://pokedex.mimo.dev/api/pokemon/485/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "regigigas",
+                "url": "https://pokedex.mimo.dev/api/pokemon/486/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "giratina-altered",
+                "url": "https://pokedex.mimo.dev/api/pokemon/487/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "crustle",
+                "url": "https://pokedex.mimo.dev/api/pokemon/558/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 60
+                        }
+                    ],
+                    "max_chance": 15,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        }
+    ]
+}

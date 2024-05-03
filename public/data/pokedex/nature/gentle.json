@@ -1,0 +1,134 @@
+{
+    "decreased_stat": {
+        "name": "defense",
+        "url": "https://pokedex.mimo.dev/api/stat/3/"
+    },
+    "hates_flavor": {
+        "name": "sour",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/5/"
+    },
+    "id": 9,
+    "increased_stat": {
+        "name": "special-defense",
+        "url": "https://pokedex.mimo.dev/api/stat/5/"
+    },
+    "likes_flavor": {
+        "name": "bitter",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/4/"
+    },
+    "move_battle_style_preferences": [
+        {
+            "high_hp_preference": 18,
+            "low_hp_preference": 90,
+            "move_battle_style": {
+                "name": "attack",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/1/"
+            }
+        },
+        {
+            "high_hp_preference": 70,
+            "low_hp_preference": 5,
+            "move_battle_style": {
+                "name": "defense",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/2/"
+            }
+        },
+        {
+            "high_hp_preference": 12,
+            "low_hp_preference": 5,
+            "move_battle_style": {
+                "name": "support",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/3/"
+            }
+        }
+    ],
+    "name": "gentle",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u304a\u3068\u306a\u3057\u3044"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc58c\uc804"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u6eab\u9806"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Gentil"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Zart"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Amable"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Gentile"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Gentle"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u304a\u3068\u306a\u3057\u3044"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u6e29\u987a"
+        }
+    ],
+    "pokeathlon_stat_changes": [
+        {
+            "max_change": 2,
+            "pokeathlon_stat": {
+                "name": "speed",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/1/"
+            }
+        },
+        {
+            "max_change": -2,
+            "pokeathlon_stat": {
+                "name": "skill",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/3/"
+            }
+        }
+    ]
+}

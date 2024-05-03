@@ -1,0 +1,109 @@
+{
+    "effect_changes": [],
+    "effect_entries": [],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "The Pok\u00e9mon transforms into its Hero Form when it switches out.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-ix",
+        "url": "https://pokedex.mimo.dev/api/generation/9/"
+    },
+    "id": 278,
+    "is_main_series": true,
+    "name": "zero-to-hero",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30de\u30a4\u30c6\u30a3\u30c1\u30a7\u30f3\u30b8"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Supermutation"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Superwechsel"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Cambio Heroico"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Supercambio"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Zero to Hero"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u30de\u30a4\u30c6\u30a3\u30c1\u30a7\u30f3\u30b8"
+        }
+    ],
+    "pokemon": [
+        {
+            "is_hidden": false,
+            "pokemon": {
+                "name": "palafin",
+                "url": "https://pokedex.mimo.dev/api/pokemon/964/"
+            },
+            "slot": 1
+        },
+        {
+            "is_hidden": true,
+            "pokemon": {
+                "name": "palafin",
+                "url": "https://pokedex.mimo.dev/api/pokemon/964/"
+            },
+            "slot": 3
+        },
+        {
+            "is_hidden": false,
+            "pokemon": {
+                "name": "palafin-hero",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10256/"
+            },
+            "slot": 1
+        },
+        {
+            "is_hidden": true,
+            "pokemon": {
+                "name": "palafin-hero",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10256/"
+            },
+            "slot": 3
+        }
+    ]
+}

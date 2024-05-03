@@ -1,0 +1,681 @@
+{
+    "encounter_method_rates": [
+        {
+            "encounter_method": {
+                "name": "super-rod",
+                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+            },
+            "version_details": [
+                {
+                    "rate": 50,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "rate": 50,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "encounter_method": {
+                "name": "surf",
+                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+            },
+            "version_details": [
+                {
+                    "rate": 10,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "rate": 10,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        }
+    ],
+    "game_index": 44,
+    "id": 673,
+    "location": {
+        "name": "floccesy-ranch",
+        "url": "https://pokedex.mimo.dev/api/location/544/"
+    },
+    "name": "floccesy-ranch-outer",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Floccesy Ranch (outer)"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Ranch d'Amaillide (ext\u00e9rieur)"
+        }
+    ],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "poliwag",
+                "url": "https://pokedex.mimo.dev/api/pokemon/60/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 60,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 60,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "poliwhirl",
+                "url": "https://pokedex.mimo.dev/api/pokemon/61/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 55,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 15,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 55,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "marill",
+                "url": "https://pokedex.mimo.dev/api/pokemon/183/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 5
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 5
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "azumarill",
+                "url": "https://pokedex.mimo.dev/api/pokemon/184/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 5
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 5
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 5
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 5
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "politoed",
+                "url": "https://pokedex.mimo.dev/api/pokemon/186/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 70,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 50
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "azurill",
+                "url": "https://pokedex.mimo.dev/api/pokemon/298/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 5
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 30,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 5
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "basculin-red-striped",
+                "url": "https://pokedex.mimo.dev/api/pokemon/550/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 5
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 5
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 5
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 5
+                        }
+                    ],
+                    "max_chance": 110,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 5
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 5
+                        }
+                    ],
+                    "max_chance": 105,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "basculin-blue-striped",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10016/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/12/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 5
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf-spots",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/13/"
+                            },
+                            "min_level": 5
+                        }
+                    ],
+                    "max_chance": 105,
+                    "version": {
+                        "name": "black-2",
+                        "url": "https://pokedex.mimo.dev/api/version/21/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 40,
+                            "condition_values": [],
+                            "max_level": 60,
+                            "method": {
+                                "name": "super-rod",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/4/"
+                            },
+                            "min_level": 40
+                        },
+                        {
+                            "chance": 60,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 5
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 5
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 5
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "surf",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/5/"
+                            },
+                            "min_level": 5
+                        }
+                    ],
+                    "max_chance": 110,
+                    "version": {
+                        "name": "white-2",
+                        "url": "https://pokedex.mimo.dev/api/version/22/"
+                    }
+                }
+            ]
+        }
+    ]
+}

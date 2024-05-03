@@ -1,0 +1,39 @@
+{
+    "form_name": "",
+    "form_names": [],
+    "form_order": 1,
+    "id": 604,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "eelektross",
+    "names": [],
+    "order": 785,
+    "pokemon": {
+        "name": "eelektross",
+        "url": "https://pokedex.mimo.dev/api/pokemon/604/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/604.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/604.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/604.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/604.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "electric",
+                "url": "https://pokedex.mimo.dev/api/type/13/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "black-white",
+        "url": "https://pokedex.mimo.dev/api/version-group/11/"
+    }
+}

@@ -1,0 +1,2124 @@
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "corrosion",
+                "url": "https://pokedex.mimo.dev/api/ability/212/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "oblivious",
+                "url": "https://pokedex.mimo.dev/api/ability/12/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+    "base_experience": 168,
+    "cries": {
+        "latest": "https://pokedex.mimo.dev/data/pokedex/files/cries/main/cries/pokemon/latest/10129.ogg",
+        "legacy": null
+    },
+    "forms": [
+        {
+            "name": "salazzle-totem",
+            "url": "https://pokedex.mimo.dev/api/pokemon-form/10231/"
+        }
+    ],
+    "game_indices": [],
+    "height": 21,
+    "held_items": [
+        {
+            "item": {
+                "name": "smoke-ball",
+                "url": "https://pokedex.mimo.dev/api/item/205/"
+            },
+            "version_details": [
+                {
+                    "rarity": 5,
+                    "version": {
+                        "name": "sun",
+                        "url": "https://pokedex.mimo.dev/api/version/27/"
+                    }
+                },
+                {
+                    "rarity": 5,
+                    "version": {
+                        "name": "moon",
+                        "url": "https://pokedex.mimo.dev/api/version/28/"
+                    }
+                },
+                {
+                    "rarity": 5,
+                    "version": {
+                        "name": "ultra-sun",
+                        "url": "https://pokedex.mimo.dev/api/version/29/"
+                    }
+                },
+                {
+                    "rarity": 5,
+                    "version": {
+                        "name": "ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version/30/"
+                    }
+                }
+            ]
+        }
+    ],
+    "id": 10129,
+    "is_default": false,
+    "location_area_encounters": "https://pokedex.mimo.dev/api/pokemon/10129/encounters",
+    "moves": [
+        {
+            "move": {
+                "name": "pound",
+                "url": "https://pokedex.mimo.dev/api/move/1/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "double-slap",
+                "url": "https://pokedex.mimo.dev/api/move/3/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 21,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 21,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "disable",
+                "url": "https://pokedex.mimo.dev/api/move/50/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "ember",
+                "url": "https://pokedex.mimo.dev/api/move/52/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 5,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                },
+                {
+                    "level_learned_at": 5,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "flamethrower",
+                "url": "https://pokedex.mimo.dev/api/move/53/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 44,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 44,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "dragon-rage",
+                "url": "https://pokedex.mimo.dev/api/move/82/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 13,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 13,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "toxic",
+                "url": "https://pokedex.mimo.dev/api/move/92/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 29,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 29,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "double-team",
+                "url": "https://pokedex.mimo.dev/api/move/104/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "smog",
+                "url": "https://pokedex.mimo.dev/api/move/123/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 16,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 16,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "fire-blast",
+                "url": "https://pokedex.mimo.dev/api/move/126/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "poison-gas",
+                "url": "https://pokedex.mimo.dev/api/move/139/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "leech-life",
+                "url": "https://pokedex.mimo.dev/api/move/141/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "rest",
+                "url": "https://pokedex.mimo.dev/api/move/156/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "substitute",
+                "url": "https://pokedex.mimo.dev/api/move/164/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "thief",
+                "url": "https://pokedex.mimo.dev/api/move/168/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "snore",
+                "url": "https://pokedex.mimo.dev/api/move/173/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "protect",
+                "url": "https://pokedex.mimo.dev/api/move/182/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "sludge-bomb",
+                "url": "https://pokedex.mimo.dev/api/move/188/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "swagger",
+                "url": "https://pokedex.mimo.dev/api/move/207/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "attract",
+                "url": "https://pokedex.mimo.dev/api/move/213/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "sleep-talk",
+                "url": "https://pokedex.mimo.dev/api/move/214/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "return",
+                "url": "https://pokedex.mimo.dev/api/move/216/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "frustration",
+                "url": "https://pokedex.mimo.dev/api/move/218/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "encore",
+                "url": "https://pokedex.mimo.dev/api/move/227/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "sweet-scent",
+                "url": "https://pokedex.mimo.dev/api/move/230/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 8,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                },
+                {
+                    "level_learned_at": 8,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "iron-tail",
+                "url": "https://pokedex.mimo.dev/api/move/231/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "hidden-power",
+                "url": "https://pokedex.mimo.dev/api/move/237/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "heat-wave",
+                "url": "https://pokedex.mimo.dev/api/move/257/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "torment",
+                "url": "https://pokedex.mimo.dev/api/move/259/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "will-o-wisp",
+                "url": "https://pokedex.mimo.dev/api/move/261/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "facade",
+                "url": "https://pokedex.mimo.dev/api/move/263/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "taunt",
+                "url": "https://pokedex.mimo.dev/api/move/269/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "helping-hand",
+                "url": "https://pokedex.mimo.dev/api/move/270/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "knock-off",
+                "url": "https://pokedex.mimo.dev/api/move/282/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "snatch",
+                "url": "https://pokedex.mimo.dev/api/move/289/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "overheat",
+                "url": "https://pokedex.mimo.dev/api/move/315/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "dragon-claw",
+                "url": "https://pokedex.mimo.dev/api/move/337/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "covet",
+                "url": "https://pokedex.mimo.dev/api/move/343/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "payback",
+                "url": "https://pokedex.mimo.dev/api/move/371/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "fling",
+                "url": "https://pokedex.mimo.dev/api/move/374/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "poison-jab",
+                "url": "https://pokedex.mimo.dev/api/move/398/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "dragon-pulse",
+                "url": "https://pokedex.mimo.dev/api/move/406/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 56,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 56,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "nasty-plot",
+                "url": "https://pokedex.mimo.dev/api/move/417/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 32,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 32,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "shadow-claw",
+                "url": "https://pokedex.mimo.dev/api/move/421/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "gunk-shot",
+                "url": "https://pokedex.mimo.dev/api/move/441/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "captivate",
+                "url": "https://pokedex.mimo.dev/api/move/445/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                },
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "venoshock",
+                "url": "https://pokedex.mimo.dev/api/move/474/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 39,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 39,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "flame-burst",
+                "url": "https://pokedex.mimo.dev/api/move/481/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 24,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 24,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "sludge-wave",
+                "url": "https://pokedex.mimo.dev/api/move/482/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "flame-charge",
+                "url": "https://pokedex.mimo.dev/api/move/488/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "foul-play",
+                "url": "https://pokedex.mimo.dev/api/move/492/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "round",
+                "url": "https://pokedex.mimo.dev/api/move/496/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "acrobatics",
+                "url": "https://pokedex.mimo.dev/api/move/512/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "dragon-tail",
+                "url": "https://pokedex.mimo.dev/api/move/525/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "confide",
+                "url": "https://pokedex.mimo.dev/api/move/590/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "machine",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "venom-drench",
+                "url": "https://pokedex.mimo.dev/api/move/599/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 51,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "sun-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/17/"
+                    }
+                },
+                {
+                    "level_learned_at": 51,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        },
+        {
+            "move": {
+                "name": "laser-focus",
+                "url": "https://pokedex.mimo.dev/api/move/673/"
+            },
+            "version_group_details": [
+                {
+                    "level_learned_at": 0,
+                    "move_learn_method": {
+                        "name": "tutor",
+                        "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+                    },
+                    "version_group": {
+                        "name": "ultra-sun-ultra-moon",
+                        "url": "https://pokedex.mimo.dev/api/version-group/18/"
+                    }
+                }
+            ]
+        }
+    ],
+    "name": "salazzle-totem",
+    "order": 917,
+    "past_abilities": [],
+    "past_types": [],
+    "species": {
+        "name": "salazzle",
+        "url": "https://pokedex.mimo.dev/api/pokemon-species/758/"
+    },
+    "sprites": {
+        "back_default": null,
+        "back_female": null,
+        "back_shiny": null,
+        "back_shiny_female": null,
+        "front_default": null,
+        "front_female": null,
+        "front_shiny": null,
+        "front_shiny_female": null,
+        "other": {
+            "dream_world": {
+                "front_default": null,
+                "front_female": null
+            },
+            "home": {
+                "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/home/10129.png",
+                "front_female": null,
+                "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/home/shiny/10129.png",
+                "front_shiny_female": null
+            },
+            "official-artwork": {
+                "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/official-artwork/10129.png",
+                "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/official-artwork/shiny/10129.png"
+            },
+            "showdown": {
+                "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/showdown/back/10129.gif",
+                "back_female": null,
+                "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/showdown/back/shiny/10129.gif",
+                "back_shiny_female": null,
+                "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/showdown/10129.gif",
+                "front_female": null,
+                "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/other/showdown/shiny/10129.gif",
+                "front_shiny_female": null
+            }
+        },
+        "versions": {
+            "generation-i": {
+                "red-blue": {
+                    "back_default": null,
+                    "back_gray": null,
+                    "back_transparent": null,
+                    "front_default": null,
+                    "front_gray": null,
+                    "front_transparent": null
+                },
+                "yellow": {
+                    "back_default": null,
+                    "back_gray": null,
+                    "back_transparent": null,
+                    "front_default": null,
+                    "front_gray": null,
+                    "front_transparent": null
+                }
+            },
+            "generation-ii": {
+                "crystal": {
+                    "back_default": null,
+                    "back_shiny": null,
+                    "back_shiny_transparent": null,
+                    "back_transparent": null,
+                    "front_default": null,
+                    "front_shiny": null,
+                    "front_shiny_transparent": null,
+                    "front_transparent": null
+                },
+                "gold": {
+                    "back_default": null,
+                    "back_shiny": null,
+                    "front_default": null,
+                    "front_shiny": null,
+                    "front_transparent": null
+                },
+                "silver": {
+                    "back_default": null,
+                    "back_shiny": null,
+                    "front_default": null,
+                    "front_shiny": null,
+                    "front_transparent": null
+                }
+            },
+            "generation-iii": {
+                "emerald": {
+                    "front_default": null,
+                    "front_shiny": null
+                },
+                "firered-leafgreen": {
+                    "back_default": null,
+                    "back_shiny": null,
+                    "front_default": null,
+                    "front_shiny": null
+                },
+                "ruby-sapphire": {
+                    "back_default": null,
+                    "back_shiny": null,
+                    "front_default": null,
+                    "front_shiny": null
+                }
+            },
+            "generation-iv": {
+                "diamond-pearl": {
+                    "back_default": null,
+                    "back_female": null,
+                    "back_shiny": null,
+                    "back_shiny_female": null,
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                },
+                "heartgold-soulsilver": {
+                    "back_default": null,
+                    "back_female": null,
+                    "back_shiny": null,
+                    "back_shiny_female": null,
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                },
+                "platinum": {
+                    "back_default": null,
+                    "back_female": null,
+                    "back_shiny": null,
+                    "back_shiny_female": null,
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                }
+            },
+            "generation-v": {
+                "black-white": {
+                    "animated": {
+                        "back_default": null,
+                        "back_female": null,
+                        "back_shiny": null,
+                        "back_shiny_female": null,
+                        "front_default": null,
+                        "front_female": null,
+                        "front_shiny": null,
+                        "front_shiny_female": null
+                    },
+                    "back_default": null,
+                    "back_female": null,
+                    "back_shiny": null,
+                    "back_shiny_female": null,
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                }
+            },
+            "generation-vi": {
+                "omegaruby-alphasapphire": {
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                },
+                "x-y": {
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                }
+            },
+            "generation-vii": {
+                "icons": {
+                    "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/versions/generation-vii/icons/758-totem.png",
+                    "front_female": null
+                },
+                "ultra-sun-ultra-moon": {
+                    "front_default": null,
+                    "front_female": null,
+                    "front_shiny": null,
+                    "front_shiny_female": null
+                }
+            },
+            "generation-viii": {
+                "icons": {
+                    "front_default": null,
+                    "front_female": null
+                }
+            }
+        }
+    },
+    "stats": [
+        {
+            "base_stat": 68,
+            "effort": 0,
+            "stat": {
+                "name": "hp",
+                "url": "https://pokedex.mimo.dev/api/stat/1/"
+            }
+        },
+        {
+            "base_stat": 64,
+            "effort": 0,
+            "stat": {
+                "name": "attack",
+                "url": "https://pokedex.mimo.dev/api/stat/2/"
+            }
+        },
+        {
+            "base_stat": 60,
+            "effort": 0,
+            "stat": {
+                "name": "defense",
+                "url": "https://pokedex.mimo.dev/api/stat/3/"
+            }
+        },
+        {
+            "base_stat": 111,
+            "effort": 0,
+            "stat": {
+                "name": "special-attack",
+                "url": "https://pokedex.mimo.dev/api/stat/4/"
+            }
+        },
+        {
+            "base_stat": 60,
+            "effort": 0,
+            "stat": {
+                "name": "special-defense",
+                "url": "https://pokedex.mimo.dev/api/stat/5/"
+            }
+        },
+        {
+            "base_stat": 117,
+            "effort": 2,
+            "stat": {
+                "name": "speed",
+                "url": "https://pokedex.mimo.dev/api/stat/6/"
+            }
+        }
+    ],
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "poison",
+                "url": "https://pokedex.mimo.dev/api/type/4/"
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "fire",
+                "url": "https://pokedex.mimo.dev/api/type/10/"
+            }
+        }
+    ],
+    "weight": 810
+}

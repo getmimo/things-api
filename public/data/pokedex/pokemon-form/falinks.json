@@ -1,0 +1,39 @@
+{
+    "form_name": "",
+    "form_names": [],
+    "form_order": 1,
+    "id": 870,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "falinks",
+    "names": [],
+    "order": 1223,
+    "pokemon": {
+        "name": "falinks",
+        "url": "https://pokedex.mimo.dev/api/pokemon/870/"
+    },
+    "sprites": {
+        "back_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/870.png",
+        "back_female": null,
+        "back_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/back/shiny/870.png",
+        "back_shiny_female": null,
+        "front_default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/870.png",
+        "front_female": null,
+        "front_shiny": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/pokemon/shiny/870.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "fighting",
+                "url": "https://pokedex.mimo.dev/api/type/2/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "sword-shield",
+        "url": "https://pokedex.mimo.dev/api/version-group/20/"
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "effect_changes": [],
+    "effect_entries": [],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "When the Pok\u00e9mon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-ix",
+        "url": "https://pokedex.mimo.dev/api/generation/9/"
+    },
+    "id": 291,
+    "is_main_series": true,
+    "name": "cud-chew",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u306f\u3093\u3059\u3046"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Ruminant"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Wiederk\u00e4uer"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Rumia"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Ruminante"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Cud Chew"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u306f\u3093\u3059\u3046"
+        }
+    ],
+    "pokemon": [
+        {
+            "is_hidden": false,
+            "pokemon": {
+                "name": "farigiraf",
+                "url": "https://pokedex.mimo.dev/api/pokemon/981/"
+            },
+            "slot": 1
+        },
+        {
+            "is_hidden": true,
+            "pokemon": {
+                "name": "tauros-paldea-combat-breed",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10250/"
+            },
+            "slot": 3
+        },
+        {
+            "is_hidden": true,
+            "pokemon": {
+                "name": "tauros-paldea-blaze-breed",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10251/"
+            },
+            "slot": 3
+        },
+        {
+            "is_hidden": true,
+            "pokemon": {
+                "name": "tauros-paldea-aqua-breed",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10252/"
+            },
+            "slot": 3
+        }
+    ]
+}

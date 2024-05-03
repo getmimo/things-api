@@ -1,0 +1,49 @@
+{
+    "generation": {
+        "name": "generation-iii",
+        "url": "https://pokedex.mimo.dev/api/generation/3/"
+    },
+    "id": 7,
+    "move_learn_methods": [
+        {
+            "name": "level-up",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+        },
+        {
+            "name": "egg",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/2/"
+        },
+        {
+            "name": "tutor",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/3/"
+        },
+        {
+            "name": "machine",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+        }
+    ],
+    "name": "firered-leafgreen",
+    "order": 9,
+    "pokedexes": [
+        {
+            "name": "kanto",
+            "url": "https://pokedex.mimo.dev/api/pokedex/2/"
+        }
+    ],
+    "regions": [
+        {
+            "name": "kanto",
+            "url": "https://pokedex.mimo.dev/api/region/1/"
+        }
+    ],
+    "versions": [
+        {
+            "name": "firered",
+            "url": "https://pokedex.mimo.dev/api/version/10/"
+        },
+        {
+            "name": "leafgreen",
+            "url": "https://pokedex.mimo.dev/api/version/11/"
+        }
+    ]
+}

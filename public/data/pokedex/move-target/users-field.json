@@ -1,0 +1,86 @@
+{
+    "descriptions": [
+        {
+            "description": "Die Seite des Anwenders auf dem Feld.  Betrifft den Anwender und seine Partner (wenn vorhanden).",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            }
+        },
+        {
+            "description": "The user's side of the field.  Affects the user and its ally (if any).",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            }
+        }
+    ],
+    "id": 4,
+    "moves": [
+        {
+            "name": "mist",
+            "url": "https://pokedex.mimo.dev/api/move/54/"
+        },
+        {
+            "name": "light-screen",
+            "url": "https://pokedex.mimo.dev/api/move/113/"
+        },
+        {
+            "name": "reflect",
+            "url": "https://pokedex.mimo.dev/api/move/115/"
+        },
+        {
+            "name": "safeguard",
+            "url": "https://pokedex.mimo.dev/api/move/219/"
+        },
+        {
+            "name": "tailwind",
+            "url": "https://pokedex.mimo.dev/api/move/366/"
+        },
+        {
+            "name": "lucky-chant",
+            "url": "https://pokedex.mimo.dev/api/move/381/"
+        },
+        {
+            "name": "wide-guard",
+            "url": "https://pokedex.mimo.dev/api/move/469/"
+        },
+        {
+            "name": "quick-guard",
+            "url": "https://pokedex.mimo.dev/api/move/501/"
+        },
+        {
+            "name": "mat-block",
+            "url": "https://pokedex.mimo.dev/api/move/561/"
+        },
+        {
+            "name": "crafty-shield",
+            "url": "https://pokedex.mimo.dev/api/move/578/"
+        },
+        {
+            "name": "happy-hour",
+            "url": "https://pokedex.mimo.dev/api/move/603/"
+        },
+        {
+            "name": "aurora-veil",
+            "url": "https://pokedex.mimo.dev/api/move/694/"
+        }
+    ],
+    "name": "users-field",
+    "names": [
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Seite des Anwenders"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "User's field"
+        }
+    ]
+}

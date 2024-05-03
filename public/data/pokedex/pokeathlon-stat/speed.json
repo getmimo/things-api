@@ -1,0 +1,194 @@
+{
+    "affecting_natures": {
+        "decrease": [
+            {
+                "max_change": -1,
+                "nature": {
+                    "name": "hardy",
+                    "url": "https://pokedex.mimo.dev/api/nature/1/"
+                }
+            },
+            {
+                "max_change": -2,
+                "nature": {
+                    "name": "bold",
+                    "url": "https://pokedex.mimo.dev/api/nature/2/"
+                }
+            },
+            {
+                "max_change": -2,
+                "nature": {
+                    "name": "modest",
+                    "url": "https://pokedex.mimo.dev/api/nature/3/"
+                }
+            },
+            {
+                "max_change": -2,
+                "nature": {
+                    "name": "calm",
+                    "url": "https://pokedex.mimo.dev/api/nature/4/"
+                }
+            },
+            {
+                "max_change": -1,
+                "nature": {
+                    "name": "bashful",
+                    "url": "https://pokedex.mimo.dev/api/nature/13/"
+                }
+            },
+            {
+                "max_change": -2,
+                "nature": {
+                    "name": "lax",
+                    "url": "https://pokedex.mimo.dev/api/nature/18/"
+                }
+            },
+            {
+                "max_change": -2,
+                "nature": {
+                    "name": "brave",
+                    "url": "https://pokedex.mimo.dev/api/nature/21/"
+                }
+            },
+            {
+                "max_change": -2,
+                "nature": {
+                    "name": "relaxed",
+                    "url": "https://pokedex.mimo.dev/api/nature/22/"
+                }
+            },
+            {
+                "max_change": -2,
+                "nature": {
+                    "name": "quiet",
+                    "url": "https://pokedex.mimo.dev/api/nature/23/"
+                }
+            },
+            {
+                "max_change": -2,
+                "nature": {
+                    "name": "sassy",
+                    "url": "https://pokedex.mimo.dev/api/nature/24/"
+                }
+            }
+        ],
+        "increase": [
+            {
+                "max_change": 2,
+                "nature": {
+                    "name": "timid",
+                    "url": "https://pokedex.mimo.dev/api/nature/5/"
+                }
+            },
+            {
+                "max_change": 2,
+                "nature": {
+                    "name": "lonely",
+                    "url": "https://pokedex.mimo.dev/api/nature/6/"
+                }
+            },
+            {
+                "max_change": 2,
+                "nature": {
+                    "name": "gentle",
+                    "url": "https://pokedex.mimo.dev/api/nature/9/"
+                }
+            },
+            {
+                "max_change": 2,
+                "nature": {
+                    "name": "hasty",
+                    "url": "https://pokedex.mimo.dev/api/nature/10/"
+                }
+            },
+            {
+                "max_change": 2,
+                "nature": {
+                    "name": "adamant",
+                    "url": "https://pokedex.mimo.dev/api/nature/11/"
+                }
+            },
+            {
+                "max_change": 2,
+                "nature": {
+                    "name": "jolly",
+                    "url": "https://pokedex.mimo.dev/api/nature/16/"
+                }
+            },
+            {
+                "max_change": 2,
+                "nature": {
+                    "name": "naughty",
+                    "url": "https://pokedex.mimo.dev/api/nature/17/"
+                }
+            },
+            {
+                "max_change": 1,
+                "nature": {
+                    "name": "quirky",
+                    "url": "https://pokedex.mimo.dev/api/nature/19/"
+                }
+            },
+            {
+                "max_change": 2,
+                "nature": {
+                    "name": "naive",
+                    "url": "https://pokedex.mimo.dev/api/nature/20/"
+                }
+            },
+            {
+                "max_change": 1,
+                "nature": {
+                    "name": "serious",
+                    "url": "https://pokedex.mimo.dev/api/nature/25/"
+                }
+            }
+        ]
+    },
+    "id": 1,
+    "name": "speed",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30b9\u30d4\u30fc\u30c9"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u901f\u5ea6"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Vitesse"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Velocidad"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Speed"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u901f\u5ea6"
+        }
+    ]
+}

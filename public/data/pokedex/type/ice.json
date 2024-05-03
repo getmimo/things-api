@@ -1,0 +1,850 @@
+{
+    "damage_relations": {
+        "double_damage_from": [
+            {
+                "name": "fighting",
+                "url": "https://pokedex.mimo.dev/api/type/2/"
+            },
+            {
+                "name": "rock",
+                "url": "https://pokedex.mimo.dev/api/type/6/"
+            },
+            {
+                "name": "steel",
+                "url": "https://pokedex.mimo.dev/api/type/9/"
+            },
+            {
+                "name": "fire",
+                "url": "https://pokedex.mimo.dev/api/type/10/"
+            }
+        ],
+        "double_damage_to": [
+            {
+                "name": "flying",
+                "url": "https://pokedex.mimo.dev/api/type/3/"
+            },
+            {
+                "name": "ground",
+                "url": "https://pokedex.mimo.dev/api/type/5/"
+            },
+            {
+                "name": "grass",
+                "url": "https://pokedex.mimo.dev/api/type/12/"
+            },
+            {
+                "name": "dragon",
+                "url": "https://pokedex.mimo.dev/api/type/16/"
+            }
+        ],
+        "half_damage_from": [
+            {
+                "name": "ice",
+                "url": "https://pokedex.mimo.dev/api/type/15/"
+            }
+        ],
+        "half_damage_to": [
+            {
+                "name": "steel",
+                "url": "https://pokedex.mimo.dev/api/type/9/"
+            },
+            {
+                "name": "fire",
+                "url": "https://pokedex.mimo.dev/api/type/10/"
+            },
+            {
+                "name": "water",
+                "url": "https://pokedex.mimo.dev/api/type/11/"
+            },
+            {
+                "name": "ice",
+                "url": "https://pokedex.mimo.dev/api/type/15/"
+            }
+        ],
+        "no_damage_from": [],
+        "no_damage_to": []
+    },
+    "game_indices": [
+        {
+            "game_index": 25,
+            "generation": {
+                "name": "generation-i",
+                "url": "https://pokedex.mimo.dev/api/generation/1/"
+            }
+        },
+        {
+            "game_index": 25,
+            "generation": {
+                "name": "generation-ii",
+                "url": "https://pokedex.mimo.dev/api/generation/2/"
+            }
+        },
+        {
+            "game_index": 15,
+            "generation": {
+                "name": "generation-iii",
+                "url": "https://pokedex.mimo.dev/api/generation/3/"
+            }
+        },
+        {
+            "game_index": 15,
+            "generation": {
+                "name": "generation-iv",
+                "url": "https://pokedex.mimo.dev/api/generation/4/"
+            }
+        },
+        {
+            "game_index": 14,
+            "generation": {
+                "name": "generation-v",
+                "url": "https://pokedex.mimo.dev/api/generation/5/"
+            }
+        },
+        {
+            "game_index": 14,
+            "generation": {
+                "name": "generation-vi",
+                "url": "https://pokedex.mimo.dev/api/generation/6/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-i",
+        "url": "https://pokedex.mimo.dev/api/generation/1/"
+    },
+    "id": 15,
+    "move_damage_class": {
+        "name": "special",
+        "url": "https://pokedex.mimo.dev/api/move-damage-class/3/"
+    },
+    "moves": [
+        {
+            "name": "ice-punch",
+            "url": "https://pokedex.mimo.dev/api/move/8/"
+        },
+        {
+            "name": "mist",
+            "url": "https://pokedex.mimo.dev/api/move/54/"
+        },
+        {
+            "name": "ice-beam",
+            "url": "https://pokedex.mimo.dev/api/move/58/"
+        },
+        {
+            "name": "blizzard",
+            "url": "https://pokedex.mimo.dev/api/move/59/"
+        },
+        {
+            "name": "aurora-beam",
+            "url": "https://pokedex.mimo.dev/api/move/62/"
+        },
+        {
+            "name": "haze",
+            "url": "https://pokedex.mimo.dev/api/move/114/"
+        },
+        {
+            "name": "powder-snow",
+            "url": "https://pokedex.mimo.dev/api/move/181/"
+        },
+        {
+            "name": "icy-wind",
+            "url": "https://pokedex.mimo.dev/api/move/196/"
+        },
+        {
+            "name": "hail",
+            "url": "https://pokedex.mimo.dev/api/move/258/"
+        },
+        {
+            "name": "ice-ball",
+            "url": "https://pokedex.mimo.dev/api/move/301/"
+        },
+        {
+            "name": "sheer-cold",
+            "url": "https://pokedex.mimo.dev/api/move/329/"
+        },
+        {
+            "name": "icicle-spear",
+            "url": "https://pokedex.mimo.dev/api/move/333/"
+        },
+        {
+            "name": "avalanche",
+            "url": "https://pokedex.mimo.dev/api/move/419/"
+        },
+        {
+            "name": "ice-shard",
+            "url": "https://pokedex.mimo.dev/api/move/420/"
+        },
+        {
+            "name": "ice-fang",
+            "url": "https://pokedex.mimo.dev/api/move/423/"
+        },
+        {
+            "name": "frost-breath",
+            "url": "https://pokedex.mimo.dev/api/move/524/"
+        },
+        {
+            "name": "glaciate",
+            "url": "https://pokedex.mimo.dev/api/move/549/"
+        },
+        {
+            "name": "freeze-shock",
+            "url": "https://pokedex.mimo.dev/api/move/553/"
+        },
+        {
+            "name": "ice-burn",
+            "url": "https://pokedex.mimo.dev/api/move/554/"
+        },
+        {
+            "name": "icicle-crash",
+            "url": "https://pokedex.mimo.dev/api/move/556/"
+        },
+        {
+            "name": "freeze-dry",
+            "url": "https://pokedex.mimo.dev/api/move/573/"
+        },
+        {
+            "name": "subzero-slammer--physical",
+            "url": "https://pokedex.mimo.dev/api/move/650/"
+        },
+        {
+            "name": "subzero-slammer--special",
+            "url": "https://pokedex.mimo.dev/api/move/651/"
+        },
+        {
+            "name": "ice-hammer",
+            "url": "https://pokedex.mimo.dev/api/move/665/"
+        },
+        {
+            "name": "aurora-veil",
+            "url": "https://pokedex.mimo.dev/api/move/694/"
+        },
+        {
+            "name": "freezy-frost",
+            "url": "https://pokedex.mimo.dev/api/move/739/"
+        },
+        {
+            "name": "max-hailstorm",
+            "url": "https://pokedex.mimo.dev/api/move/763/"
+        },
+        {
+            "name": "triple-axel",
+            "url": "https://pokedex.mimo.dev/api/move/813/"
+        },
+        {
+            "name": "glacial-lance",
+            "url": "https://pokedex.mimo.dev/api/move/824/"
+        },
+        {
+            "name": "mountain-gale",
+            "url": "https://pokedex.mimo.dev/api/move/836/"
+        },
+        {
+            "name": "ice-spinner",
+            "url": "https://pokedex.mimo.dev/api/move/861/"
+        },
+        {
+            "name": "chilly-reception",
+            "url": "https://pokedex.mimo.dev/api/move/881/"
+        },
+        {
+            "name": "snowscape",
+            "url": "https://pokedex.mimo.dev/api/move/883/"
+        }
+    ],
+    "name": "ice",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u3053\u304a\u308a"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc5bc\uc74c"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u51b0"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Glace"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Eis"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Hielo"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Ghiaccio"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Ice"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u3053\u304a\u308a"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u51b0"
+        }
+    ],
+    "past_damage_relations": [
+        {
+            "damage_relations": {
+                "double_damage_from": [
+                    {
+                        "name": "fighting",
+                        "url": "https://pokedex.mimo.dev/api/type/2/"
+                    },
+                    {
+                        "name": "rock",
+                        "url": "https://pokedex.mimo.dev/api/type/6/"
+                    },
+                    {
+                        "name": "fire",
+                        "url": "https://pokedex.mimo.dev/api/type/10/"
+                    }
+                ],
+                "double_damage_to": [
+                    {
+                        "name": "flying",
+                        "url": "https://pokedex.mimo.dev/api/type/3/"
+                    },
+                    {
+                        "name": "ground",
+                        "url": "https://pokedex.mimo.dev/api/type/5/"
+                    },
+                    {
+                        "name": "grass",
+                        "url": "https://pokedex.mimo.dev/api/type/12/"
+                    },
+                    {
+                        "name": "dragon",
+                        "url": "https://pokedex.mimo.dev/api/type/16/"
+                    }
+                ],
+                "half_damage_from": [
+                    {
+                        "name": "ice",
+                        "url": "https://pokedex.mimo.dev/api/type/15/"
+                    }
+                ],
+                "half_damage_to": [
+                    {
+                        "name": "water",
+                        "url": "https://pokedex.mimo.dev/api/type/11/"
+                    },
+                    {
+                        "name": "ice",
+                        "url": "https://pokedex.mimo.dev/api/type/15/"
+                    }
+                ],
+                "no_damage_from": [],
+                "no_damage_to": []
+            },
+            "generation": {
+                "name": "generation-i",
+                "url": "https://pokedex.mimo.dev/api/generation/1/"
+            }
+        }
+    ],
+    "pokemon": [
+        {
+            "pokemon": {
+                "name": "dewgong",
+                "url": "https://pokedex.mimo.dev/api/pokemon/87/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "cloyster",
+                "url": "https://pokedex.mimo.dev/api/pokemon/91/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "jynx",
+                "url": "https://pokedex.mimo.dev/api/pokemon/124/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "lapras",
+                "url": "https://pokedex.mimo.dev/api/pokemon/131/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "articuno",
+                "url": "https://pokedex.mimo.dev/api/pokemon/144/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "sneasel",
+                "url": "https://pokedex.mimo.dev/api/pokemon/215/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "swinub",
+                "url": "https://pokedex.mimo.dev/api/pokemon/220/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "piloswine",
+                "url": "https://pokedex.mimo.dev/api/pokemon/221/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "delibird",
+                "url": "https://pokedex.mimo.dev/api/pokemon/225/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "smoochum",
+                "url": "https://pokedex.mimo.dev/api/pokemon/238/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "snorunt",
+                "url": "https://pokedex.mimo.dev/api/pokemon/361/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "glalie",
+                "url": "https://pokedex.mimo.dev/api/pokemon/362/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "spheal",
+                "url": "https://pokedex.mimo.dev/api/pokemon/363/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "sealeo",
+                "url": "https://pokedex.mimo.dev/api/pokemon/364/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "walrein",
+                "url": "https://pokedex.mimo.dev/api/pokemon/365/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "regice",
+                "url": "https://pokedex.mimo.dev/api/pokemon/378/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "snover",
+                "url": "https://pokedex.mimo.dev/api/pokemon/459/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "abomasnow",
+                "url": "https://pokedex.mimo.dev/api/pokemon/460/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "weavile",
+                "url": "https://pokedex.mimo.dev/api/pokemon/461/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "glaceon",
+                "url": "https://pokedex.mimo.dev/api/pokemon/471/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "mamoswine",
+                "url": "https://pokedex.mimo.dev/api/pokemon/473/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "froslass",
+                "url": "https://pokedex.mimo.dev/api/pokemon/478/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "vanillite",
+                "url": "https://pokedex.mimo.dev/api/pokemon/582/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "vanillish",
+                "url": "https://pokedex.mimo.dev/api/pokemon/583/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "vanilluxe",
+                "url": "https://pokedex.mimo.dev/api/pokemon/584/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "cubchoo",
+                "url": "https://pokedex.mimo.dev/api/pokemon/613/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "beartic",
+                "url": "https://pokedex.mimo.dev/api/pokemon/614/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "cryogonal",
+                "url": "https://pokedex.mimo.dev/api/pokemon/615/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "kyurem",
+                "url": "https://pokedex.mimo.dev/api/pokemon/646/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "amaura",
+                "url": "https://pokedex.mimo.dev/api/pokemon/698/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "aurorus",
+                "url": "https://pokedex.mimo.dev/api/pokemon/699/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "bergmite",
+                "url": "https://pokedex.mimo.dev/api/pokemon/712/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "avalugg",
+                "url": "https://pokedex.mimo.dev/api/pokemon/713/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "crabominable",
+                "url": "https://pokedex.mimo.dev/api/pokemon/740/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "mr-rime",
+                "url": "https://pokedex.mimo.dev/api/pokemon/866/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "snom",
+                "url": "https://pokedex.mimo.dev/api/pokemon/872/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "frosmoth",
+                "url": "https://pokedex.mimo.dev/api/pokemon/873/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "eiscue-ice",
+                "url": "https://pokedex.mimo.dev/api/pokemon/875/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "arctozolt",
+                "url": "https://pokedex.mimo.dev/api/pokemon/881/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "arctovish",
+                "url": "https://pokedex.mimo.dev/api/pokemon/883/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "glastrier",
+                "url": "https://pokedex.mimo.dev/api/pokemon/896/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "cetoddle",
+                "url": "https://pokedex.mimo.dev/api/pokemon/974/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "cetitan",
+                "url": "https://pokedex.mimo.dev/api/pokemon/975/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "iron-bundle",
+                "url": "https://pokedex.mimo.dev/api/pokemon/991/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "frigibax",
+                "url": "https://pokedex.mimo.dev/api/pokemon/996/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "arctibax",
+                "url": "https://pokedex.mimo.dev/api/pokemon/997/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "baxcalibur",
+                "url": "https://pokedex.mimo.dev/api/pokemon/998/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "chien-pao",
+                "url": "https://pokedex.mimo.dev/api/pokemon/1002/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "rotom-frost",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10010/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "castform-snowy",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10015/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "kyurem-black",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10022/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "kyurem-white",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10023/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "abomasnow-mega",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10060/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "glalie-mega",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10074/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "sandshrew-alola",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10101/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "sandslash-alola",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10102/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "vulpix-alola",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10103/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "ninetales-alola",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10104/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "mr-mime-galar",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10168/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "darumaka-galar",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10176/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "darmanitan-galar-standard",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10177/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "darmanitan-galar-zen",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10178/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "eiscue-noice",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10185/"
+            },
+            "slot": 1
+        },
+        {
+            "pokemon": {
+                "name": "calyrex-ice",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10193/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "lapras-gmax",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10204/"
+            },
+            "slot": 2
+        },
+        {
+            "pokemon": {
+                "name": "avalugg-hisui",
+                "url": "https://pokedex.mimo.dev/api/pokemon/10243/"
+            },
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "attributes": [],
+    "baby_trigger_for": null,
+    "category": {
+        "name": "plot-advancement",
+        "url": "https://pokedex.mimo.dev/api/item-category/22/"
+    },
+    "cost": 0,
+    "effect_entries": [
+        {
+            "effect": "Provides access to the Sevii Islands.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "short_effect": "Grants access to all of the Sevii Islands."
+        }
+    ],
+    "flavor_text_entries": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "text": "For ferries serving\nVERMILION and the\nSEVII ISLANDS.",
+            "version_group": {
+                "name": "emerald",
+                "url": "https://pokedex.mimo.dev/api/version-group/6/"
+            }
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "text": "A pass for ferries between\nVERMILION and the SEVII ISLANDS.\nIt features a drawing of a rainbow.",
+            "version_group": {
+                "name": "firered-leafgreen",
+                "url": "https://pokedex.mimo.dev/api/version-group/7/"
+            }
+        }
+    ],
+    "fling_effect": null,
+    "fling_power": null,
+    "game_indices": [
+        {
+            "game_index": 368,
+            "generation": {
+                "name": "generation-iii",
+                "url": "https://pokedex.mimo.dev/api/generation/3/"
+            }
+        }
+    ],
+    "held_by_pokemon": [],
+    "id": 554,
+    "machines": [],
+    "name": "rainbow-pass",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30d1\u30b9"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Passe Prisme"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Bunt-Pass"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Iris-Ticket"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Sette Pass"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Rainbow Pass"
+        }
+    ],
+    "sprites": {
+        "default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/items/rainbow-pass.png"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "generation": {
+        "name": "generation-iii",
+        "url": "https://pokedex.mimo.dev/api/generation/3/"
+    },
+    "id": 5,
+    "move_learn_methods": [
+        {
+            "name": "level-up",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+        },
+        {
+            "name": "egg",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/2/"
+        },
+        {
+            "name": "machine",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+        }
+    ],
+    "name": "ruby-sapphire",
+    "order": 5,
+    "pokedexes": [
+        {
+            "name": "hoenn",
+            "url": "https://pokedex.mimo.dev/api/pokedex/4/"
+        }
+    ],
+    "regions": [
+        {
+            "name": "hoenn",
+            "url": "https://pokedex.mimo.dev/api/region/3/"
+        }
+    ],
+    "versions": [
+        {
+            "name": "ruby",
+            "url": "https://pokedex.mimo.dev/api/version/7/"
+        },
+        {
+            "name": "sapphire",
+            "url": "https://pokedex.mimo.dev/api/version/8/"
+        }
+    ]
+}

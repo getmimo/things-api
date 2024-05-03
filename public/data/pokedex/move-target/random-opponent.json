@@ -1,0 +1,62 @@
+{
+    "descriptions": [
+        {
+            "description": "Ein zuf\u00e4lliges gegnerische Pok\u00e9mon.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            }
+        },
+        {
+            "description": "One opposing Pok\u00e9mon, selected at random.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            }
+        }
+    ],
+    "id": 8,
+    "moves": [
+        {
+            "name": "thrash",
+            "url": "https://pokedex.mimo.dev/api/move/37/"
+        },
+        {
+            "name": "petal-dance",
+            "url": "https://pokedex.mimo.dev/api/move/80/"
+        },
+        {
+            "name": "struggle",
+            "url": "https://pokedex.mimo.dev/api/move/165/"
+        },
+        {
+            "name": "outrage",
+            "url": "https://pokedex.mimo.dev/api/move/200/"
+        },
+        {
+            "name": "uproar",
+            "url": "https://pokedex.mimo.dev/api/move/253/"
+        },
+        {
+            "name": "raging-fury",
+            "url": "https://pokedex.mimo.dev/api/move/833/"
+        }
+    ],
+    "name": "random-opponent",
+    "names": [
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Zuf\u00e4lliger Gegner"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Random opponent"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "decreased_stat": {
+        "name": "special-attack",
+        "url": "https://pokedex.mimo.dev/api/stat/4/"
+    },
+    "hates_flavor": {
+        "name": "dry",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/2/"
+    },
+    "id": 12,
+    "increased_stat": {
+        "name": "defense",
+        "url": "https://pokedex.mimo.dev/api/stat/3/"
+    },
+    "likes_flavor": {
+        "name": "sour",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/5/"
+    },
+    "move_battle_style_preferences": [
+        {
+            "high_hp_preference": 69,
+            "low_hp_preference": 28,
+            "move_battle_style": {
+                "name": "attack",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/1/"
+            }
+        },
+        {
+            "high_hp_preference": 6,
+            "low_hp_preference": 55,
+            "move_battle_style": {
+                "name": "defense",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/2/"
+            }
+        },
+        {
+            "high_hp_preference": 25,
+            "low_hp_preference": 17,
+            "move_battle_style": {
+                "name": "support",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/3/"
+            }
+        }
+    ],
+    "name": "impish",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u308f\u3093\u3071\u304f"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc7a5\ub09c\uafb8\ub7ec\uae30"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u6dd8\u6c23"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Malin"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Pfiffig"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Agitada"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Scaltra"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Impish"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u308f\u3093\u3071\u304f"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u6dd8\u6c14"
+        }
+    ],
+    "pokeathlon_stat_changes": [
+        {
+            "max_change": 2,
+            "pokeathlon_stat": {
+                "name": "skill",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/3/"
+            }
+        },
+        {
+            "max_change": -2,
+            "pokeathlon_stat": {
+                "name": "jump",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/5/"
+            }
+        }
+    ]
+}

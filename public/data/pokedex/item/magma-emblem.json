@@ -1,0 +1,94 @@
+{
+    "attributes": [],
+    "baby_trigger_for": null,
+    "category": {
+        "name": "plot-advancement",
+        "url": "https://pokedex.mimo.dev/api/item-category/22/"
+    },
+    "cost": 0,
+    "effect_entries": [
+        {
+            "effect": "Provides access to the magma hideout in the jagged pass.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "short_effect": "Provides access to the Team Magma Hideout in the Jagged Pass."
+        }
+    ],
+    "flavor_text_entries": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "text": "A medal-like item in\nthe same shape as\nTEAM MAGMA\u2019s mark.",
+            "version_group": {
+                "name": "emerald",
+                "url": "https://pokedex.mimo.dev/api/version-group/6/"
+            }
+        }
+    ],
+    "fling_effect": null,
+    "fling_power": null,
+    "game_indices": [
+        {
+            "game_index": 375,
+            "generation": {
+                "name": "generation-iii",
+                "url": "https://pokedex.mimo.dev/api/generation/3/"
+            }
+        }
+    ],
+    "held_by_pokemon": [],
+    "id": 561,
+    "machines": [],
+    "name": "magma-emblem",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u30de\u30b0\u30de\u306e\u3057\u308b\u3057"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Sceau Magma"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Magmaemblem"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Signo Magma"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Stemma Magma"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Magma Emblem"
+        }
+    ],
+    "sprites": {
+        "default": "https://pokedex.mimo.dev/data/pokedex/files/sprites/master/sprites/items/magma-emblem.png"
+    }
+}

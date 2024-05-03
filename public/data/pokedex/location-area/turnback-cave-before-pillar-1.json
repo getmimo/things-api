@@ -1,0 +1,1213 @@
+{
+    "encounter_method_rates": [
+        {
+            "encounter_method": {
+                "name": "walk",
+                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+            },
+            "version_details": [
+                {
+                    "rate": 15,
+                    "version": {
+                        "name": "diamond",
+                        "url": "https://pokedex.mimo.dev/api/version/12/"
+                    }
+                },
+                {
+                    "rate": 15,
+                    "version": {
+                        "name": "pearl",
+                        "url": "https://pokedex.mimo.dev/api/version/13/"
+                    }
+                },
+                {
+                    "rate": 15,
+                    "version": {
+                        "name": "platinum",
+                        "url": "https://pokedex.mimo.dev/api/version/14/"
+                    }
+                }
+            ]
+        }
+    ],
+    "game_index": 64,
+    "id": 64,
+    "location": {
+        "name": "turnback-cave",
+        "url": "https://pokedex.mimo.dev/api/location/18/"
+    },
+    "name": "turnback-cave-before-pillar-1",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Turnback Cave (before pillar 1)"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Grotte Retour (avant 1er pilier)"
+        }
+    ],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "golbat",
+                "url": "https://pokedex.mimo.dev/api/pokemon/42/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 45,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 45
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "diamond",
+                        "url": "https://pokedex.mimo.dev/api/version/12/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 45,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 45
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "pearl",
+                        "url": "https://pokedex.mimo.dev/api/version/13/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 17,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 17
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 17,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 17
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        }
+                    ],
+                    "max_chance": 25,
+                    "version": {
+                        "name": "platinum",
+                        "url": "https://pokedex.mimo.dev/api/version/14/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "gastly",
+                "url": "https://pokedex.mimo.dev/api/pokemon/92/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 15
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "time-morning",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/3/"
+                                }
+                            ],
+                            "max_level": 16,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 16
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "time-day",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/4/"
+                                }
+                            ],
+                            "max_level": 16,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 16
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 17,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 17
+                        }
+                    ],
+                    "max_chance": 50,
+                    "version": {
+                        "name": "platinum",
+                        "url": "https://pokedex.mimo.dev/api/version/14/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "haunter",
+                "url": "https://pokedex.mimo.dev/api/pokemon/93/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 45,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 45
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "diamond",
+                        "url": "https://pokedex.mimo.dev/api/version/12/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 45,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 45
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        }
+                    ],
+                    "max_chance": 30,
+                    "version": {
+                        "name": "pearl",
+                        "url": "https://pokedex.mimo.dev/api/version/13/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "lunatone",
+                "url": "https://pokedex.mimo.dev/api/pokemon/337/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-sapphire",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/10/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-sapphire",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/10/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        }
+                    ],
+                    "max_chance": 8,
+                    "version": {
+                        "name": "diamond",
+                        "url": "https://pokedex.mimo.dev/api/version/12/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-sapphire",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/10/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-sapphire",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/10/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        }
+                    ],
+                    "max_chance": 8,
+                    "version": {
+                        "name": "pearl",
+                        "url": "https://pokedex.mimo.dev/api/version/13/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-sapphire",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/10/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-sapphire",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/10/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        }
+                    ],
+                    "max_chance": 8,
+                    "version": {
+                        "name": "platinum",
+                        "url": "https://pokedex.mimo.dev/api/version/14/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "solrock",
+                "url": "https://pokedex.mimo.dev/api/pokemon/338/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-ruby",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/9/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-ruby",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/9/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        }
+                    ],
+                    "max_chance": 8,
+                    "version": {
+                        "name": "diamond",
+                        "url": "https://pokedex.mimo.dev/api/version/12/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-ruby",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/9/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-ruby",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/9/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        }
+                    ],
+                    "max_chance": 8,
+                    "version": {
+                        "name": "pearl",
+                        "url": "https://pokedex.mimo.dev/api/version/13/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-ruby",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/9/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-ruby",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/9/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        }
+                    ],
+                    "max_chance": 8,
+                    "version": {
+                        "name": "platinum",
+                        "url": "https://pokedex.mimo.dev/api/version/14/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "duskull",
+                "url": "https://pokedex.mimo.dev/api/pokemon/355/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-none",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/8/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "radar-off",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/7/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        }
+                    ],
+                    "max_chance": 5,
+                    "version": {
+                        "name": "platinum",
+                        "url": "https://pokedex.mimo.dev/api/version/14/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "dusclops",
+                "url": "https://pokedex.mimo.dev/api/pokemon/356/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 10,
+                            "condition_values": [
+                                {
+                                    "name": "time-night",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/5/"
+                                }
+                            ],
+                            "max_level": 16,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 16
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-emerald",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/11/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-firered",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/12/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-leafgreen",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/13/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [
+                                {
+                                    "name": "radar-on",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/6/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        }
+                    ],
+                    "max_chance": 23,
+                    "version": {
+                        "name": "platinum",
+                        "url": "https://pokedex.mimo.dev/api/version/14/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "chingling",
+                "url": "https://pokedex.mimo.dev/api/pokemon/433/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 5,
+                            "condition_values": [],
+                            "max_level": 16,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 16
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-none",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/8/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-emerald",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/11/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-firered",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/12/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-leafgreen",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/13/"
+                                }
+                            ],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 18,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 18
+                        }
+                    ],
+                    "max_chance": 22,
+                    "version": {
+                        "name": "platinum",
+                        "url": "https://pokedex.mimo.dev/api/version/14/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "bronzor",
+                "url": "https://pokedex.mimo.dev/api/pokemon/436/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-none",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/8/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-emerald",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/11/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-firered",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/12/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-leafgreen",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/13/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        }
+                    ],
+                    "max_chance": 17,
+                    "version": {
+                        "name": "diamond",
+                        "url": "https://pokedex.mimo.dev/api/version/12/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-none",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/8/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-emerald",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/11/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-firered",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/12/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-leafgreen",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/13/"
+                                }
+                            ],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 44,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 44
+                        }
+                    ],
+                    "max_chance": 17,
+                    "version": {
+                        "name": "pearl",
+                        "url": "https://pokedex.mimo.dev/api/version/13/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 15,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 15
+                        }
+                    ],
+                    "max_chance": 20,
+                    "version": {
+                        "name": "platinum",
+                        "url": "https://pokedex.mimo.dev/api/version/14/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "bronzong",
+                "url": "https://pokedex.mimo.dev/api/pokemon/437/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 45,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 45
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-none",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/8/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-emerald",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/11/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-firered",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/12/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-leafgreen",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/13/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        }
+                    ],
+                    "max_chance": 47,
+                    "version": {
+                        "name": "diamond",
+                        "url": "https://pokedex.mimo.dev/api/version/12/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 20,
+                            "condition_values": [],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 10,
+                            "condition_values": [],
+                            "max_level": 45,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 45
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-none",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/8/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-emerald",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/11/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-firered",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/12/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 4,
+                            "condition_values": [
+                                {
+                                    "name": "slot2-leafgreen",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/13/"
+                                }
+                            ],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        },
+                        {
+                            "chance": 1,
+                            "condition_values": [],
+                            "max_level": 46,
+                            "method": {
+                                "name": "walk",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/1/"
+                            },
+                            "min_level": 46
+                        }
+                    ],
+                    "max_chance": 47,
+                    "version": {
+                        "name": "pearl",
+                        "url": "https://pokedex.mimo.dev/api/version/13/"
+                    }
+                }
+            ]
+        }
+    ]
+}

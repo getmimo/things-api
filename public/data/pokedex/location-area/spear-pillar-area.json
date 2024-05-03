@@ -1,0 +1,146 @@
+{
+    "encounter_method_rates": [],
+    "game_index": 0,
+    "id": 831,
+    "location": {
+        "name": "spear-pillar",
+        "url": "https://pokedex.mimo.dev/api/location/172/"
+    },
+    "name": "spear-pillar-area",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Spear Pillar"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Colonnes Lances"
+        }
+    ],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "dialga",
+                "url": "https://pokedex.mimo.dev/api/pokemon/483/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 47,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 47
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "diamond",
+                        "url": "https://pokedex.mimo.dev/api/version/12/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [
+                                {
+                                    "name": "item-adamant-orb",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/44/"
+                                },
+                                {
+                                    "name": "other-talk-to-cynthias-grandmother",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/42/"
+                                },
+                                {
+                                    "name": "story-progress-hall-of-fame",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/35/"
+                                }
+                            ],
+                            "max_level": 70,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 70
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "platinum",
+                        "url": "https://pokedex.mimo.dev/api/version/14/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "palkia",
+                "url": "https://pokedex.mimo.dev/api/pokemon/484/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [],
+                            "max_level": 47,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 47
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "pearl",
+                        "url": "https://pokedex.mimo.dev/api/version/13/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [
+                                {
+                                    "name": "item-lustrous-orb",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/45/"
+                                },
+                                {
+                                    "name": "other-talk-to-cynthias-grandmother",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/42/"
+                                },
+                                {
+                                    "name": "story-progress-hall-of-fame",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/35/"
+                                }
+                            ],
+                            "max_level": 70,
+                            "method": {
+                                "name": "only-one",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/20/"
+                            },
+                            "min_level": 70
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "platinum",
+                        "url": "https://pokedex.mimo.dev/api/version/14/"
+                    }
+                }
+            ]
+        }
+    ]
+}

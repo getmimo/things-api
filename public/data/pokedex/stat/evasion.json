@@ -1,0 +1,118 @@
+{
+    "affecting_moves": {
+        "decrease": [
+            {
+                "change": -2,
+                "move": {
+                    "name": "sweet-scent",
+                    "url": "https://pokedex.mimo.dev/api/move/230/"
+                }
+            },
+            {
+                "change": -1,
+                "move": {
+                    "name": "defog",
+                    "url": "https://pokedex.mimo.dev/api/move/432/"
+                }
+            }
+        ],
+        "increase": [
+            {
+                "change": 1,
+                "move": {
+                    "name": "double-team",
+                    "url": "https://pokedex.mimo.dev/api/move/104/"
+                }
+            },
+            {
+                "change": 2,
+                "move": {
+                    "name": "minimize",
+                    "url": "https://pokedex.mimo.dev/api/move/107/"
+                }
+            },
+            {
+                "change": 1,
+                "move": {
+                    "name": "zippy-zap",
+                    "url": "https://pokedex.mimo.dev/api/move/729/"
+                }
+            }
+        ]
+    },
+    "affecting_natures": {
+        "decrease": [],
+        "increase": []
+    },
+    "characteristics": [],
+    "game_index": 0,
+    "id": 8,
+    "is_battle_only": true,
+    "move_damage_class": null,
+    "name": "evasion",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u304b\u3044\u3072"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\ud68c\ud53c\uc728"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u9583\u907f"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Esquive"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Fluchtwert"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Evasi\u00f3n"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "elusione"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "evasion"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u95ea\u907f"
+        }
+    ]
+}

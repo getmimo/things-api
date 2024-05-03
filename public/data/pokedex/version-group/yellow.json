@@ -1,0 +1,41 @@
+{
+    "generation": {
+        "name": "generation-i",
+        "url": "https://pokedex.mimo.dev/api/generation/1/"
+    },
+    "id": 2,
+    "move_learn_methods": [
+        {
+            "name": "level-up",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/1/"
+        },
+        {
+            "name": "machine",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/4/"
+        },
+        {
+            "name": "stadium-surfing-pikachu",
+            "url": "https://pokedex.mimo.dev/api/move-learn-method/5/"
+        }
+    ],
+    "name": "yellow",
+    "order": 2,
+    "pokedexes": [
+        {
+            "name": "kanto",
+            "url": "https://pokedex.mimo.dev/api/pokedex/2/"
+        }
+    ],
+    "regions": [
+        {
+            "name": "kanto",
+            "url": "https://pokedex.mimo.dev/api/region/1/"
+        }
+    ],
+    "versions": [
+        {
+            "name": "yellow",
+            "url": "https://pokedex.mimo.dev/api/version/3/"
+        }
+    ]
+}

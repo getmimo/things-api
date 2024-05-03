@@ -1,0 +1,196 @@
+{
+    "encounter_method_rates": [],
+    "game_index": 0,
+    "id": 791,
+    "location": {
+        "name": "violet-city",
+        "url": "https://pokedex.mimo.dev/api/location/153/"
+    },
+    "name": "violet-city-pokemon-center",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Violet City (Pokemon Center)"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Mauville (Centre Pok\u00e9mon)"
+        }
+    ],
+    "pokemon_encounters": [
+        {
+            "pokemon": {
+                "name": "mareep",
+                "url": "https://pokedex.mimo.dev/api/pokemon/179/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [
+                                {
+                                    "name": "other-correct-password",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/53/"
+                                }
+                            ],
+                            "max_level": 1,
+                            "method": {
+                                "name": "gift-egg",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/19/"
+                            },
+                            "min_level": 1
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "heartgold",
+                        "url": "https://pokedex.mimo.dev/api/version/15/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [
+                                {
+                                    "name": "other-correct-password",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/53/"
+                                }
+                            ],
+                            "max_level": 1,
+                            "method": {
+                                "name": "gift-egg",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/19/"
+                            },
+                            "min_level": 1
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "soulsilver",
+                        "url": "https://pokedex.mimo.dev/api/version/16/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "wooper",
+                "url": "https://pokedex.mimo.dev/api/pokemon/194/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [
+                                {
+                                    "name": "other-correct-password",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/53/"
+                                }
+                            ],
+                            "max_level": 1,
+                            "method": {
+                                "name": "gift-egg",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/19/"
+                            },
+                            "min_level": 1
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "heartgold",
+                        "url": "https://pokedex.mimo.dev/api/version/15/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [
+                                {
+                                    "name": "other-correct-password",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/53/"
+                                }
+                            ],
+                            "max_level": 1,
+                            "method": {
+                                "name": "gift-egg",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/19/"
+                            },
+                            "min_level": 1
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "soulsilver",
+                        "url": "https://pokedex.mimo.dev/api/version/16/"
+                    }
+                }
+            ]
+        },
+        {
+            "pokemon": {
+                "name": "slugma",
+                "url": "https://pokedex.mimo.dev/api/pokemon/218/"
+            },
+            "version_details": [
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [
+                                {
+                                    "name": "other-correct-password",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/53/"
+                                }
+                            ],
+                            "max_level": 1,
+                            "method": {
+                                "name": "gift-egg",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/19/"
+                            },
+                            "min_level": 1
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "heartgold",
+                        "url": "https://pokedex.mimo.dev/api/version/15/"
+                    }
+                },
+                {
+                    "encounter_details": [
+                        {
+                            "chance": 100,
+                            "condition_values": [
+                                {
+                                    "name": "other-correct-password",
+                                    "url": "https://pokedex.mimo.dev/api/encounter-condition-value/53/"
+                                }
+                            ],
+                            "max_level": 1,
+                            "method": {
+                                "name": "gift-egg",
+                                "url": "https://pokedex.mimo.dev/api/encounter-method/19/"
+                            },
+                            "min_level": 1
+                        }
+                    ],
+                    "max_chance": 100,
+                    "version": {
+                        "name": "soulsilver",
+                        "url": "https://pokedex.mimo.dev/api/version/16/"
+                    }
+                }
+            ]
+        }
+    ]
+}

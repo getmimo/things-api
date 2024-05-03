@@ -1,0 +1,1259 @@
+{
+    "accuracy": 90,
+    "contest_combos": null,
+    "contest_effect": null,
+    "contest_type": {
+        "name": "smart",
+        "url": "https://pokedex.mimo.dev/api/contest-type/4/"
+    },
+    "damage_class": {
+        "name": "special",
+        "url": "https://pokedex.mimo.dev/api/move-damage-class/3/"
+    },
+    "effect_chance": 100,
+    "effect_changes": [],
+    "effect_entries": [
+        {
+            "effect": "Inflicts regular damage, then lowers the user's Special Attack by two stages.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "short_effect": "Lowers the user's Special Attack by two stages after inflicting damage."
+        }
+    ],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "Comets are summoned\ndown from the sky.\nThe attack\u2019s recoil\nsharply reduces the\nuser\u2019s Sp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "diamond-pearl",
+                "url": "https://pokedex.mimo.dev/api/version-group/8/"
+            }
+        },
+        {
+            "flavor_text": "Comets are summoned\ndown from the sky.\nThe attack\u2019s recoil\nsharply reduces the\nuser\u2019s Sp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "platinum",
+                "url": "https://pokedex.mimo.dev/api/version-group/9/"
+            }
+        },
+        {
+            "flavor_text": "Comets are summoned\ndown from the sky.\nThe attack\u2019s recoil\nsharply reduces the\nuser\u2019s Sp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "heartgold-soulsilver",
+                "url": "https://pokedex.mimo.dev/api/version-group/10/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur invoque des com\u00e8tes.\nLe contrecoup r\u00e9duit fortement\nson Attaque Sp\u00e9ciale.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "https://pokedex.mimo.dev/api/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "Comets are summoned down from the sky\nonto the target. The attack\u2019s recoil\nharshly reduces the user\u2019s Sp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "https://pokedex.mimo.dev/api/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "Comets are summoned down from the sky\nonto the target. The attack\u2019s recoil\nharshly reduces the user\u2019s Sp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "black-2-white-2",
+                "url": "https://pokedex.mimo.dev/api/version-group/14/"
+            }
+        },
+        {
+            "flavor_text": "\u3066\u3093\u304f\u3046\u304b\u3089\u3000\u3044\u3093\u305b\u304d\u3092\n\u3042\u3044\u3066\u306b\u3000\u304a\u3068\u3059\u3002\u3064\u304b\u3046\u3068\u3000\u306f\u3093\u3069\u3046\u3067\n\u3058\u3076\u3093\u306e\u3000\u3068\u304f\u3053\u3046\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\ucc9c\uacf5\uc5d0\uc11c \uc6b4\uc11d\uc744 \uc0c1\ub300\uc5d0\uac8c\n\ub5a8\uc5b4\ub728\ub9b0\ub2e4. \uc0ac\uc6a9\ud558\uba74 \ubc18\ub3d9\uc73c\ub85c\n\uc790\uc2e0\uc758 \ud2b9\uc218\uacf5\uaca9\uc774 \ud06c\uac8c \ub5a8\uc5b4\uc9c4\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur invoque des com\u00e8tes.\nLe contrecoup r\u00e9duit fortement son Attaque\nSp\u00e9ciale.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Kometen werden heraufbeschworen. Der R\u00fccksto\u00df\nreduziert den Spezial-Angriff des Anwenders stark.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Hace que grandes cometas caigan del cielo sobre\nel objetivo. Baja mucho el Ataque Especial del\nque lo usa.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl\u2019Attacco Speciale di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Comets are summoned down from the sky\nonto the target. The attack\u2019s recoil\nharshly lowers the user\u2019s Sp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u5929\u7a7a\u304b\u3089\u3000\u9695\u77f3\u3092\n\u76f8\u624b\u306b\u3000\u843d\u3068\u3059\u3002\u4f7f\u3046\u3068\u3000\u53cd\u52d5\u3067\n\u81ea\u5206\u306e\u3000\u7279\u653b\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u3066\u3093\u304f\u3046\u304b\u3089\u3000\u3044\u3093\u305b\u304d\u3092\n\u3042\u3044\u3066\u306b\u3000\u304a\u3068\u3059\u3002\u3064\u304b\u3046\u3068\u3000\u306f\u3093\u3069\u3046\u3067\n\u3058\u3076\u3093\u306e\u3000\u3068\u304f\u3053\u3046\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\ucc9c\uacf5\uc5d0\uc11c \uc6b4\uc11d\uc744 \uc0c1\ub300\uc5d0\uac8c\n\ub5a8\uc5b4\ub728\ub9b0\ub2e4. \uc0ac\uc6a9\ud558\uba74 \ubc18\ub3d9\uc73c\ub85c\n\uc790\uc2e0\uc758 \ud2b9\uc218\uacf5\uaca9\uc774 \ud06c\uac8c \ub5a8\uc5b4\uc9c4\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur invoque des com\u00e8tes.\nLe contrecoup r\u00e9duit fortement son Attaque\nSp\u00e9ciale.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Kometen werden heraufbeschworen. Der R\u00fccksto\u00df\nreduziert den Spezial-Angriff des Anwenders stark.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Hace que grandes cometas caigan del cielo sobre \nel objetivo. Baja mucho el Ataque Especial del que \nlo usa.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl\u2019Attacco Speciale di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Comets are summoned down from the sky\nonto the target. The attack\u2019s recoil\nharshly lowers the user\u2019s Sp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u5929\u7a7a\u304b\u3089\u3000\u9695\u77f3\u3092\n\u76f8\u624b\u306b\u3000\u843d\u3068\u3059\u3002\u4f7f\u3046\u3068\u3000\u53cd\u52d5\u3067\n\u81ea\u5206\u306e\u3000\u7279\u653b\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "https://pokedex.mimo.dev/api/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u3066\u3093\u304f\u3046\u304b\u3089\u3000\u3044\u3093\u305b\u304d\u3092\n\u3042\u3044\u3066\u306b\u3000\u304a\u3068\u3059\u3002\u3064\u304b\u3046\u3068\u3000\u306f\u3093\u3069\u3046\u3067\n\u3058\u3076\u3093\u306e\u3000\u3068\u304f\u3053\u3046\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\ucc9c\uacf5\uc5d0\uc11c \uc6b4\uc11d\uc744 \uc0c1\ub300\uc5d0\uac8c\n\ub5a8\uc5b4\ub728\ub9b0\ub2e4. \uc0ac\uc6a9\ud558\uba74 \ubc18\ub3d9\uc73c\ub85c\n\uc790\uc2e0\uc758 \ud2b9\uc218\uacf5\uaca9\uc774 \ud06c\uac8c \ub5a8\uc5b4\uc9c4\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u8b93\u9695\u77f3\u5f9e\u7a7a\u4e2d\u843d\u4e0b\u4ee5\u653b\u64ca\u5c0d\u624b\u3002\n\u4f7f\u7528\u5f8c\u56e0\u70ba\u53cd\u4f5c\u7528\u529b\uff0c\n\u81ea\u5df1\u7684\u7279\u653b\u6703\u5927\u5e45\u964d\u4f4e\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur invoque des com\u00e8tes.\nLe contrecoup r\u00e9duit beaucoup son Attaque\nSp\u00e9ciale.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Kometen werden heraufbeschworen. Der R\u00fccksto\u00df\nreduziert den Spezial-Angriff des Anwenders stark.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Hace que grandes cometas caigan del cielo sobre \nel objetivo. Baja mucho el Ataque Especial del que \nlo usa.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl\u2019Attacco Speciale di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Comets are summoned down from the sky onto the\ntarget. The attack\u2019s recoil harshly lowers the user\u2019s\nSp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u5929\u7a7a\u304b\u3089\u3000\u9695\u77f3\u3092\n\u76f8\u624b\u306b\u3000\u843d\u3068\u3059\u3002\u4f7f\u3046\u3068\u3000\u53cd\u52d5\u3067\n\u81ea\u5206\u306e\u3000\u7279\u653b\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u4ece\u5929\u7a7a\u4e2d\u5411\u5bf9\u624b\u843d\u4e0b\u9668\u77f3\u3002\n\u4f7f\u7528\u4e4b\u540e\u56e0\u4e3a\u53cd\u4f5c\u7528\u529b\uff0c\n\u81ea\u5df1\u7684\u7279\u653b\u4f1a\u5927\u5e45\u964d\u4f4e\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u3066\u3093\u304f\u3046\u304b\u3089\u3000\u3044\u3093\u305b\u304d\u3092\n\u3042\u3044\u3066\u306b\u3000\u304a\u3068\u3059\u3002\u3064\u304b\u3046\u3068\u3000\u306f\u3093\u3069\u3046\u3067\n\u3058\u3076\u3093\u306e\u3000\u3068\u304f\u3053\u3046\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\ucc9c\uacf5\uc5d0\uc11c \uc6b4\uc11d\uc744 \uc0c1\ub300\uc5d0\uac8c\n\ub5a8\uc5b4\ub728\ub9b0\ub2e4. \uc0ac\uc6a9\ud558\uba74 \ubc18\ub3d9\uc73c\ub85c\n\uc790\uc2e0\uc758 \ud2b9\uc218\uacf5\uaca9\uc774 \ud06c\uac8c \ub5a8\uc5b4\uc9c4\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u8b93\u9695\u77f3\u5f9e\u7a7a\u4e2d\u843d\u4e0b\u4ee5\u653b\u64ca\u5c0d\u624b\u3002\n\u4f7f\u7528\u5f8c\u56e0\u70ba\u53cd\u4f5c\u7528\u529b\uff0c\n\u81ea\u5df1\u7684\u7279\u653b\u6703\u5927\u5e45\u964d\u4f4e\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur invoque des com\u00e8tes.\nLe contrecoup r\u00e9duit beaucoup son Attaque\nSp\u00e9ciale.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Kometen werden heraufbeschworen. Der R\u00fccksto\u00df\nreduziert den Spezial-Angriff des Anwenders stark.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Hace que grandes cometas caigan del cielo sobre \nel objetivo. Baja mucho el Ataque Especial del que \nlo usa.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl\u2019Attacco Speciale di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Comets are summoned down from the sky onto the\ntarget. The attack\u2019s recoil harshly lowers the user\u2019s\nSp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u5929\u7a7a\u304b\u3089\u3000\u9695\u77f3\u3092\n\u76f8\u624b\u306b\u3000\u843d\u3068\u3059\u3002\u4f7f\u3046\u3068\u3000\u53cd\u52d5\u3067\n\u81ea\u5206\u306e\u3000\u7279\u653b\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u4ece\u5929\u7a7a\u4e2d\u5411\u5bf9\u624b\u843d\u4e0b\u9668\u77f3\u3002\n\u4f7f\u7528\u4e4b\u540e\u56e0\u4e3a\u53cd\u4f5c\u7528\u529b\uff0c\n\u81ea\u5df1\u7684\u7279\u653b\u4f1a\u5927\u5e45\u964d\u4f4e\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "https://pokedex.mimo.dev/api/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u3066\u3093\u304f\u3046\u304b\u3089\u3000\u3044\u3093\u305b\u304d\u3092\n\u3042\u3044\u3066\u306b\u3000\u304a\u3068\u3059\u3002\u3064\u304b\u3046\u3068\u3000\u306f\u3093\u3069\u3046\u3067\n\u3058\u3076\u3093\u306e\u3000\u3068\u304f\u3053\u3046\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\ucc9c\uacf5\uc5d0\uc11c \uc6b4\uc11d\uc744 \uc0c1\ub300\uc5d0\uac8c\n\ub5a8\uc5b4\ub728\ub9b0\ub2e4. \uc0ac\uc6a9\ud558\uba74 \ubc18\ub3d9\uc73c\ub85c\n\uc790\uc2e0\uc758 \ud2b9\uc218\uacf5\uaca9\uc774 \ud06c\uac8c \ub5a8\uc5b4\uc9c4\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u8b93\u9695\u77f3\u5f9e\u7a7a\u4e2d\u843d\u4e0b\u4ee5\u653b\u64ca\u5c0d\u624b\u3002\n\u4f7f\u7528\u5f8c\u56e0\u70ba\u53cd\u4f5c\u7528\u529b\uff0c\n\u81ea\u5df1\u7684\u7279\u653b\u6703\u5927\u5e45\u964d\u4f4e\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur invoque des com\u00e8tes.\nLe contrecoup r\u00e9duit beaucoup son Attaque Sp\u00e9ciale.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Kometen werden heraufbeschworen. Der R\u00fccksto\u00df\nreduziert den Spezial-Angriff des Anwenders stark.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Hace que grandes cometas caigan del cielo sobre \nel objetivo. Baja mucho el Ataque Especial del que \nlo usa.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl\u2019Attacco Speciale di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "Comets are summoned down from the sky onto the\ntarget. The attack\u2019s recoil harshly lowers the user\u2019s\nSp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u5929\u7a7a\u304b\u3089\u3000\u9695\u77f3\u3092\n\u76f8\u624b\u306b\u3000\u843d\u3068\u3059\u3002\u4f7f\u3046\u3068\u3000\u53cd\u52d5\u3067\n\u81ea\u5206\u306e\u3000\u7279\u653b\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u4ece\u5929\u7a7a\u4e2d\u5411\u5bf9\u624b\u843d\u4e0b\u9668\u77f3\u3002\n\u4f7f\u7528\u4e4b\u540e\u56e0\u4e3a\u53cd\u4f5c\u7528\u529b\uff0c\n\u81ea\u5df1\u7684\u7279\u653b\u4f1a\u5927\u5e45\u964d\u4f4e\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "lets-go-pikachu-lets-go-eevee",
+                "url": "https://pokedex.mimo.dev/api/version-group/19/"
+            }
+        },
+        {
+            "flavor_text": "\u3066\u3093\u304f\u3046\u304b\u3089\u3000\u3044\u3093\u305b\u304d\u3092\n\u3042\u3044\u3066\u306b\u3000\u304a\u3068\u3059\u3002\u3064\u304b\u3046\u3068\u3000\u306f\u3093\u3069\u3046\u3067\n\u3058\u3076\u3093\u306e\u3000\u3068\u304f\u3053\u3046\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\ucc9c\uacf5\uc5d0\uc11c \uc6b4\uc11d\uc744 \uc0c1\ub300\uc5d0\uac8c\n\ub5a8\uc5b4\ub728\ub9b0\ub2e4. \uc0ac\uc6a9\ud558\uba74 \ubc18\ub3d9\uc73c\ub85c\n\uc790\uc2e0\uc758 \ud2b9\uc218\uacf5\uaca9\uc774 \ud06c\uac8c \ub5a8\uc5b4\uc9c4\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u8b93\u9695\u77f3\u5f9e\u7a7a\u4e2d\u843d\u4e0b\u4ee5\u653b\u64ca\u5c0d\u624b\u3002\n\u4f7f\u7528\u5f8c\u56e0\u70ba\u53cd\u4f5c\u7528\u529b\uff0c\n\u81ea\u5df1\u7684\u7279\u653b\u6703\u5927\u5e45\u964d\u4f4e\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur invoque des com\u00e8tes.\nLe contrecoup r\u00e9duit beaucoup son Attaque Sp\u00e9ciale.",
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Kometen werden heraufbeschworen. Der R\u00fccksto\u00df\nreduziert den Spezial-Angriff des Anwenders stark.",
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Hace que grandes cometas caigan del cielo sobre el\nobjetivo. Baja mucho el Ataque Especial del que lo usa.",
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl\u2019Attacco Speciale di chi la usa.",
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "Comets are summoned down from the sky onto the\ntarget. The attack\u2019s recoil harshly lowers the user\u2019s\nSp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u5929\u7a7a\u304b\u3089\u3000\u9695\u77f3\u3092\n\u76f8\u624b\u306b\u3000\u843d\u3068\u3059\u3002\u4f7f\u3046\u3068\u3000\u53cd\u52d5\u3067\n\u81ea\u5206\u306e\u3000\u7279\u653b\u304c\u3000\u304c\u304f\u3063\u3068\u3000\u3055\u304c\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        },
+        {
+            "flavor_text": "\u4ece\u5929\u7a7a\u4e2d\u5411\u5bf9\u624b\u843d\u4e0b\u9668\u77f3\u3002\n\u4f7f\u7528\u4e4b\u540e\u56e0\u4e3a\u53cd\u4f5c\u7528\u529b\uff0c\n\u81ea\u5df1\u7684\u7279\u653b\u4f1a\u5927\u5e45\u964d\u4f4e\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "https://pokedex.mimo.dev/api/version-group/20/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-iv",
+        "url": "https://pokedex.mimo.dev/api/generation/4/"
+    },
+    "id": 434,
+    "learned_by_pokemon": [
+        {
+            "name": "dratini",
+            "url": "https://pokedex.mimo.dev/api/pokemon/147/"
+        },
+        {
+            "name": "dragonair",
+            "url": "https://pokedex.mimo.dev/api/pokemon/148/"
+        },
+        {
+            "name": "dragonite",
+            "url": "https://pokedex.mimo.dev/api/pokemon/149/"
+        },
+        {
+            "name": "mew",
+            "url": "https://pokedex.mimo.dev/api/pokemon/151/"
+        },
+        {
+            "name": "kingdra",
+            "url": "https://pokedex.mimo.dev/api/pokemon/230/"
+        },
+        {
+            "name": "vibrava",
+            "url": "https://pokedex.mimo.dev/api/pokemon/329/"
+        },
+        {
+            "name": "flygon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/330/"
+        },
+        {
+            "name": "altaria",
+            "url": "https://pokedex.mimo.dev/api/pokemon/334/"
+        },
+        {
+            "name": "bagon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/371/"
+        },
+        {
+            "name": "shelgon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/372/"
+        },
+        {
+            "name": "salamence",
+            "url": "https://pokedex.mimo.dev/api/pokemon/373/"
+        },
+        {
+            "name": "latias",
+            "url": "https://pokedex.mimo.dev/api/pokemon/380/"
+        },
+        {
+            "name": "latios",
+            "url": "https://pokedex.mimo.dev/api/pokemon/381/"
+        },
+        {
+            "name": "rayquaza",
+            "url": "https://pokedex.mimo.dev/api/pokemon/384/"
+        },
+        {
+            "name": "gible",
+            "url": "https://pokedex.mimo.dev/api/pokemon/443/"
+        },
+        {
+            "name": "gabite",
+            "url": "https://pokedex.mimo.dev/api/pokemon/444/"
+        },
+        {
+            "name": "garchomp",
+            "url": "https://pokedex.mimo.dev/api/pokemon/445/"
+        },
+        {
+            "name": "dialga",
+            "url": "https://pokedex.mimo.dev/api/pokemon/483/"
+        },
+        {
+            "name": "palkia",
+            "url": "https://pokedex.mimo.dev/api/pokemon/484/"
+        },
+        {
+            "name": "giratina-altered",
+            "url": "https://pokedex.mimo.dev/api/pokemon/487/"
+        },
+        {
+            "name": "arceus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/493/"
+        },
+        {
+            "name": "axew",
+            "url": "https://pokedex.mimo.dev/api/pokemon/610/"
+        },
+        {
+            "name": "fraxure",
+            "url": "https://pokedex.mimo.dev/api/pokemon/611/"
+        },
+        {
+            "name": "haxorus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/612/"
+        },
+        {
+            "name": "druddigon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/621/"
+        },
+        {
+            "name": "deino",
+            "url": "https://pokedex.mimo.dev/api/pokemon/633/"
+        },
+        {
+            "name": "zweilous",
+            "url": "https://pokedex.mimo.dev/api/pokemon/634/"
+        },
+        {
+            "name": "hydreigon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/635/"
+        },
+        {
+            "name": "reshiram",
+            "url": "https://pokedex.mimo.dev/api/pokemon/643/"
+        },
+        {
+            "name": "zekrom",
+            "url": "https://pokedex.mimo.dev/api/pokemon/644/"
+        },
+        {
+            "name": "kyurem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/646/"
+        },
+        {
+            "name": "dragalge",
+            "url": "https://pokedex.mimo.dev/api/pokemon/691/"
+        },
+        {
+            "name": "tyrunt",
+            "url": "https://pokedex.mimo.dev/api/pokemon/696/"
+        },
+        {
+            "name": "tyrantrum",
+            "url": "https://pokedex.mimo.dev/api/pokemon/697/"
+        },
+        {
+            "name": "goomy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/704/"
+        },
+        {
+            "name": "sliggoo",
+            "url": "https://pokedex.mimo.dev/api/pokemon/705/"
+        },
+        {
+            "name": "goodra",
+            "url": "https://pokedex.mimo.dev/api/pokemon/706/"
+        },
+        {
+            "name": "noibat",
+            "url": "https://pokedex.mimo.dev/api/pokemon/714/"
+        },
+        {
+            "name": "noivern",
+            "url": "https://pokedex.mimo.dev/api/pokemon/715/"
+        },
+        {
+            "name": "zygarde-50",
+            "url": "https://pokedex.mimo.dev/api/pokemon/718/"
+        },
+        {
+            "name": "silvally",
+            "url": "https://pokedex.mimo.dev/api/pokemon/773/"
+        },
+        {
+            "name": "turtonator",
+            "url": "https://pokedex.mimo.dev/api/pokemon/776/"
+        },
+        {
+            "name": "drampa",
+            "url": "https://pokedex.mimo.dev/api/pokemon/780/"
+        },
+        {
+            "name": "jangmo-o",
+            "url": "https://pokedex.mimo.dev/api/pokemon/782/"
+        },
+        {
+            "name": "hakamo-o",
+            "url": "https://pokedex.mimo.dev/api/pokemon/783/"
+        },
+        {
+            "name": "kommo-o",
+            "url": "https://pokedex.mimo.dev/api/pokemon/784/"
+        },
+        {
+            "name": "guzzlord",
+            "url": "https://pokedex.mimo.dev/api/pokemon/799/"
+        },
+        {
+            "name": "naganadel",
+            "url": "https://pokedex.mimo.dev/api/pokemon/804/"
+        },
+        {
+            "name": "applin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/840/"
+        },
+        {
+            "name": "flapple",
+            "url": "https://pokedex.mimo.dev/api/pokemon/841/"
+        },
+        {
+            "name": "appletun",
+            "url": "https://pokedex.mimo.dev/api/pokemon/842/"
+        },
+        {
+            "name": "dracozolt",
+            "url": "https://pokedex.mimo.dev/api/pokemon/880/"
+        },
+        {
+            "name": "dracovish",
+            "url": "https://pokedex.mimo.dev/api/pokemon/882/"
+        },
+        {
+            "name": "duraludon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/884/"
+        },
+        {
+            "name": "dreepy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/885/"
+        },
+        {
+            "name": "drakloak",
+            "url": "https://pokedex.mimo.dev/api/pokemon/886/"
+        },
+        {
+            "name": "dragapult",
+            "url": "https://pokedex.mimo.dev/api/pokemon/887/"
+        },
+        {
+            "name": "eternatus",
+            "url": "https://pokedex.mimo.dev/api/pokemon/890/"
+        },
+        {
+            "name": "regidrago",
+            "url": "https://pokedex.mimo.dev/api/pokemon/895/"
+        },
+        {
+            "name": "cyclizar",
+            "url": "https://pokedex.mimo.dev/api/pokemon/967/"
+        },
+        {
+            "name": "tatsugiri",
+            "url": "https://pokedex.mimo.dev/api/pokemon/978/"
+        },
+        {
+            "name": "frigibax",
+            "url": "https://pokedex.mimo.dev/api/pokemon/996/"
+        },
+        {
+            "name": "arctibax",
+            "url": "https://pokedex.mimo.dev/api/pokemon/997/"
+        },
+        {
+            "name": "baxcalibur",
+            "url": "https://pokedex.mimo.dev/api/pokemon/998/"
+        },
+        {
+            "name": "roaring-moon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1005/"
+        },
+        {
+            "name": "koraidon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1007/"
+        },
+        {
+            "name": "miraidon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1008/"
+        },
+        {
+            "name": "walking-wake",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1009/"
+        },
+        {
+            "name": "dipplin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1011/"
+        },
+        {
+            "name": "archaludon",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1018/"
+        },
+        {
+            "name": "hydrapple",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1019/"
+        },
+        {
+            "name": "gouging-fire",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1020/"
+        },
+        {
+            "name": "raging-bolt",
+            "url": "https://pokedex.mimo.dev/api/pokemon/1021/"
+        },
+        {
+            "name": "giratina-origin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10007/"
+        },
+        {
+            "name": "kyurem-black",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10022/"
+        },
+        {
+            "name": "kyurem-white",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10023/"
+        },
+        {
+            "name": "garchomp-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10058/"
+        },
+        {
+            "name": "latias-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10062/"
+        },
+        {
+            "name": "latios-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10063/"
+        },
+        {
+            "name": "altaria-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10067/"
+        },
+        {
+            "name": "rayquaza-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10079/"
+        },
+        {
+            "name": "salamence-mega",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10089/"
+        },
+        {
+            "name": "exeggutor-alola",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10114/"
+        },
+        {
+            "name": "zygarde-10-power-construct",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10118/"
+        },
+        {
+            "name": "zygarde-50-power-construct",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10119/"
+        },
+        {
+            "name": "zygarde-complete",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10120/"
+        },
+        {
+            "name": "kommo-o-totem",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10146/"
+        },
+        {
+            "name": "zygarde-10",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10181/"
+        },
+        {
+            "name": "eternatus-eternamax",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10190/"
+        },
+        {
+            "name": "sliggoo-hisui",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10241/"
+        },
+        {
+            "name": "goodra-hisui",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10242/"
+        },
+        {
+            "name": "dialga-origin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10245/"
+        },
+        {
+            "name": "palkia-origin",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10246/"
+        },
+        {
+            "name": "tatsugiri-droopy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10258/"
+        },
+        {
+            "name": "tatsugiri-stretchy",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10259/"
+        },
+        {
+            "name": "koraidon-limited-build",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10264/"
+        },
+        {
+            "name": "koraidon-sprinting-build",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10265/"
+        },
+        {
+            "name": "koraidon-swimming-build",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10266/"
+        },
+        {
+            "name": "koraidon-gliding-build",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10267/"
+        },
+        {
+            "name": "miraidon-low-power-mode",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10268/"
+        },
+        {
+            "name": "miraidon-drive-mode",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10269/"
+        },
+        {
+            "name": "miraidon-aquatic-mode",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10270/"
+        },
+        {
+            "name": "miraidon-glide-mode",
+            "url": "https://pokedex.mimo.dev/api/pokemon/10271/"
+        }
+    ],
+    "machines": [],
+    "meta": {
+        "ailment": {
+            "name": "none",
+            "url": "https://pokedex.mimo.dev/api/move-ailment/0/"
+        },
+        "ailment_chance": 0,
+        "category": {
+            "name": "damage+raise",
+            "url": "https://pokedex.mimo.dev/api/move-category/7/"
+        },
+        "crit_rate": 0,
+        "drain": 0,
+        "flinch_chance": 0,
+        "healing": 0,
+        "max_hits": null,
+        "max_turns": null,
+        "min_hits": null,
+        "min_turns": null,
+        "stat_chance": 100
+    },
+    "name": "draco-meteor",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u308a\u3085\u3046\u305b\u3044\u3050\u3093"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uc6a9\uc131\uad70"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u6d41\u661f\u7fa4"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Draco-M\u00e9t\u00e9ore"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Draco Meteor"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Cometa Draco"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Dragobolide"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Draco Meteor"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u308a\u3085\u3046\u305b\u3044\u3050\u3093"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u6d41\u661f\u7fa4"
+        }
+    ],
+    "past_values": [
+        {
+            "accuracy": null,
+            "effect_chance": null,
+            "effect_entries": [],
+            "power": 140,
+            "pp": null,
+            "type": null,
+            "version_group": {
+                "name": "x-y",
+                "url": "https://pokedex.mimo.dev/api/version-group/15/"
+            }
+        }
+    ],
+    "power": 130,
+    "pp": 5,
+    "priority": 0,
+    "stat_changes": [
+        {
+            "change": -2,
+            "stat": {
+                "name": "special-attack",
+                "url": "https://pokedex.mimo.dev/api/stat/4/"
+            }
+        }
+    ],
+    "super_contest_effect": {
+        "url": "https://pokedex.mimo.dev/api/super-contest-effect/22/"
+    },
+    "target": {
+        "name": "selected-pokemon",
+        "url": "https://pokedex.mimo.dev/api/move-target/10/"
+    },
+    "type": {
+        "name": "dragon",
+        "url": "https://pokedex.mimo.dev/api/type/16/"
+    }
+}

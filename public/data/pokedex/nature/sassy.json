@@ -1,0 +1,134 @@
+{
+    "decreased_stat": {
+        "name": "speed",
+        "url": "https://pokedex.mimo.dev/api/stat/6/"
+    },
+    "hates_flavor": {
+        "name": "sweet",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/3/"
+    },
+    "id": 24,
+    "increased_stat": {
+        "name": "special-defense",
+        "url": "https://pokedex.mimo.dev/api/stat/5/"
+    },
+    "likes_flavor": {
+        "name": "bitter",
+        "url": "https://pokedex.mimo.dev/api/berry-flavor/4/"
+    },
+    "move_battle_style_preferences": [
+        {
+            "high_hp_preference": 88,
+            "low_hp_preference": 22,
+            "move_battle_style": {
+                "name": "attack",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/1/"
+            }
+        },
+        {
+            "high_hp_preference": 6,
+            "low_hp_preference": 20,
+            "move_battle_style": {
+                "name": "defense",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/2/"
+            }
+        },
+        {
+            "high_hp_preference": 6,
+            "low_hp_preference": 58,
+            "move_battle_style": {
+                "name": "support",
+                "url": "https://pokedex.mimo.dev/api/move-battle-style/3/"
+            }
+        }
+    ],
+    "name": "sassy",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokedex.mimo.dev/api/language/1/"
+            },
+            "name": "\u306a\u307e\u3044\u304d"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "https://pokedex.mimo.dev/api/language/3/"
+            },
+            "name": "\uac74\ubc29"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "https://pokedex.mimo.dev/api/language/4/"
+            },
+            "name": "\u81ea\u5927"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokedex.mimo.dev/api/language/5/"
+            },
+            "name": "Malpoli"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokedex.mimo.dev/api/language/6/"
+            },
+            "name": "Forsch"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "https://pokedex.mimo.dev/api/language/7/"
+            },
+            "name": "Grosera"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokedex.mimo.dev/api/language/8/"
+            },
+            "name": "Vivace"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokedex.mimo.dev/api/language/9/"
+            },
+            "name": "Sassy"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "https://pokedex.mimo.dev/api/language/11/"
+            },
+            "name": "\u306a\u307e\u3044\u304d"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "https://pokedex.mimo.dev/api/language/12/"
+            },
+            "name": "\u81ea\u5927"
+        }
+    ],
+    "pokeathlon_stat_changes": [
+        {
+            "max_change": -2,
+            "pokeathlon_stat": {
+                "name": "speed",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/1/"
+            }
+        },
+        {
+            "max_change": 2,
+            "pokeathlon_stat": {
+                "name": "power",
+                "url": "https://pokedex.mimo.dev/api/pokeathlon-stat/2/"
+            }
+        }
+    ]
+}
