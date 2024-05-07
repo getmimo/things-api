@@ -11,7 +11,7 @@ export default function PokemonAPI() {
   return (
     <>
       <Navbar />
-      <main className="flex flex-col items-center justify-center p-24 bg-gray-900 text-white">
+      <main className="flex flex-col items-center justify-center p-24 text-pokemon-gray">
         <h1 className="text-5xl font-bold mb-6 font-press-start">Pokedex</h1>
         <h2 className="text-3xl font-semibold mb-8 -mt-4">by Mimo</h2>
         <p className="text-lg mb-4">
@@ -49,7 +49,7 @@ export default function PokemonAPI() {
             width="64"
             height="64"
           />
-          <code className="bg-gray-700 text-sm p-2 rounded">
+          <code className="bg-gray-700 text-white text-sm p-2 rounded">
             GET /api/pokemon/charizard
           </code>
         </section>
