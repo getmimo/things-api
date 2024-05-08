@@ -30,12 +30,12 @@ export default function PokemonAPI() {
           />
           <CodeView
             endpoint={`GET /api/pokemon/charizard`}
-            code={`fetch("https://pokedex.mimo.dev/api/pokemon/charizard"         
-    .then((res) => res.json())
-    .then((json) => console.log(json))
-    .catch((error) => console.error(error))`}
+            code={`fetch("https://pokedex.mimo.dev/api/pokemon/charizard")         
+  .then((res) => res.json())
+  .then((json) => console.log(json))
+  .catch((error) => console.error(error))`}
           />
-          <h2 className="text-3xl font-semibold mt-8 mb-2">Example Respond</h2>
+          <h2 className="text-3xl font-semibold mt-8 mb-2">Example Response</h2>
           <ResponseView endpoint={`GET /api/pokemon/charizard`} />
         </section>
       </main>
