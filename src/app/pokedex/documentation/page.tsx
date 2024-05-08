@@ -4,7 +4,7 @@ import Navbar from "../components/navbar";
 
 import { categories } from "../data/categories";
 
-const APIPage = () => {
+const DocumentationPage = () => {
   const [selectedCategory, setSelectedCategory] = useState<string>(
     categories[0]?.id
   );
@@ -108,4 +108,4 @@ const SidebarMenu: React.FC<SidebarMenuProps> = ({ onEndpointSelect }) => {
   );
 };
 
-export default APIPage;
+export default DocumentationPage;

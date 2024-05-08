@@ -25,7 +25,7 @@ const Navbar = () => {
       <div className="navbar-end text-xs h-full flex">
         <Link
           href="/pokedex"
-          className={`${pathname === "/pokedex" ? "underline decoration-2 underline-offset-2 decoration-pokemon-yellow" : ""} px-2 py-1 mr-2 hover:bg-pokemon-yellow rounded-md`}
+          className={`${pathname === "/" ? "underline decoration-2 underline-offset-2 decoration-pokemon-yellow" : ""} px-2 py-1 mr-2 hover:bg-pokemon-yellow rounded-md`}
         >
           Home
         </Link>
@@ -36,10 +36,10 @@ const Navbar = () => {
           About
         </Link>
         <Link
-          href="/pokedex/api"
-          className={`${pathname === "/pokedex/api" ? "underline decoration-2 underline-offset-2 decoration-pokemon-yellow" : ""} px-2 py-1 hover:bg-pokemon-yellow rounded-md`}
+          href="/pokedex/documentation"
+          className={`${pathname === "/pokedex/documentation" ? "underline decoration-2 underline-offset-2 decoration-pokemon-yellow" : ""} px-2 py-1 hover:bg-pokemon-yellow rounded-md`}
         >
-          API
+          Documentation
         </Link>
       </div>
     </nav>

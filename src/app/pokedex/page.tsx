@@ -1,6 +1,8 @@
 import { Metadata } from "next";
 import Image from "next/image";
 import Navbar from "./components/navbar";
+import CodeView from "./components/codeView";
+import ResponseView from "./components/responseView";
 
 export const metadata: Metadata = {
   title: "Pokedex API",
@@ -18,40 +20,23 @@ export default function PokemonAPI() {
           Welcome to the Pokemon API documentation. Here you can find
           information on how to use the API to fetch data about various Pokemon.
         </p>
-        <section className="mb-8">
-          <h2 className="text-3xl font-semibold mb-3">Endpoints</h2>
-          <ul className="list-disc pl-5">
-            <li>
-              <strong>Pokedex:</strong> /api/pokedex
-            </li>
-            <li>
-              <strong>Pokemon:</strong> /api/pokemon
-            </li>
-            <li>
-              <strong>Types:</strong> /api/types
-            </li>
-            <li>
-              <strong>Abilities:</strong> /api/abilities
-            </li>
-            <li>
-              <strong>Moves:</strong> /api/moves
-            </li>
-            <li>
-              <strong>Items:</strong> /api/items
-            </li>
-          </ul>
-        </section>
-        <section>
-          <h2 className="text-3xl font-semibold mb-3">Example Request</h2>
+        <section className="w-11/12 m-auto">
+          <h2 className="text-3xl font-semibold mt-8 mb-2">Example Request</h2>
           <Image
             src={`https://raw.githubusercontent.com/getmimo/things-api/main/files/pokedex/sprites/master/sprites/pokemon/6.png`}
             alt="Pokemon"
             width="64"
             height="64"
           />
-          <code className="bg-gray-700 text-white text-sm p-2 rounded">
-            GET /api/pokemon/charizard
-          </code>
+          <CodeView
+            endpoint={`GET /api/pokemon/charizard`}
+            code={`fetch("https://pokedex.mimo.dev/api/pokemon/charizard"         
+    .then((res) => res.json())
+    .then((json) => console.log(json))
+    .catch((error) => console.error(error))`}
+          />
+          <h2 className="text-3xl font-semibold mt-8 mb-2">Example Respond</h2>
+          <ResponseView endpoint={`GET /api/pokemon/charizard`} />
         </section>
       </main>
     </>
