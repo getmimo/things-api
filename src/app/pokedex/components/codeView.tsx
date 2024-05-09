@@ -1,32 +1,27 @@
-"use client";
 import React from "react";
-import { CopyBlock, dracula } from "react-code-blocks";
+import { Code } from "bright";
+import { draculaAltered } from "../editorTheme";
 
 interface CodeViewProps {
   code: string;
-  endpoint: string | null;
+  endpoint: string;
+  method: string;
 }
 
-const CodeView: React.FC<CodeViewProps> = ({ code, endpoint }) => {
-  const customTheme = {
-    ...dracula,
-    backgroundColor: "#303943", // "Pokemon Gray"
-  };
+const CodeView: React.FC<CodeViewProps> = ({ code, endpoint, method }) => {
+  Code.theme = draculaAltered;
 
   return (
     <>
-      {endpoint && (
-        <code className="bg-pokemon-gray text-white p-2 rounded">
-          {endpoint}
-        </code>
-      )}
-      <div className="bg-pokemon-gray rounded-md">
-        <CopyBlock
-          text={code}
-          language={`js`}
-          showLineNumbers={true}
-          theme={customTheme}
-        />
+      <div className="bg-pokemon-gray text-white p-2 h-12 w-fit rounded flex items-center">
+        {method}
+        <span className="w-2"></span>
+        <span className="underline decoration-pokemon-yellow">{endpoint}</span>
+      </div>
+      <div className="bg-pokemon-gray rounded-md -mt-5">
+        <Code lang="js" lineNumbers>
+          {code}
+        </Code>
       </div>
     </>
   );

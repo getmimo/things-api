@@ -5,11 +5,13 @@ import CodeView from "./components/codeView";
 import ResponseView from "./components/responseView";
 
 export const metadata: Metadata = {
-  title: "Pokedex API",
-  description: "Documentation for the Pokedex API.",
+  title: "Pokedex API by Mimo",
+  description: "Documentation for the Pokedex API - provided by Mimo.",
 };
 
 export default function PokemonAPI() {
+  const endpoint = `/api/pokemon/charizard`;
+  const method = `GET`;
   return (
     <>
       <Navbar />
@@ -29,14 +31,15 @@ export default function PokemonAPI() {
             height="64"
           />
           <CodeView
-            endpoint={`GET /api/pokemon/charizard`}
-            code={`fetch("https://pokedex.mimo.dev/api/pokemon/charizard")         
+            endpoint={endpoint}
+            method={method}
+            code={`fetch("https://pokedex.mimo.dev${endpoint}")         
   .then((res) => res.json())
   .then((json) => console.log(json))
   .catch((error) => console.error(error))`}
           />
           <h2 className="text-3xl font-semibold mt-8 mb-2">Example Response</h2>
-          <ResponseView endpoint={`GET /api/pokemon/charizard`} />
+          <ResponseView endpoint={endpoint} method={method} />
         </section>
       </main>
     </>
