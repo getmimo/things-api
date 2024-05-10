@@ -24,6 +24,7 @@ export default function PokemonAPI() {
         </p>
         <section className="w-11/12 m-auto">
           <h2 className="text-3xl font-semibold mt-8 mb-2">Example Request</h2>
+
           <Image
             src={`https://raw.githubusercontent.com/getmimo/things-api/main/files/pokedex/sprites/master/sprites/pokemon/6.png`}
             alt="Pokemon"

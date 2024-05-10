@@ -1,9 +1,7 @@
 import React from "react";
 import { Code } from "bright";
 import { draculaAltered } from "../editorTheme";
-
-import fsPromises from "fs/promises";
-import path from "path";
+import { getFile } from "../utils/fileUtils";
 
 interface ResponseViewProps {
   endpoint: string;
@@ -15,8 +13,8 @@ const ResponseView: React.FC<ResponseViewProps> = async ({
   method,
 }) => {
   Code.theme = draculaAltered;
-  const file = endpoint.replace("/api", ""); // the endpoint looks like /api/pokemon/charizard
-  const data = await getResponseJSON(file);
+  const [folder, file] = endpoint.replace("/api/", "").split("/"); // the endpoint looks like /api/pokemon/charizard
+  const data = await getFile(folder, file);
 
   return (
     <>
@@ -33,10 +31,3 @@ const ResponseView: React.FC<ResponseViewProps> = async ({
 };
 
 export default ResponseView;
-
-async function getResponseJSON(file: string) {
-  const jsonFile = await fsPromises.readFile(
-    path.resolve(__dirname, `../../../../public/data/pokedex/${file}.json`)
-  );
-  return JSON.parse(jsonFile.toString());
-}
