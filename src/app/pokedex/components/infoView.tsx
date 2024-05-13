@@ -1,6 +1,6 @@
 import EndpointView from "../components/endpointView";
 import React from "react";
-import { getFile, getFirstFileNameInFolder } from "../utils/fileUtils";
+import { getFirstFileNameInFolder } from "../utils/fileUtils";
 import CodeView from "./codeView";
 import ResponseView from "./responseView";
 
@@ -11,18 +11,14 @@ interface InfoViewProps {
 const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
   const fetchData = async () => {
     let firstFileName = null;
-    let fileData = null;
 
     if (selectedEndpoint) {
       let folder = selectedEndpoint.toLowerCase().split(" ").join("-");
       if (folder) {
         firstFileName = await getFirstFileNameInFolder(folder);
-        if (firstFileName && typeof selectedEndpoint === "string") {
-          fileData = await getFile(selectedEndpoint, firstFileName);
-        }
       }
     }
-    return { firstFileName, fileData };
+    return firstFileName;
   };
 
   if (selectedEndpoint === null) {
@@ -36,7 +32,7 @@ const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
     );
   }
 
-  const { firstFileName, fileData } = await fetchData();
+  const firstFileName = await fetchData();
   const method = "GET";
   const url = `https://pokedex.mimo.dev/api/${selectedEndpoint}/${firstFileName ? firstFileName.replace(".json", "") : ""}`;
 
