@@ -14,19 +14,14 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
     <>
       <Navbar />
       <div className="flex flex-row items-start">
-        <div className="w-64 pl-4 pt-2 bg-gray-100">
+        <div className="w-56 pl-4 pt-2 bg-gray-100">
           <SidebarMenu selectedEndpoint={selectedEndpoint} />
         </div>
-        <main className="flex flex-col flex-grow items-start justify-center rounded-md mt-24">
-          <div className="w-full p-8 bg-white rounded-md">
-            <InfoView
-              selectedEndpoint={selectedEndpoint}
-              firstFile={null}
-              fileData={null}
-            />
+        <main className="w-10/12 flex flex-col items-start justify-center rounded-md mt-24">
+          <div className="w-10/12 m-auto p-8 bg-white rounded-md">
+            <InfoView selectedEndpoint={selectedEndpoint} />
           </div>
         </main>
-        <div className="w-64"></div>
       </div>
     </>
   );

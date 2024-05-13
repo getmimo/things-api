@@ -13,7 +13,11 @@ const ResponseView: React.FC<ResponseViewProps> = async ({
   method,
 }) => {
   Code.theme = draculaAltered;
-  const [folder, file] = endpoint.replace("/api/", "").split("/"); // the endpoint looks like /api/pokemon/charizard
+  // The endpoint is typically formatted as either "/api/pokemon/charizard"
+  // or a full URL like "https://pokedex.mimo.dev/api/pokemon/abomasnow-mega"
+  const pathParts = endpoint.split("/");
+  const file = pathParts.pop() || "";
+  const folder = pathParts.pop() || "";
   const data = await getFile(folder, file);
 
   return (
