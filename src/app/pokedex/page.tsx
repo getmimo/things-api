@@ -11,6 +11,7 @@ export const metadata: Metadata = {
 
 export default function PokemonAPI() {
   const endpoint = `/api/pokemon/charizard`;
+  const url = new URL(`https://pokedex.mimo.dev${endpoint}`);
   const method = `GET`;
   return (
     <>
@@ -34,13 +35,13 @@ export default function PokemonAPI() {
           <CodeView
             endpoint={endpoint}
             method={method}
-            code={`fetch("https://pokedex.mimo.dev${endpoint}")         
+            code={`fetch("${url}")         
   .then((res) => res.json())
   .then((json) => console.log(json))
   .catch((error) => console.error(error))`}
           />
           <h2 className="text-3xl font-semibold mt-8 mb-2">Example Response</h2>
-          <ResponseView endpoint={endpoint} method={method} />
+          <ResponseView url={url} method={method} />
         </section>
       </main>
     </>

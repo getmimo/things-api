@@ -4,21 +4,17 @@ import { draculaAltered } from "../editorTheme";
 import { handleRequest } from "@/app/pokedexHelper";
 
 interface ResponseViewProps {
-  endpoint: string;
+  url: URL;
   method: string;
 }
 
 const ResponseView: React.FC<ResponseViewProps> = async ({
-  endpoint,
+  url,
   method,
 }) => {
   Code.theme = draculaAltered;
-  // The endpoint is typically formatted as either "/api/pokemon/charizard"
-  // or a full URL like "https://pokedex.mimo.dev/api/pokemon/abomasnow-mega"
-  const pathParts = endpoint.split("/");
-  const id = pathParts.pop() || "";
-  const endpointPath = pathParts.pop() || "";
-  const response = await fetch(`https://pokedex.mimo.dev/api/${endpointPath}/${id}`);
+  // The URL looks like "https://pokedex.mimo.dev/api/pokemon/abomasnow-mega"
+  const response = await fetch(url);
   const data = response.ok ? await response.json() : null;
   return (
     <>

@@ -8,25 +8,24 @@ interface InfoViewProps {
   selectedEndpoint: string | null;
 }
 
+const fetchData = async (selectedEndpoint: string) => {
+  console.log("fetching data");
+  let value = null;
+
+  const foundEndpoint = categories
+    .flatMap((category) => category.endpoints || [])
+    .find(
+      (endpoint) =>
+        endpoint.id.toLowerCase().split(" ").join("-") === selectedEndpoint
+    );
+  if (foundEndpoint && foundEndpoint.values.length > 0) {
+    value = foundEndpoint.values[1].id;
+  }
+  return value?.toLowerCase().split(" ").join("-");
+};
+
 const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
-  const fetchData = async () => {
-    let valueForEndpoint = null;
-
-    if (selectedEndpoint) {
-      const endpoint = categories
-        .flatMap((category) => category.endpoints || [])
-        .find(
-          (endpoint) =>
-            endpoint.id.toLowerCase().replace(/\s+/g, "-") === selectedEndpoint
-        );
-      if (endpoint && endpoint.values.length > 0) {
-        valueForEndpoint = endpoint.values[1].id;
-      }
-    }
-    return valueForEndpoint;
-  };
-
-  if (selectedEndpoint === null) {
+  if (!selectedEndpoint) {
     return (
       <div className="w-full p-8 bg-white rounded-md">
         <h1 className="text-2xl font-press-start font-bold mb-4">
@@ -37,16 +36,17 @@ const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
     );
   }
 
-  const valueForEndpoint = await fetchData();
+  const endpoint = selectedEndpoint.toLowerCase().split(" ").join("-");
+  const value = await fetchData(endpoint);
   const method = "GET";
-  const url = `https://pokedex.mimo.dev/api/${selectedEndpoint}/${valueForEndpoint ? valueForEndpoint.replace(".json", "") : ""}`;
+  const url = new URL(`https://pokedex.mimo.dev/api/${endpoint}/${value ? value : ""}`);
 
   return (
     <div className="w-full p-8 bg-white rounded-md">
       <h1 className="text-2xl font-press-start font-bold mb-4">
         Endpoint: {selectedEndpoint}
       </h1>
-      <EndpointView endpoint={selectedEndpoint} method="GET" />
+      <EndpointView url={url} method="GET" />
       <h2 className="text-3xl font-semibold mt-8 mb-2">Example Request</h2>
       <CodeView
         endpoint={selectedEndpoint}
@@ -57,9 +57,8 @@ const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
   .catch((error) => console.error(error))`}
       />
       <h2 className="text-3xl font-semibold mt-8 mb-2">Example Response</h2>
-      <ResponseView endpoint={url} method={method} />
+      <ResponseView url={url} method={method} />
     </div>
   );
 };
-
 export default InfoView;
