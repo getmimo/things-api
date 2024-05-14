@@ -1,7 +1,7 @@
 import React from "react";
 import { Code } from "bright";
 import { draculaAltered } from "../editorTheme";
-import { getFile } from "../utils/fileUtils";
+import { handleRequest } from "@/app/pokedexHelper";
 
 interface ResponseViewProps {
   endpoint: string;
@@ -16,10 +16,10 @@ const ResponseView: React.FC<ResponseViewProps> = async ({
   // The endpoint is typically formatted as either "/api/pokemon/charizard"
   // or a full URL like "https://pokedex.mimo.dev/api/pokemon/abomasnow-mega"
   const pathParts = endpoint.split("/");
-  const file = pathParts.pop() || "";
-  const folder = pathParts.pop() || "";
-  const data = await getFile(folder, file);
-
+  const id = pathParts.pop() || "";
+  const endpointPath = pathParts.pop() || "";
+  const response = await fetch(`https://pokedex.mimo.dev/api/${endpointPath}/${id}`);
+  const data = response.ok ? await response.json() : null;
   return (
     <>
       <div className="bg-pokemon-gray text-white p-2 h-12 w-fit rounded flex items-center underline decoration-pokemon-yellow">

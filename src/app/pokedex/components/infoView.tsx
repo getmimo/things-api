@@ -1,8 +1,8 @@
 import EndpointView from "../components/endpointView";
 import React from "react";
-import { getFirstFileNameInFolder } from "../utils/fileUtils";
 import CodeView from "./codeView";
 import ResponseView from "./responseView";
+import { categories } from "../data/categories";
 
 interface InfoViewProps {
   selectedEndpoint: string | null;
@@ -10,15 +10,20 @@ interface InfoViewProps {
 
 const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
   const fetchData = async () => {
-    let firstFileName = null;
+    let valueForEndpoint = null;
 
     if (selectedEndpoint) {
-      let folder = selectedEndpoint.toLowerCase().split(" ").join("-");
-      if (folder) {
-        firstFileName = await getFirstFileNameInFolder(folder);
+      const endpoint = categories
+        .flatMap((category) => category.endpoints || [])
+        .find(
+          (endpoint) =>
+            endpoint.id.toLowerCase().replace(/\s+/g, "-") === selectedEndpoint
+        );
+      if (endpoint && endpoint.values.length > 0) {
+        valueForEndpoint = endpoint.values[1].id;
       }
     }
-    return firstFileName;
+    return valueForEndpoint;
   };
 
   if (selectedEndpoint === null) {
@@ -32,13 +37,15 @@ const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
     );
   }
 
-  const firstFileName = await fetchData();
+  const valueForEndpoint = await fetchData();
   const method = "GET";
-  const url = `https://pokedex.mimo.dev/api/${selectedEndpoint}/${firstFileName ? firstFileName.replace(".json", "") : ""}`;
+  const url = `https://pokedex.mimo.dev/api/${selectedEndpoint}/${valueForEndpoint ? valueForEndpoint.replace(".json", "") : ""}`;
 
   return (
     <div className="w-full p-8 bg-white rounded-md">
-      <h1 className="text-2xl font-press-start font-bold mb-4">Endpoint: {selectedEndpoint}</h1>
+      <h1 className="text-2xl font-press-start font-bold mb-4">
+        Endpoint: {selectedEndpoint}
+      </h1>
       <EndpointView endpoint={selectedEndpoint} method="GET" />
       <h2 className="text-3xl font-semibold mt-8 mb-2">Example Request</h2>
       <CodeView
