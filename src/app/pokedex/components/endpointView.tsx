@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faExternalLinkAlt, faCopy } from "@fortawesome/free-solid-svg-icons";
 
 interface EndpointViewProps {
-  url: URL;
+  url: string;
   method: string;
 }
 

@@ -9,7 +9,6 @@ interface InfoViewProps {
 }
 
 const fetchData = async (selectedEndpoint: string) => {
-  console.log("fetching data");
   let value = null;
 
   const foundEndpoint = categories
@@ -46,7 +45,7 @@ const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
       <h1 className="text-2xl font-press-start font-bold mb-4">
         Endpoint: {selectedEndpoint}
       </h1>
-      <EndpointView url={url} method="GET" />
+      <EndpointView url={url.toString()} method="GET" />
       <h2 className="text-3xl font-semibold mt-8 mb-2">Example Request</h2>
       <CodeView
         endpoint={selectedEndpoint}
