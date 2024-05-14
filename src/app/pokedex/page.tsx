@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import Image from "next/image";
 import Navbar from "./components/navbar";
-import CodeView from "./components/codeView";
+import FetchView from "./components/fetchView";
 import ResponseView from "./components/responseView";
 
 export const metadata: Metadata = {
@@ -9,10 +9,12 @@ export const metadata: Metadata = {
   description: "Documentation for the Pokedex API - provided by Mimo.",
 };
 
-export default function PokemonAPI() {
+export default async function PokemonAPI() {
   const endpoint = `/api/pokemon/charizard`;
   const url = new URL(`https://pokedex.mimo.dev${endpoint}`);
   const method = `GET`;
+  const response = await fetch(url);
+  const data: any = response.ok ? await response.json() : null;
   return (
     <>
       <Navbar />
@@ -32,16 +34,9 @@ export default function PokemonAPI() {
             width="64"
             height="64"
           />
-          <CodeView
-            endpoint={endpoint}
-            method={method}
-            code={`fetch("${url}")         
-  .then((res) => res.json())
-  .then((json) => console.log(json))
-  .catch((error) => console.error(error))`}
-          />
+          <FetchView endpoint={endpoint} method={method} url={url.toString()} />
           <h2 className="text-3xl font-semibold mt-8 mb-2">Example Response</h2>
-          <ResponseView url={url} method={method} />
+          <ResponseView data={data} />
         </section>
       </main>
     </>

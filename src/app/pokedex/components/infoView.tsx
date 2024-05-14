@@ -1,6 +1,6 @@
 import EndpointView from "../components/endpointView";
 import React from "react";
-import CodeView from "./codeView";
+import FetchView from "./fetchView";
 import ResponseView from "./responseView";
 import { categories } from "../data/categories";
 
@@ -38,7 +38,11 @@ const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
   const endpoint = selectedEndpoint.toLowerCase().split(" ").join("-");
   const value = await fetchData(endpoint);
   const method = "GET";
-  const url = new URL(`https://pokedex.mimo.dev/api/${endpoint}/${value ? value : ""}`);
+  const url = new URL(
+    `https://pokedex.mimo.dev/api/${endpoint}/${value ? value : ""}`
+  );
+  const response = await fetch(url);
+  const data: any = response.ok ? await response.json() : null;
 
   return (
     <div className="w-full p-8 bg-white rounded-md">
@@ -47,16 +51,9 @@ const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
       </h1>
       <EndpointView url={url.toString()} method="GET" />
       <h2 className="text-3xl font-semibold mt-8 mb-2">Example Request</h2>
-      <CodeView
-        endpoint={selectedEndpoint}
-        method={method}
-        code={`fetch("${url}")         
-  .then((res) => res.json())
-  .then((json) => console.log(json))
-  .catch((error) => console.error(error))`}
-      />
+      <FetchView endpoint={endpoint} method={method} url={url.toString()} />
       <h2 className="text-3xl font-semibold mt-8 mb-2">Example Response</h2>
-      <ResponseView url={url} method={method} />
+      {data && <ResponseView data={data} />}
     </div>
   );
 };
