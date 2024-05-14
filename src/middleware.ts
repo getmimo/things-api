@@ -10,6 +10,7 @@ export function middleware(request: NextRequest) {
 
   const apiPrefix = "/api";
   const dataPrefix = "/data";
+  const documentationPrefix = "/documentation";
 
   if (rewriteMap[hostname]) {
     const basePath = rewriteMap[hostname];
@@ -27,6 +28,10 @@ export function middleware(request: NextRequest) {
       response.headers.set("Access-Control-Allow-Methods", "*");
       response.headers.set("Access-Control-Allow-Headers", "*");
       return response;
+    } else if (pathname.startsWith(documentationPrefix)) {
+      url.pathname = `${documentationPrefix}${basePath}${pathname.slice(
+        documentationPrefix.length
+      )}`;
     } else if (pathname.startsWith(dataPrefix)) {
       // Leave the data path as-is
       return NextResponse.next();
