@@ -1,58 +1,27 @@
+import Footer from "./components/footer";
+
 export const runtime = "edge";
 
 export default function NotFound() {
   return (
-    <>
-      <title>404: This page could not be found.</title>
-      <div style={styles.error}>
-        <div>
-          <style
-            dangerouslySetInnerHTML={{
-              __html: `body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}`,
-            }}
-          />
-          <h1 className="next-error-h1" style={styles.h1}>
-            404
-          </h1>
-          <div style={styles.desc}>
-            <h2 style={styles.h2}>This page could not be found.</h2>
-          </div>
-        </div>
+    <main className="flex min-h-screen flex-col items-center justify-center p-2 md:p-24 bg-gradient-to-r from-blue-500 to-purple-600 text-white">
+      <div className="text-center mb-12">
+        <h1 className="text-4xl font-bold mb-4">Page Not Found</h1>
+        <p className="text-xl p-12">
+          Sorry, the page you are looking for could not be found.
+        </p>
       </div>
-    </>
+      <div className="flex flex-col md:flex-row items-center md:space-x-8 space-y-8 md:space-y-0">
+        <a
+          href="/"
+          className="text-lg bg-white text-black py-2 px-4 rounded shadow-lg transform transition-transform hover:scale-105"
+        >
+          Go to Home
+        </a>
+      </div>
+      <div className="fixed bottom-0 w-full">
+        <Footer />
+      </div>
+    </main>
   );
 }
-
-const styles = {
-  error: {
-    fontFamily:
-      'system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"',
-    height: "100vh",
-    textAlign: "center",
-    display: "flex",
-    flexDirection: "column",
-    alignItems: "center",
-    justifyContent: "center",
-  },
-
-  desc: {
-    display: "inline-block",
-  },
-
-  h1: {
-    display: "inline-block",
-    margin: "0 20px 0 0",
-    padding: "0 23px 0 0",
-    fontSize: 24,
-    fontWeight: 500,
-    verticalAlign: "top",
-    lineHeight: "49px",
-  },
-
-  h2: {
-    fontSize: 14,
-    fontWeight: 400,
-    lineHeight: "49px",
-    margin: 0,
-  },
-} as const;
