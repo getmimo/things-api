@@ -15,11 +15,13 @@ const config: Config = {
       },
       fontFamily: {
         "press-start": ['"Press Start 2P"', "sans-serif"],
+        "russo-one": ['"Russo One"', "sans-serif"],
       },
       colors: {
-        "highlight-yellow": "#FFCB05",
-        "highlight-blue": "#3D7DCA",
+        "pokemon-yellow": "#FFCB05",
+        "pokemon-blue": "#3D7DCA",
         "background-gray": "#303943",
+        "sw-yellow": "#FFE81F",
       },
     },
   },
