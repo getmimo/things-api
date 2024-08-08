@@ -1,48 +1,50 @@
 import { Metadata } from "next";
+import Image from "next/image";
+import Navbar from "./components/navbar";
+import FetchView, { ThemeOptions } from "../components/fetchView";
+import ResponseView from "../components/responseView";
+import Footer from "../components/footer";
 
 export const metadata: Metadata = {
-  title: "Star Wars API",
-  description: "Documentation for the Star Wars API.",
+  title: "Star Wars API (SWAPI) by Mimo",
+  description: "Documentation for the Star Wars API - provided by Mimo.",
 };
 
-export default function StarWarsAPI() {
+export default async function StarWarsAPI() {
+  const endpoint = `/api/people/1`;
+  const url = new URL(`https://swapi.dev${endpoint}`);
+  const method = `GET`;
+  const response = await fetch(url);
+  const data: any = response.ok ? await response.json() : null;
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-gray-900 text-white">
-      <h1 className="text-5xl font-bold mb-6">SWAPI Documentation</h1>
-      <p className="text-lg mb-4">
-        Welcome to the Star Wars API documentation. Here you can find
-        information on how to use the API to fetch data about the Star Wars
-        universe.
-      </p>
-      <section className="mb-8">
-        <h2 className="text-3xl font-semibold mb-3">Endpoints</h2>
-        <ul className="list-disc pl-5">
-          <li>
-            <strong>Films:</strong> /api/films
-          </li>
-          <li>
-            <strong>People:</strong> /api/people
-          </li>
-          <li>
-            <strong>Planets:</strong> /api/planets
-          </li>
-          <li>
-            <strong>Species:</strong> /api/species
-          </li>
-          <li>
-            <strong>Starships:</strong> /api/starships
-          </li>
-          <li>
-            <strong>Vehicles:</strong> /api/vehicles
-          </li>
-        </ul>
-      </section>
-      <section>
-        <h2 className="text-3xl font-semibold mb-3">Example Request</h2>
-        <code className="bg-gray-700 text-sm p-2 rounded">
-          GET /api/films/1
-        </code>
-      </section>
-    </main>
+    <>
+      <Navbar />
+      <main className="flex flex-col items-center justify-center p-12 text-star-wars-yellow">
+        <h1 className="text-5xl font-bold mb-6 font-russo-one">SWAPI</h1>
+        <h2 className="text-3xl font-semibold mb-8 -mt-4 font-russo-one">
+          by Mimo
+        </h2>
+        <p className="w-11/12 text-lg mb-4 font-russo-one">
+          Welcome to the Star Wars API documentation. Here, you can find
+          information on how to use the API.
+        </p>
+        <section className="w-11/12 m-auto">
+          <h2 className="text-3xl font-semibold mt-8 mb-2 font-russo-one">
+            Example Request
+          </h2>
+          <FetchView
+            endpoint={endpoint}
+            method={method}
+            url={url.toString()}
+            theme={ThemeOptions.StarWars}
+          />
+          <h2 className="text-3xl font-semibold mt-8 mb-2 font-russo-one">
+            Example Response
+          </h2>
+          <ResponseView data={data} theme={ThemeOptions.StarWars} />
+        </section>
+      </main>
+      <Footer />
+    </>
   );
 }

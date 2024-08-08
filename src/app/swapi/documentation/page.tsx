@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../components/navbar";
 import SidebarMenu from "../../components/sidebarMenu";
-import Footer from "@/app/components/footer";
+import Footer from "../../components/footer";
 import { categories } from "../data/categories";
 
 const Documentation = () => {
@@ -13,17 +13,17 @@ const Documentation = () => {
           <SidebarMenu
             selectedEndpoint={null}
             categories={categories}
-            basePath="pokedex"
+            basePath="swapi"
           />
         </div>
         <main className="w-10/12 flex flex-col items-start justify-center rounded-md mt-24">
           <div className="w-10/12 m-auto p-8 bg-white rounded-md">
             <div className="w-full p-8 bg-white rounded-md">
-              <h1 className="text-2xl font-press-start font-bold mb-4">
+              <h1 className="text-2xl font-russo-one font-bold mb-4">
                 General information
               </h1>
               <p>
-                Welcome to the Pokedex API documentation! You can use the API
+                Welcome to the Star Wars API documentation! You can use the API
                 without any limitations. Feel free to explore usage examples at{" "}
                 <a
                   href="https://mimo.org"

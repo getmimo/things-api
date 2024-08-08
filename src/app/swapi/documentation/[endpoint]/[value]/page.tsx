@@ -9,7 +9,7 @@ export default async function Documentation({
   params: { endpoint: string; value: string };
 }) {
   const { endpoint, value } = params;
-  const url = new URL(`https://pokedex.mimo.dev/api/${endpoint}/${value}`);
+  const url = new URL(`https://swapi.mimo.dev/api/${endpoint}/${value}`);
   const method = "GET";
 
   const response = await fetch(url);
@@ -17,12 +17,12 @@ export default async function Documentation({
 
   return (
     <DocumentationPage
-      basePath={`pokedex`}
       endpoint={endpoint}
       url={url.toString()}
       method={method}
       data={data}
       categories={categories}
+      basePath={`swapi`}
     />
   );
 }

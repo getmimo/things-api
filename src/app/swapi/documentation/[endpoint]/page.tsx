@@ -1,28 +1,28 @@
 export const runtime = "edge";
 import React from "react";
-import DocumentationPage from "../../../../components/documentationPage";
-import { categories } from "../../../data/categories";
+import DocumentationPage from "../../../components/documentationPage";
+import { categories } from "../../data/categories";
 
 export default async function Documentation({
   params,
 }: {
-  params: { endpoint: string; value: string };
+  params: { endpoint: string };
 }) {
-  const { endpoint, value } = params;
-  const url = new URL(`https://pokedex.mimo.dev/api/${endpoint}/${value}`);
+  const { endpoint } = params;
   const method = "GET";
-
+  const url = new URL(`https://swapi.mimo.dev/api/${endpoint}`);
   const response = await fetch(url);
   const data: any = response.ok ? await response.json() : null;
 
   return (
     <DocumentationPage
-      basePath={`pokedex`}
       endpoint={endpoint}
       url={url.toString()}
       method={method}
       data={data}
+      showValuesView={true}
       categories={categories}
+      basePath={`swapi`}
     />
   );
 }

@@ -1,6 +1,6 @@
 import EndpointView from "./endpointView";
 import React from "react";
-import FetchView from "./fetchView";
+import FetchView, { ThemeOptions } from "./fetchView";
 import ResponseView from "./responseView";
 import { categories } from "../pokedex/data/categories";
 
@@ -43,17 +43,25 @@ const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
   );
   const response = await fetch(url);
   const data: any = response.ok ? await response.json() : null;
+  const theme = url.toString().includes("swapi")
+    ? ThemeOptions.StarWars
+    : ThemeOptions.Pokemon;
 
   return (
     <div className="w-full p-8 bg-white rounded-md">
       <h1 className="text-2xl font-press-start font-bold mb-4">
         Endpoint: {selectedEndpoint}
       </h1>
-      <EndpointView url={url.toString()} method="GET" />
+      <EndpointView url={url.toString()} method="GET" theme={theme} />
       <h2 className="text-3xl font-semibold mt-8 mb-2">Example Request</h2>
-      <FetchView endpoint={endpoint} method={method} url={url.toString()} />
+      <FetchView
+        endpoint={endpoint}
+        method={method}
+        url={url.toString()}
+        theme={theme}
+      />
       <h2 className="text-3xl font-semibold mt-8 mb-2">Example Response</h2>
-      {data && <ResponseView data={data} />}
+      {data && <ResponseView data={data} theme={theme} />}
     </div>
   );
 };

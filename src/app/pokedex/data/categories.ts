@@ -98,7 +98,7 @@ export const categories: Category[] = [
   },
   {
     id: "Machines",
-    endpoints: [{ id: "Machine", values: [{ id: "All" }] }],
+    endpoints: [{ id: "Machine", values: [{ id: "All" }, { id: "1" }] }],
   },
   {
     id: "Moves",

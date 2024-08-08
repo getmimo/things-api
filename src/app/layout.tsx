@@ -11,7 +11,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="bg-white">
       <link
-        href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Syne+Mono&family=Ubuntu+Mono&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Syne+Mono&family=Ubuntu+Mono&family=Russo+One&display=swap"
         rel="stylesheet"
       />
       <body className={`${inter.className}`}>{children}</body>

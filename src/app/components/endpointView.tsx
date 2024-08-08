@@ -3,12 +3,18 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faExternalLinkAlt, faCopy } from "@fortawesome/free-solid-svg-icons";
 
+export enum ThemeOptions {
+  StarWars = "starwars",
+  Pokemon = "pokemon",
+}
+
 interface EndpointViewProps {
   url: string;
   method: string;
+  theme: ThemeOptions;
 }
 
-const EndpointView: React.FC<EndpointViewProps> = ({ url, method }) => {
+const EndpointView: React.FC<EndpointViewProps> = ({ url, method, theme }) => {
   const handleOpenEndpoint = () => {
     window.open(url, "_blank");
   };
@@ -27,7 +33,9 @@ const EndpointView: React.FC<EndpointViewProps> = ({ url, method }) => {
   };
 
   return (
-    <div className="bg-background-gray text-white p-2 h-12 w-full rounded flex items-center justify-between">
+    <div
+      className={`${theme === ThemeOptions.StarWars ? "bg-black" : "bg-background-gray"} text-white p-2 h-12 w-full rounded flex items-center justify-between`}
+    >
       <div className="flex items-center">
         <span>{method}</span>
         <span className="w-2"></span>

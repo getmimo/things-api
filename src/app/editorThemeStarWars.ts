@@ -1,6 +1,6 @@
-export const draculaAltered = {
+export const draculaAlteredForStarWars = {
   $schema: "vscode://schemas/color-theme",
-  name: "dracula + Changes",
+  name: "dracula + Changes for Star Wars",
   author: "Zeno Rocha (Altered by Mimo)",
   maintainers: ["Derek P Sifford <dereksifford@gmail.com>"],
   semanticClass: "theme.dracula",
@@ -17,13 +17,13 @@ export const draculaAltered = {
       "#FF79C6",
       "#BD93F9",
       "#FF5555",
-      "#FFCB05",
+      "#FFE81F",
     ],
     ansi: [
       "#21222C",
       "#FF5555",
       "#50FA7B",
-      "#FFCB05",
+      "#FFE81F",
       "#BD93F9",
       "#FF79C6",
       "#3D7DCA",
@@ -37,7 +37,7 @@ export const draculaAltered = {
       "#A4FFFF",
       "#FFFFFF",
     ],
-    brightOther: ["#FFCB05", "#8BE9FE"],
+    brightOther: ["#FFE81F", "#8BE9FE"],
     other: [
       "#44475A75",
       "#FFFFFF1A",
@@ -63,7 +63,7 @@ export const draculaAltered = {
     "terminal.ansiBlack": "#21222C",
     "terminal.ansiRed": "#FF5555",
     "terminal.ansiGreen": "#50FA7B",
-    "terminal.ansiYellow": "#FFCB05",
+    "terminal.ansiYellow": "#FFE81F",
     "terminal.ansiBlue": "#BD93F9",
     "terminal.ansiMagenta": "#FF79C6",
     "terminal.ansiCyan": "#3D7DCA",
@@ -114,14 +114,14 @@ export const draculaAltered = {
     "editorGroup.border": "#BD93F9",
     "editorGroup.dropBackground": "#44475A70",
     "editorGroupHeader.tabsBackground": "#191A21",
-    "tab.activeBackground": "#303943ff",
+    "tab.activeBackground": "#000000ff",
     "tab.activeForeground": "#F8F8F2",
     "tab.border": "#191A21",
     "tab.activeBorderTop": "#FF79C680",
     "tab.inactiveBackground": "#21222C",
     "tab.inactiveForeground": "#6272A4",
     "editor.foreground": "#F8F8F2",
-    "editor.background": "#303943ff",
+    "editor.background": "#000000ff",
     "editorLineNumber.foreground": "#6272A4",
     "editor.selectionBackground": "#44475A",
     "editor.selectionHighlightBackground": "#424450",
@@ -182,11 +182,11 @@ export const draculaAltered = {
     "editorMarkerNavigation.background": "#21222C",
     "peekView.border": "#44475A",
     "peekViewEditor.background": "#282A36",
-    "peekViewEditor.matchHighlightBackground": "#FFCB0580",
+    "peekViewEditor.matchHighlightBackground": "#FFE81F80",
     "peekViewResult.background": "#21222C",
     "peekViewResult.fileForeground": "#F8F8F2",
     "peekViewResult.lineForeground": "#F8F8F2",
-    "peekViewResult.matchHighlightBackground": "#FFCB0580",
+    "peekViewResult.matchHighlightBackground": "#FFE81F80",
     "peekViewResult.selectionBackground": "#44475A",
     "peekViewResult.selectionForeground": "#F8F8F2",
     "peekViewTitle.background": "#191A21",
@@ -305,7 +305,7 @@ export const draculaAltered = {
     {
       scope: ["entity.name.filename"],
       settings: {
-        foreground: "#FFCB05",
+        foreground: "#FFE81F",
       },
     },
     {
@@ -341,7 +341,7 @@ export const draculaAltered = {
       name: "Markup italic",
       scope: ["markup.italic"],
       settings: {
-        foreground: "#FFCB05",
+        foreground: "#FFE81F",
         fontStyle: "italic",
       },
     },
@@ -386,7 +386,7 @@ export const draculaAltered = {
       name: "Blockquotes (prose)",
       scope: ["entity.name.directive.restructuredtext", "markup.quote"],
       settings: {
-        foreground: "#FFCB05",
+        foreground: "#FFE81F",
         fontStyle: "italic",
       },
     },
@@ -442,7 +442,7 @@ export const draculaAltered = {
         "markup.quote.markdown meta.paragraph.markdown punctuation.definition.string.end",
       ],
       settings: {
-        foreground: "#FFCB05",
+        foreground: "#FFE81F",
       },
     },
     {
@@ -831,7 +831,7 @@ export const draculaAltered = {
         "constant.character.escape.backslash.regexp",
       ],
       settings: {
-        foreground: "#FFCB05",
+        foreground: "#FFE81F",
       },
     },
     {
@@ -886,7 +886,7 @@ export const draculaAltered = {
       name: "Strings",
       scope: ["string"],
       settings: {
-        foreground: "#FFCB05",
+        foreground: "#FFE81F",
       },
     },
     {
@@ -896,7 +896,7 @@ export const draculaAltered = {
         "punctuation.definition.string.end",
       ],
       settings: {
-        foreground: "#FFCB05",
+        foreground: "#FFE81F",
       },
     },
     {
@@ -962,7 +962,7 @@ export const draculaAltered = {
       name: "GraphQL keys",
       scope: ["meta.selectionset.graphql variable"],
       settings: {
-        foreground: "#FFCB05",
+        foreground: "#FFE81F",
       },
     },
     {
@@ -1019,14 +1019,14 @@ export const draculaAltered = {
       name: "Makefile prerequisite names",
       scope: ["meta.scope.prerequisites.makefile"],
       settings: {
-        foreground: "#FFCB05",
+        foreground: "#FFE81F",
       },
     },
     {
       name: "SCSS attibute selector strings",
       scope: ["meta.attribute-selector.scss"],
       settings: {
-        foreground: "#FFCB05",
+        foreground: "#FFE81F",
       },
     },
     {
@@ -1058,7 +1058,7 @@ export const draculaAltered = {
       name: "Log file warning",
       scope: ["log.warning"],
       settings: {
-        foreground: "#FFCB05",
+        foreground: "#FFE81F",
         fontStyle: "bold",
       },
     },
