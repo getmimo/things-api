@@ -1,6 +1,6 @@
 export const runtime = "edge";
 import React from "react";
-import DocumentationPage from "../../../components/documentationPage";
+import DocumentationPage from "../../../../components/documentationPage";
 
 export default async function Documentation({
   params,

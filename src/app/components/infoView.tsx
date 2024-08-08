@@ -1,8 +1,8 @@
-import EndpointView from "../components/endpointView";
+import EndpointView from "./endpointView";
 import React from "react";
 import FetchView from "./fetchView";
 import ResponseView from "./responseView";
-import { categories } from "../data/categories";
+import { categories } from "../pokedex/data/categories";
 
 interface InfoViewProps {
   selectedEndpoint: string | null;

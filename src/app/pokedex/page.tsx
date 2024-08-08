@@ -1,8 +1,9 @@
 import { Metadata } from "next";
 import Image from "next/image";
 import Navbar from "./components/navbar";
-import FetchView from "./components/fetchView";
-import ResponseView from "./components/responseView";
+import FetchView from "../components/fetchView";
+import ResponseView from "../components/responseView";
+import Footer from "../components/footer";
 
 export const metadata: Metadata = {
   title: "Pokedex API by Mimo",
@@ -39,7 +40,7 @@ export default async function PokemonAPI() {
           <ResponseView data={data} />
         </section>
       </main>
+      <Footer />
     </>
   );
 }
-4;

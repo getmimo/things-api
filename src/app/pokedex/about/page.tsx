@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "../components/navbar";
+import Footer from "@/app/components/footer";
 
 const AboutPage = () => {
   return (
@@ -9,6 +10,7 @@ const AboutPage = () => {
         <h1>About Page</h1>
         <p>Under Construction</p>
       </main>
+      <Footer />
     </>
   );
 };

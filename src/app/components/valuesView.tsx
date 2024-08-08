@@ -12,8 +12,8 @@ const ValuesView: React.FC<ValuesViewProps> = ({ endpoint, data }) => {
       {data.map((item, index) => (
         <Link
           key={index}
-          href={`/pokedex/documentation/${endpoint}/${item.id}`}
-          className="bg-pokemon-gray text-white p-2 rounded flex items-center justify-center hover:bg-pokemon-yellow hover:text-pokemon-gray"
+          href={`/pokedex/documentation/${endpoint}/${item.name ? item.name : item.id}`}
+          className="bg-background-gray text-white p-2 rounded flex items-center justify-center hover:bg-highlight-yellow hover:text-background-gray"
         >
           <span className="font-bold">
             {index + 1}.{" "}

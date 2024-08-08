@@ -1,5 +1,5 @@
 import React from "react";
-import { categories } from "../data/categories";
+import { categories } from "../pokedex/data/categories";
 import Link from "next/link";
 
 interface SidebarMenuProps {
@@ -29,14 +29,14 @@ const SidebarMenu: React.FC<SidebarMenuProps> = ({ selectedEndpoint }) => {
     )?.id || "Information";
 
   return (
-    <div className="w-fit min-w-48 max-w-80 p-3 text-sm text-pokemon-gray">
+    <div className="w-fit min-w-48 max-w-80 p-3 text-sm text-highlight-gray">
       {categories.map((category) => (
         <div key={category.id} className="mb-1">
           <Link
             href={`/pokedex/documentation/${category.endpoints ? formatEndpointId(category.endpoints[0].id) : ""}`}
           >
             <div
-              className={`cursor-pointer px-2 py-1 mb-1 rounded-lg hover:bg-pokemon-yellow ${selectedCategory === category.id ? "underline decoration-2 underline-offset-2 decoration-pokemon-blue" : ""}`}
+              className={`cursor-pointer px-2 py-1 mb-1 rounded-lg hover:bg-highlight-yellow ${selectedCategory === category.id ? "underline decoration-2 underline-offset-2 decoration-highlight-blue" : ""}`}
             >
               {category.id}
             </div>
@@ -49,7 +49,7 @@ const SidebarMenu: React.FC<SidebarMenuProps> = ({ selectedEndpoint }) => {
                   key={`link-${endpoint.id}`}
                 >
                   <div
-                    className={`cursor-pointer px-2 py-1 mb-1 rounded-lg hover:bg-pokemon-yellow ${selectedEndpoint === formatEndpointId(endpoint.id) ? "underline decoration-2 underline-offset-2 decoration-pokemon-blue" : ""}`}
+                    className={`cursor-pointer px-2 py-1 mb-1 rounded-lg hover:bg-highlight-yellow ${selectedEndpoint === formatEndpointId(endpoint.id) ? "underline decoration-2 underline-offset-2 decoration-highlight-blue" : ""}`}
                   >
                     {endpoint.id}
                   </div>

@@ -21,29 +21,13 @@ const EndpointView: React.FC<EndpointViewProps> = ({ url, method }) => {
     const apiIndex = url.indexOf("/api/");
     if (apiIndex !== -1) {
       const routePart = url.substring(apiIndex + 5);
-      const slashIndex = routePart.indexOf("/");
-      if (slashIndex !== -1) {
-        return (
-          <>
-            <span className="underline decoration-pokemon-yellow">
-              {routePart.substring(0, slashIndex)}
-            </span>
-            <span className="w-2">/</span>
-            <span className="underline decoration-pokemon-yellow">
-              {routePart.substring(slashIndex+1)}
-            </span>
-          </>
-        );
-      }
-      return (
-        <span className="underline decoration-pokemon-yellow">{routePart}</span>
-      );
+      return routePart;
     }
     return "";
   };
 
   return (
-    <div className="bg-pokemon-gray text-white p-2 h-12 w-full rounded flex items-center justify-between">
+    <div className="bg-background-gray text-white p-2 h-12 w-full rounded flex items-center justify-between">
       <div className="flex items-center">
         <span>{method}</span>
         <span className="w-2"></span>

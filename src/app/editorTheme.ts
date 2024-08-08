@@ -11,22 +11,22 @@ export const draculaAltered = {
       "#F8F8F2",
       "#44475A",
       "#6272A4",
-      "#8BE9FD",
+      "#3D7DCA",
       "#50FA7B",
       "#FFB86C",
       "#FF79C6",
       "#BD93F9",
       "#FF5555",
-      "#F1FA8C",
+      "#FFCB05",
     ],
     ansi: [
       "#21222C",
       "#FF5555",
       "#50FA7B",
-      "#F1FA8C",
+      "#FFCB05",
       "#BD93F9",
       "#FF79C6",
-      "#8BE9FD",
+      "#3D7DCA",
       "#F8F8F2",
       "#6272A4",
       "#FF6E6E",
@@ -37,7 +37,7 @@ export const draculaAltered = {
       "#A4FFFF",
       "#FFFFFF",
     ],
-    brightOther: ["#E9F284", "#8BE9FE"],
+    brightOther: ["#FFCB05", "#8BE9FE"],
     other: [
       "#44475A75",
       "#FFFFFF1A",
@@ -63,10 +63,10 @@ export const draculaAltered = {
     "terminal.ansiBlack": "#21222C",
     "terminal.ansiRed": "#FF5555",
     "terminal.ansiGreen": "#50FA7B",
-    "terminal.ansiYellow": "#F1FA8C",
+    "terminal.ansiYellow": "#FFCB05",
     "terminal.ansiBlue": "#BD93F9",
     "terminal.ansiMagenta": "#FF79C6",
-    "terminal.ansiCyan": "#8BE9FD",
+    "terminal.ansiCyan": "#3D7DCA",
     "terminal.ansiWhite": "#F8F8F2",
     focusBorder: "#6272A4",
     foreground: "#F8F8F2",
@@ -95,7 +95,7 @@ export const draculaAltered = {
     "list.activeSelectionForeground": "#F8F8F2",
     "list.dropBackground": "#44475A",
     "list.focusBackground": "#44475A75",
-    "list.highlightForeground": "#8BE9FD",
+    "list.highlightForeground": "#3D7DCA",
     "list.hoverBackground": "#44475A75",
     "list.inactiveSelectionBackground": "#44475A75",
     "list.warningForeground": "#FFB86C",
@@ -126,14 +126,14 @@ export const draculaAltered = {
     "editor.selectionBackground": "#44475A",
     "editor.selectionHighlightBackground": "#424450",
     "editor.foldBackground": "#21222C80",
-    "editor.wordHighlightBackground": "#8BE9FD50",
+    "editor.wordHighlightBackground": "#3D7DCA50",
     "editor.wordHighlightStrongBackground": "#50FA7B50",
     "editor.findMatchBackground": "#FFB86C80",
     "editor.findMatchHighlightBackground": "#FFFFFF40",
     "editor.findRangeHighlightBackground": "#44475A75",
-    "editor.hoverHighlightBackground": "#8BE9FD50",
+    "editor.hoverHighlightBackground": "#3D7DCA50",
     "editor.lineHighlightBorder": "#44475A",
-    "editorLink.activeForeground": "#8BE9FD",
+    "editorLink.activeForeground": "#3D7DCA",
     "editor.rangeHighlightBackground": "#BD93F915",
     "editor.snippetTabstopHighlightBackground": "#282A36",
     "editor.snippetTabstopHighlightBorder": "#6272A4",
@@ -146,27 +146,27 @@ export const draculaAltered = {
     "editorCodeLens.foreground": "#6272A4",
     "editorBracketHighlight.foreground1": "#F8F8F2",
     "editorBracketHighlight.foreground2": "#FF79C6",
-    "editorBracketHighlight.foreground3": "#8BE9FD",
+    "editorBracketHighlight.foreground3": "#3D7DCA",
     "editorBracketHighlight.foreground4": "#50FA7B",
     "editorBracketHighlight.foreground5": "#BD93F9",
     "editorBracketHighlight.foreground6": "#FFB86C",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF5555",
     "editorOverviewRuler.border": "#191A21",
     "editorOverviewRuler.selectionHighlightForeground": "#FFB86C",
-    "editorOverviewRuler.wordHighlightForeground": "#8BE9FD",
+    "editorOverviewRuler.wordHighlightForeground": "#3D7DCA",
     "editorOverviewRuler.wordHighlightStrongForeground": "#50FA7B",
-    "editorOverviewRuler.modifiedForeground": "#8BE9FD80",
+    "editorOverviewRuler.modifiedForeground": "#3D7DCA80",
     "editorOverviewRuler.addedForeground": "#50FA7B80",
     "editorOverviewRuler.deletedForeground": "#FF555580",
     "editorOverviewRuler.errorForeground": "#FF555580",
     "editorOverviewRuler.warningForeground": "#FFB86C80",
-    "editorOverviewRuler.infoForeground": "#8BE9FD80",
+    "editorOverviewRuler.infoForeground": "#3D7DCA80",
     "editorError.foreground": "#FF5555",
-    "editorWarning.foreground": "#8BE9FD",
-    "editorGutter.modifiedBackground": "#8BE9FD80",
+    "editorWarning.foreground": "#3D7DCA",
+    "editorGutter.modifiedBackground": "#3D7DCA80",
     "editorGutter.addedBackground": "#50FA7B80",
     "editorGutter.deletedBackground": "#FF555580",
-    "gitDecoration.modifiedResourceForeground": "#8BE9FD",
+    "gitDecoration.modifiedResourceForeground": "#3D7DCA",
     "gitDecoration.deletedResourceForeground": "#FF5555",
     "gitDecoration.untrackedResourceForeground": "#50FA7B",
     "gitDecoration.ignoredResourceForeground": "#6272A4",
@@ -182,11 +182,11 @@ export const draculaAltered = {
     "editorMarkerNavigation.background": "#21222C",
     "peekView.border": "#44475A",
     "peekViewEditor.background": "#282A36",
-    "peekViewEditor.matchHighlightBackground": "#F1FA8C80",
+    "peekViewEditor.matchHighlightBackground": "#FFCB0580",
     "peekViewResult.background": "#21222C",
     "peekViewResult.fileForeground": "#F8F8F2",
     "peekViewResult.lineForeground": "#F8F8F2",
-    "peekViewResult.matchHighlightBackground": "#F1FA8C80",
+    "peekViewResult.matchHighlightBackground": "#FFCB0580",
     "peekViewResult.selectionBackground": "#44475A",
     "peekViewResult.selectionForeground": "#F8F8F2",
     "peekViewTitle.background": "#191A21",
@@ -219,7 +219,7 @@ export const draculaAltered = {
     "extensionButton.prominentBackground": "#50FA7B90",
     "extensionButton.prominentHoverBackground": "#50FA7B60",
     "pickerGroup.border": "#BD93F9",
-    "pickerGroup.foreground": "#8BE9FD",
+    "pickerGroup.foreground": "#3D7DCA",
     "debugToolBar.background": "#21222C",
     "walkThrough.embeddedEditorBackground": "#21222C",
     "settings.headerForeground": "#F8F8F2",
@@ -305,7 +305,7 @@ export const draculaAltered = {
     {
       scope: ["entity.name.filename"],
       settings: {
-        foreground: "#F1FA8C",
+        foreground: "#FFCB05",
       },
     },
     {
@@ -341,7 +341,7 @@ export const draculaAltered = {
       name: "Markup italic",
       scope: ["markup.italic"],
       settings: {
-        foreground: "#F1FA8C",
+        foreground: "#FFCB05",
         fontStyle: "italic",
       },
     },
@@ -353,7 +353,7 @@ export const draculaAltered = {
         "punctuation.definition.link.restructuredtext",
       ],
       settings: {
-        foreground: "#8BE9FD",
+        foreground: "#3D7DCA",
       },
     },
     {
@@ -367,7 +367,7 @@ export const draculaAltered = {
       name: "Links (prose)",
       scope: ["markup.underline.link", "markup.underline.link.image"],
       settings: {
-        foreground: "#8BE9FD",
+        foreground: "#3D7DCA",
       },
     },
     {
@@ -386,7 +386,7 @@ export const draculaAltered = {
       name: "Blockquotes (prose)",
       scope: ["entity.name.directive.restructuredtext", "markup.quote"],
       settings: {
-        foreground: "#F1FA8C",
+        foreground: "#FFCB05",
         fontStyle: "italic",
       },
     },
@@ -442,14 +442,14 @@ export const draculaAltered = {
         "markup.quote.markdown meta.paragraph.markdown punctuation.definition.string.end",
       ],
       settings: {
-        foreground: "#F1FA8C",
+        foreground: "#FFCB05",
       },
     },
     {
       name: "User-defined class names",
       scope: ["entity.name.type.class", "entity.name.class"],
       settings: {
-        foreground: "#8BE9FD",
+        foreground: "#3D7DCA",
         fontStyle: "normal",
       },
     },
@@ -473,7 +473,7 @@ export const draculaAltered = {
       scope: ["entity.other.inherited-class"],
       settings: {
         fontStyle: "italic",
-        foreground: "#8BE9FD",
+        foreground: "#3D7DCA",
       },
     },
     {
@@ -503,7 +503,7 @@ export const draculaAltered = {
       name: "JSDoc-style types",
       scope: ["comment.block.documentation entity.name.type"],
       settings: {
-        foreground: "#8BE9FD",
+        foreground: "#3D7DCA",
         fontStyle: "italic",
       },
     },
@@ -513,7 +513,7 @@ export const draculaAltered = {
         "comment.block.documentation entity.name.type punctuation.definition.bracket",
       ],
       settings: {
-        foreground: "#8BE9FD",
+        foreground: "#3D7DCA",
       },
     },
     {
@@ -639,7 +639,7 @@ export const draculaAltered = {
       scope: ["support"],
       settings: {
         fontStyle: "italic",
-        foreground: "#8BE9FD",
+        foreground: "#3D7DCA",
       },
     },
     {
@@ -746,7 +746,7 @@ export const draculaAltered = {
         "variable.other.key.toml",
       ],
       settings: {
-        foreground: "#8BE9FD",
+        foreground: "#3D7DCA",
       },
     },
     {
@@ -802,7 +802,7 @@ export const draculaAltered = {
       ],
       settings: {
         fontStyle: "italic",
-        foreground: "#8BE9FD",
+        foreground: "#3D7DCA",
       },
     },
     {
@@ -831,7 +831,7 @@ export const draculaAltered = {
         "constant.character.escape.backslash.regexp",
       ],
       settings: {
-        foreground: "#F1FA8C",
+        foreground: "#FFCB05",
       },
     },
     {
@@ -855,7 +855,7 @@ export const draculaAltered = {
       name: "Character group",
       scope: ["punctuation.definition.character-class.regexp"],
       settings: {
-        foreground: "#8BE9FD",
+        foreground: "#3D7DCA",
       },
     },
     {
@@ -886,7 +886,7 @@ export const draculaAltered = {
       name: "Strings",
       scope: ["string"],
       settings: {
-        foreground: "#F1FA8C",
+        foreground: "#FFCB05",
       },
     },
     {
@@ -896,7 +896,7 @@ export const draculaAltered = {
         "punctuation.definition.string.end",
       ],
       settings: {
-        foreground: "#E9F284",
+        foreground: "#FFCB05",
       },
     },
     {
@@ -962,7 +962,7 @@ export const draculaAltered = {
       name: "GraphQL keys",
       scope: ["meta.selectionset.graphql variable"],
       settings: {
-        foreground: "#F1FA8C",
+        foreground: "#FFCB05",
       },
     },
     {
@@ -976,7 +976,7 @@ export const draculaAltered = {
       name: "GraphQL fragment name (definition)",
       scope: ["entity.name.fragment.graphql", "variable.fragment.graphql"],
       settings: {
-        foreground: "#8BE9FD",
+        foreground: "#3D7DCA",
       },
     },
     {
@@ -1019,14 +1019,14 @@ export const draculaAltered = {
       name: "Makefile prerequisite names",
       scope: ["meta.scope.prerequisites.makefile"],
       settings: {
-        foreground: "#F1FA8C",
+        foreground: "#FFCB05",
       },
     },
     {
       name: "SCSS attibute selector strings",
       scope: ["meta.attribute-selector.scss"],
       settings: {
-        foreground: "#F1FA8C",
+        foreground: "#FFCB05",
       },
     },
     {
@@ -1058,7 +1058,7 @@ export const draculaAltered = {
       name: "Log file warning",
       scope: ["log.warning"],
       settings: {
-        foreground: "#F1FA8C",
+        foreground: "#FFCB05",
         fontStyle: "bold",
       },
     },

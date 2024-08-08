@@ -1,10 +1,11 @@
 import React from "react";
-import Navbar from "./navbar";
+import Navbar from "../pokedex/components/navbar";
 import SidebarMenu from "./sidebarMenu";
 import EndpointView from "./endpointView";
 import FetchView from "./fetchView";
 import ResponseView from "./responseView";
 import ValuesView from "./valuesView";
+import Footer from "./footer";
 
 interface DocumentationPageProps {
   endpoint: string;
@@ -31,7 +32,7 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
         <main className="w-10/12 flex flex-col items-start justify-center rounded-md mt-24">
           <div className="w-10/12 m-auto p-8 bg-white rounded-md">
             <div className="w-full p-8 bg-white rounded-md">
-              <h1 className="text-2xl font-press-start font-bold mb-4">
+              <h1 className="text-3xl font-semibold mb-4">
                 Endpoint: {endpoint}
               </h1>
               <EndpointView url={url} method={method} />
@@ -44,6 +45,7 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
           </div>
         </main>
       </div>
+      <Footer />
     </>
   );
 };

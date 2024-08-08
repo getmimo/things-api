@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "../components/navbar";
-import SidebarMenu from "../components/sidebarMenu";
+import SidebarMenu from "../../components/sidebarMenu";
+import Footer from "@/app/components/footer";
 
 const Documentation = () => {
   return (
@@ -21,6 +22,7 @@ const Documentation = () => {
           </div>
         </main>
       </div>
+      <Footer />
     </>
   );
 };

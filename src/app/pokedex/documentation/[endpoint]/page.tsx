@@ -1,6 +1,6 @@
 export const runtime = "edge";
 import React from "react";
-import DocumentationPage from "../../components/documentationPage";
+import DocumentationPage from "../../../components/documentationPage";
 
 export default async function Documentation({
   params,
@@ -9,7 +9,7 @@ export default async function Documentation({
 }) {
   const { endpoint } = params;
   const method = "GET";
-  const url = new URL(`https://pokedex.mimo.dev/api/${endpoint}/`);
+  const url = new URL(`https://pokedex.mimo.dev/api/${endpoint}`);
   const response = await fetch(url);
   const data: any = response.ok ? await response.json() : null;
 
