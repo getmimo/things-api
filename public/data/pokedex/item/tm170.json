@@ -13,7 +13,26 @@
     "game_indices": [],
     "held_by_pokemon": [],
     "id": 2013,
-    "machines": [],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1875/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1939/"
+            },
+            "version_group": {
+                "name": "the-teal-mask",
+                "url": "https://pokedex.mimo.dev/api/version-group/26/"
+            }
+        }
+    ],
     "name": "tm170",
     "names": [
         {

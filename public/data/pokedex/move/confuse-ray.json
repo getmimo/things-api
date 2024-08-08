@@ -1610,7 +1610,17 @@
             "url": "https://pokedex.mimo.dev/api/pokemon/10271/"
         }
     ],
-    "machines": [],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1722/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        }
+    ],
     "meta": {
         "ailment": {
             "name": "confusion",

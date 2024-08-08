@@ -13,7 +13,26 @@
     "game_indices": [],
     "held_by_pokemon": [],
     "id": 1955,
-    "machines": [],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1817/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/2015/"
+            },
+            "version_group": {
+                "name": "the-indigo-disk",
+                "url": "https://pokedex.mimo.dev/api/version-group/27/"
+            }
+        }
+    ],
     "name": "tm112",
     "names": [
         {

@@ -1708,7 +1708,26 @@
             "url": "https://pokedex.mimo.dev/api/pokemon/10255/"
         }
     ],
-    "machines": [],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1882/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1945/"
+            },
+            "version_group": {
+                "name": "the-teal-mask",
+                "url": "https://pokedex.mimo.dev/api/version-group/26/"
+            }
+        }
+    ],
     "meta": {
         "ailment": {
             "name": "none",

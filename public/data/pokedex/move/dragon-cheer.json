@@ -266,7 +266,26 @@
             "url": "https://pokedex.mimo.dev/api/pokemon/10259/"
         }
     ],
-    "machines": [],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1931/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/2099/"
+            },
+            "version_group": {
+                "name": "the-indigo-disk",
+                "url": "https://pokedex.mimo.dev/api/version-group/27/"
+            }
+        }
+    ],
     "meta": null,
     "name": "dragon-cheer",
     "names": [

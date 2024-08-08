@@ -821,7 +821,26 @@
             "url": "https://pokedex.mimo.dev/api/pokemon/10236/"
         }
     ],
-    "machines": [],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1850/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/2041/"
+            },
+            "version_group": {
+                "name": "the-indigo-disk",
+                "url": "https://pokedex.mimo.dev/api/version-group/27/"
+            }
+        }
+    ],
     "meta": {
         "ailment": {
             "name": "none",

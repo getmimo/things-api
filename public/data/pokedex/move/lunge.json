@@ -800,7 +800,35 @@
             "url": "https://pokedex.mimo.dev/api/pokemon/10259/"
         }
     ],
-    "machines": [],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1890/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1953/"
+            },
+            "version_group": {
+                "name": "the-teal-mask",
+                "url": "https://pokedex.mimo.dev/api/version-group/26/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/2064/"
+            },
+            "version_group": {
+                "name": "the-indigo-disk",
+                "url": "https://pokedex.mimo.dev/api/version-group/27/"
+            }
+        }
+    ],
     "meta": {
         "ailment": {
             "name": "none",

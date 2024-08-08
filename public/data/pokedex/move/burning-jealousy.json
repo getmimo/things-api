@@ -382,7 +382,26 @@
             "url": "https://pokedex.mimo.dev/api/pokemon/10239/"
         }
     ],
-    "machines": [],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1900/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        },
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1963/"
+            },
+            "version_group": {
+                "name": "the-teal-mask",
+                "url": "https://pokedex.mimo.dev/api/version-group/26/"
+            }
+        }
+    ],
     "meta": {
         "ailment": {
             "name": "burn",

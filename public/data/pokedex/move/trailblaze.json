@@ -1330,7 +1330,17 @@
             "url": "https://pokedex.mimo.dev/api/pokemon/10275/"
         }
     ],
-    "machines": [],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1725/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        }
+    ],
     "meta": null,
     "name": "trailblaze",
     "names": [

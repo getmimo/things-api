@@ -1246,7 +1246,17 @@
             "url": "https://pokedex.mimo.dev/api/pokemon/10263/"
         }
     ],
-    "machines": [],
+    "machines": [
+        {
+            "machine": {
+                "url": "https://pokedex.mimo.dev/api/machine/1747/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokedex.mimo.dev/api/version-group/25/"
+            }
+        }
+    ],
     "meta": {
         "ailment": {
             "name": "none",
