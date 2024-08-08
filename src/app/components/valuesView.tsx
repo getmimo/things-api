@@ -35,10 +35,7 @@ const ValuesView: React.FC<ValuesViewProps> = ({
                   .split(" ")
                   .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
                   .join(" ")
-              : `ID ${item.id
-                  .split(" ")
-                  .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-                  .join(" ")}`}
+              : `ID ${item.id}`}
           </span>
         </Link>
       ))}
