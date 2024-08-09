@@ -1,8 +1,9 @@
 import EndpointView from "./endpointView";
 import React from "react";
-import FetchView, { ThemeOptions } from "./fetchView";
+import FetchView from "./fetchView";
 import ResponseView from "./responseView";
 import { categories } from "../pokedex/data/categories";
+import { ThemeOptions } from "../utils/themeOptions";
 
 interface InfoViewProps {
   selectedEndpoint: string | null;
@@ -45,7 +46,9 @@ const InfoView: React.FC<InfoViewProps> = async ({ selectedEndpoint }) => {
   const data: any = response.ok ? await response.json() : null;
   const theme = url.toString().includes("swapi")
     ? ThemeOptions.StarWars
-    : ThemeOptions.Pokemon;
+    : url.toString().includes("pokedex")
+      ? ThemeOptions.Pokemon
+      : ThemeOptions.RickAndMorty;
 
   return (
     <div className="w-full p-8 bg-white rounded-md">

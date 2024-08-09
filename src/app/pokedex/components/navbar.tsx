@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="navbar-brand">
         <Link
           href="/pokedex"
-          className="flex align-middle font-bold font-press-start text-pokemon-yellow"
+          className="flex align-middle font-bold text-xl font-press-start text-pokemon-yellow"
         >
           <Image
             src={`https://raw.githubusercontent.com/getmimo/things-api/main/files/pokedex/sprites/master/sprites/pokemon/25.png`}
@@ -25,7 +25,7 @@ const Navbar = () => {
           Pokedex by Mimo
         </Link>
       </div>
-      <div className="navbar-end text-xs h-full flex">
+      <div className="navbar-end h-full flex items-center text-sm">
         <Link
           href="/pokedex"
           className={`${pathname === "/pokedex" || pathname === "/" ? "underline decoration-2 underline-offset-2 decoration-pokemon-yellow" : ""} px-2 py-1 mr-2 hover:bg-pokemon-yellow rounded-md`}
@@ -34,7 +34,7 @@ const Navbar = () => {
         </Link>
         <Link
           href="/pokedex/documentation"
-          className={`${pathname === "/pokedex/documentation" ? "underline decoration-2 underline-offset-2 decoration-pokemon-yellow" : ""} px-2 py-1 hover:bg-pokemon-yellow rounded-md`}
+          className={`${pathname.startsWith("/pokedex/documentation") ? "underline decoration-2 underline-offset-2 decoration-pokemon-yellow" : ""} px-2 py-1 hover:bg-pokemon-yellow rounded-md`}
         >
           Documentation
         </Link>

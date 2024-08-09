@@ -1,9 +1,10 @@
 import { Metadata } from "next";
 import Image from "next/image";
 import Navbar from "./components/navbar";
-import FetchView, { ThemeOptions } from "../components/fetchView";
+import FetchView from "../components/fetchView";
 import ResponseView from "../components/responseView";
 import Footer from "../components/footer";
+import { ThemeOptions } from "../utils/themeOptions";
 
 export const metadata: Metadata = {
   title: "Star Wars API (SWAPI) by Mimo",

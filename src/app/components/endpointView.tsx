@@ -2,11 +2,7 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faExternalLinkAlt, faCopy } from "@fortawesome/free-solid-svg-icons";
-
-export enum ThemeOptions {
-  StarWars = "starwars",
-  Pokemon = "pokemon",
-}
+import { ThemeOptions } from "../utils/themeOptions";
 
 interface EndpointViewProps {
   url: string;
@@ -34,7 +30,7 @@ const EndpointView: React.FC<EndpointViewProps> = ({ url, method, theme }) => {
 
   return (
     <div
-      className={`${theme === ThemeOptions.StarWars ? "bg-black" : "bg-background-gray"} text-white p-2 h-12 w-full rounded flex items-center justify-between`}
+      className={`${theme === ThemeOptions.StarWars || theme === ThemeOptions.RickAndMorty ? "bg-black" : "bg-background-gray"} text-white p-2 h-12 w-full rounded flex items-center justify-between`}
     >
       <div className="flex items-center">
         <span>{method}</span>

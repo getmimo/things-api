@@ -16,15 +16,17 @@ const config: Config = {
       fontFamily: {
         "press-start": ['"Press Start 2P"', "sans-serif"],
         "russo-one": ['"Russo One"', "sans-serif"],
+        creepster: ['"Creepster"', "cursive"],
       },
       colors: {
         "pokemon-yellow": "#FFCB05",
         "pokemon-blue": "#3D7DCA",
         "background-gray": "#303943",
         "sw-yellow": "#FFE81F",
+        "rm-green": "#AFDF33",
+        "rm-blue": "#07BACF",
       },
     },
   },
-  plugins: [],
 };
 export default config;

@@ -6,6 +6,7 @@ export function middleware(request: NextRequest) {
   const rewriteMap: { [key: string]: string } = {
     "swapi.mimo.dev": "/swapi",
     "pokedex.mimo.dev": "/pokedex",
+    "rickandmorty.mimo.dev": "/rickandmorty",
   };
 
   const apiPrefix = "/api";

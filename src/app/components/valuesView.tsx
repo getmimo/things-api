@@ -1,10 +1,6 @@
 import React from "react";
 import Link from "next/link";
-
-export enum ThemeOptions {
-  StarWars = "starwars",
-  Pokemon = "pokemon",
-}
+import { ThemeOptions } from "../utils/themeOptions";
 
 interface ValuesViewProps {
   endpoint: string;

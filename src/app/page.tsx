@@ -24,6 +24,12 @@ export default function Home() {
         >
           Pokemon API
         </a>
+        <a
+          href="/rickandmorty"
+          className="text-lg bg-white text-black py-2 px-4 rounded shadow-lg transform transition-transform hover:scale-105"
+        >
+          Rick and Morty API
+        </a>
       </div>
       <div className="fixed bottom-0 w-full">
         <Footer />
