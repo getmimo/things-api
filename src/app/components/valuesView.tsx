@@ -21,8 +21,17 @@ const ValuesView: React.FC<ValuesViewProps> = ({
       {data.map((item, index) => (
         <Link
           key={index}
-          href={`/${basePath}/documentation/${endpoint}/${item.name ? item.name : item.id}`}
-          className={`${theme === ThemeOptions.StarWars ? "bg-black" : "bg-background-gray"} text-white p-2 rounded flex items-center justify-center hover:bg-pokemon-yellow hover:text-background-gray`}
+          href={`/${basePath}/documentation/${endpoint}/${
+            // TODO: generally use id for all APIs
+            theme === ThemeOptions.Things
+              ? item.id
+              : item.name
+              ? item.name
+              : item.id
+          }`}
+          className={`${
+            theme === ThemeOptions.StarWars ? "bg-black" : "bg-background-gray"
+          } text-white p-2 rounded flex items-center justify-center hover:bg-black hover:text-white`}
         >
           <span className="font-bold">
             {index + 1}.{" "}

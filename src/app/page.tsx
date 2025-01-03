@@ -30,6 +30,12 @@ export default function Home() {
         >
           Rick and Morty API
         </a>
+        <a
+          href="/things"
+          className="text-lg bg-white text-black py-2 px-4 rounded shadow-lg transform transition-transform hover:scale-105"
+        >
+          Things API
+        </a>
       </div>
       <div className="fixed bottom-0 w-full">
         <Footer />

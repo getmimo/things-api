@@ -28,9 +28,19 @@ const EndpointView: React.FC<EndpointViewProps> = ({ url, method, theme }) => {
     return "";
   };
 
+  const getBackgroundColor = () => {
+    switch (theme) {
+      case ThemeOptions.StarWars:
+      case ThemeOptions.RickAndMorty:
+        return "bg-black";
+      default:
+        return "bg-background-gray";
+    }
+  };
+
   return (
     <div
-      className={`${theme === ThemeOptions.StarWars || theme === ThemeOptions.RickAndMorty ? "bg-black" : "bg-background-gray"} text-white p-2 h-12 w-full rounded flex items-center justify-between`}
+      className={`${getBackgroundColor()} text-white p-2 h-12 w-full rounded flex items-center justify-between`}
     >
       <div className="flex items-center">
         <span>{method}</span>

@@ -29,15 +29,19 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
   const theme = url.includes("swapi")
     ? ThemeOptions.StarWars
     : url.includes("pokedex")
-      ? ThemeOptions.Pokemon
-      : ThemeOptions.RickAndMorty;
+    ? ThemeOptions.Pokemon
+    : url.includes("things")
+    ? ThemeOptions.Things
+    : ThemeOptions.RickAndMorty;
 
   const Navbar =
     theme === ThemeOptions.StarWars
       ? require("../swapi/components/navbar").default
       : theme === ThemeOptions.Pokemon
-        ? require("../pokedex/components/navbar").default
-        : require("../rickandmorty/components/navbar").default;
+      ? require("../pokedex/components/navbar").default
+      : theme === ThemeOptions.Things
+      ? require("../things/components/navbar").default
+      : require("../rickandmorty/components/navbar").default;
 
   return (
     <>
