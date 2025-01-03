@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 
 export default async function StarWarsAPI() {
   const endpoint = `/api/people/1`;
-  const url = new URL(`https://swapi.dev${endpoint}`);
+  const url = new URL(`https://swapi.mimo.dev${endpoint}`);
   const method = `GET`;
   const response = await fetch(url);
   const data: any = response.ok ? await response.json() : null;
