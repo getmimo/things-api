@@ -7,6 +7,7 @@ export function middleware(request: NextRequest) {
     "swapi.mimo.dev": "/swapi",
     "pokedex.mimo.dev": "/pokedex",
     "rickandmorty.mimo.dev": "/rickandmorty",
+    "things.mimo.dev": "/things",
   };
 
   const apiPrefix = "/api";
