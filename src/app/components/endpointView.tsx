@@ -33,6 +33,8 @@ const EndpointView: React.FC<EndpointViewProps> = ({ url, method, theme }) => {
       case ThemeOptions.StarWars:
       case ThemeOptions.RickAndMorty:
         return "bg-black";
+      case ThemeOptions.CryptoCraze:
+        return "bg-cc-dark";
       default:
         return "bg-background-gray";
     }

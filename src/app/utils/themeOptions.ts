@@ -3,4 +3,5 @@ export enum ThemeOptions {
   Pokemon = "Pokemon",
   RickAndMorty = "RickAndMorty",
   Things = "Things",
+  CryptoCraze = "CryptoCraze",
 }

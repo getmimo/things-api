@@ -4,6 +4,7 @@ import { draculaAlteredForStarWars } from "../editorThemeStarWars";
 import { draculaAlteredForPokemon } from "../editorThemePokemon";
 import { draculaAlteredForRickAndMorty } from "../editorThemeRickAndMorty";
 import { draculaAlteredForThings } from "../editorThemeThings";
+import { draculaAlteredForCryptoCraze } from "../editorThemeCryptoCraze";
 import { ThemeOptions } from "../utils/themeOptions";
 
 interface CodeViewProps {
@@ -26,6 +27,8 @@ const FetchView: React.FC<CodeViewProps> = ({
       ? draculaAlteredForPokemon
       : theme === ThemeOptions.Things
       ? draculaAlteredForThings
+      : theme === ThemeOptions.CryptoCraze
+      ? draculaAlteredForCryptoCraze
       : draculaAlteredForRickAndMorty;
   Code.theme = selectedTheme;
 
@@ -39,6 +42,8 @@ const FetchView: React.FC<CodeViewProps> = ({
             ? "bg-background-gray"
             : theme === ThemeOptions.Things
             ? "bg-background-gray"
+            : theme === ThemeOptions.CryptoCraze
+            ? "bg-cc-dark"
             : "bg-black"
         } text-white p-2 h-12 w-fit rounded flex items-center`}
       >
@@ -46,9 +51,20 @@ const FetchView: React.FC<CodeViewProps> = ({
         <span className="w-2"></span>
         <span>{endpoint.toLowerCase().split(" ").join("-")}</span>
       </div>
-      <div className="bg-background-gray rounded-md -mt-5">
+      <div
+        className={`${
+          theme === ThemeOptions.CryptoCraze ? "bg-cc-dark" : "bg-background-gray"
+        } rounded-md -mt-5`}
+      >
         <Code lang="js" lineNumbers>
-          {`fetch("${url}")         
+          {theme === ThemeOptions.CryptoCraze
+            ? `fetch("${url}", {
+  headers: { "api-key": "YOUR_API_KEY" }
+})
+  .then((res) => res.json())
+  .then((json) => console.log(json))
+  .catch((error) => console.error(error))`
+            : `fetch("${url}")         
   .then((res) => res.json())
   .then((json) => console.log(json))
   .catch((error) => console.error(error))`}

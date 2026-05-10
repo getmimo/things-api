@@ -12,6 +12,7 @@ interface DocumentationPageProps {
   url: string;
   method: string;
   data: any;
+  valuesData?: any[];
   showValuesView?: boolean;
   categories: any;
   basePath: string;
@@ -22,6 +23,7 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
   url,
   method,
   data,
+  valuesData,
   showValuesView,
   categories,
   basePath,
@@ -30,6 +32,8 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
     ? ThemeOptions.StarWars
     : url.includes("pokedex")
     ? ThemeOptions.Pokemon
+    : url.includes("crypto-craze")
+    ? ThemeOptions.CryptoCraze
     : url.includes("things")
     ? ThemeOptions.Things
     : ThemeOptions.RickAndMorty;
@@ -39,14 +43,22 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
       ? require("../swapi/components/navbar").default
       : theme === ThemeOptions.Pokemon
       ? require("../pokedex/components/navbar").default
+      : theme === ThemeOptions.CryptoCraze
+      ? require("../cryptocraze/components/navbar").default
       : theme === ThemeOptions.Things
       ? require("../things/components/navbar").default
       : require("../rickandmorty/components/navbar").default;
 
+  const isCryptoCraze = theme === ThemeOptions.CryptoCraze;
+
   return (
     <>
       <Navbar />
-      <div className="flex flex-row items-start">
+      <div
+        className={`flex flex-row items-stretch ${
+          isCryptoCraze ? "min-h-[calc(100vh-3.5rem)] text-cc-dark" : ""
+        }`}
+      >
         <div className="w-56">
           <SidebarMenu
             selectedEndpoint={endpoint}
@@ -55,8 +67,8 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
           />
         </div>
         <main className="w-10/12 flex flex-col items-start justify-center rounded-md mt-24">
-          <div className="w-10/12 m-auto p-8 bg-white rounded-md">
-            <div className="w-full p-8 bg-white rounded-md">
+          <div className="w-10/12 m-auto p-8 rounded-md bg-white">
+            <div className="w-full p-8 rounded-md bg-white">
               <h1 className="text-3xl font-semibold mb-4">
                 Endpoint: {endpoint}
               </h1>
@@ -73,7 +85,7 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
               {showValuesView && (
                 <ValuesView
                   endpoint={endpoint}
-                  data={data}
+                  data={valuesData ?? data}
                   basePath={basePath}
                   theme={theme}
                 />

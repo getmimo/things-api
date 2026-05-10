@@ -11,7 +11,7 @@ export default function Home() {
           Explore the amazing world of RESTful APIs with Mimo
         </p>
       </div>
-      <div className="flex flex-col md:flex-row items-center md:space-x-8 space-y-8 md:space-y-0">
+      <div className="flex flex-col md:flex-row md:flex-wrap items-center justify-center md:space-x-8 space-y-8 md:space-y-0 max-w-5xl">
         <a
           href="/swapi"
           className="text-lg bg-white text-black py-2 px-4 rounded shadow-lg transform transition-transform hover:scale-105"
@@ -35,6 +35,12 @@ export default function Home() {
           className="text-lg bg-white text-black py-2 px-4 rounded shadow-lg transform transition-transform hover:scale-105"
         >
           Things API
+        </a>
+        <a
+          href="/cryptocraze"
+          className="text-lg bg-white text-black py-2 px-4 rounded shadow-lg transform transition-transform hover:scale-105"
+        >
+          Crypto Craze API
         </a>
       </div>
       <div className="fixed bottom-0 w-full">

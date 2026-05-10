@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
+const CRYPTO_CRAZE_API_KEY = "mimo-api-key-34d1-1g3f-27s1";
+
 export function middleware(request: NextRequest) {
   const { hostname, pathname } = request.nextUrl;
 
@@ -8,6 +10,7 @@ export function middleware(request: NextRequest) {
     "pokedex.mimo.dev": "/pokedex",
     "rickandmorty.mimo.dev": "/rickandmorty",
     "things.mimo.dev": "/things",
+    "crypto-craze.mimo.dev": "/cryptocraze",
   };
 
   const apiPrefix = "/api";
@@ -18,6 +21,25 @@ export function middleware(request: NextRequest) {
     const url = request.nextUrl.clone();
 
     if (pathname.startsWith(apiPrefix)) {
+      // Crypto Craze requires a fake API key for any /api request
+      if (hostname === "crypto-craze.mimo.dev") {
+        const apiKey = request.headers.get("api-key");
+        if (apiKey !== CRYPTO_CRAZE_API_KEY) {
+          return new NextResponse(
+            JSON.stringify({ error: "Missing or invalid API key." }),
+            {
+              status: 401,
+              headers: {
+                "Content-Type": "application/json",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "*",
+                "Access-Control-Allow-Headers": "*",
+              },
+            }
+          );
+        }
+      }
+
       // Rewrite the API path to include the base path
       url.pathname = `${apiPrefix}${basePath}${pathname.slice(
         apiPrefix.length
