@@ -44,7 +44,7 @@ export default function Home() {
         </a>
       </div>
       <div className="fixed bottom-0 w-full">
-        <Footer />
+        <Footer logoClassName="text-white" />
       </div>
     </main>
   );

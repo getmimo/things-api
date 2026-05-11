@@ -1,21 +1,53 @@
-import React from "react";
-import Image from "next/image";
+type FooterProps = {
+  logoClassName?: string;
+};
 
-const Footer: React.FC = () => {
+export default function Footer({ logoClassName = "text-[#7E4BDE]" }: FooterProps) {
   return (
     <footer className="w-full p-4 flex justify-end">
-      <a href="https://mimo.org" className="flex items-center">
-        Provided by{" "}
-        <Image
-          src="/Mimo.svg"
-          alt="Mimo Logo"
-          className="h-5 m-2"
-          width={60}
-          height={20}
-        />
+      <a href="https://mimo.org" className="flex items-end">
+        <span className="relative top-[2px] leading-none">Provided by</span>
+        <MimoLogo className={`block h-4 w-auto ml-2 ${logoClassName}`} />
       </a>
     </footer>
   );
-};
+}
 
-export default Footer;
+function MimoLogo({ className }: { className: string }) {
+  return (
+    <svg
+      width="372"
+      height="104"
+      viewBox="0 0 372 104"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      className={className}
+      role="img"
+      aria-label="Mimo Logo"
+    >
+      <g clipPath="url(#mimo-logo-clip)">
+        <path
+          d="M129.399 19.4008V0H151.978V19.4008H129.399ZM130.123 101.034V29.1917H151.383V101.086H130.123V101.034Z"
+          fill="currentColor"
+        />
+        <path
+          d="M170.138 101.06V29.1917H190.676V39.5509C192.252 36.8642 194.137 34.5909 196.437 32.705C198.736 30.8192 201.216 29.3984 203.954 28.3909C206.692 27.3834 209.586 26.8925 212.712 26.8925C217.465 26.8925 221.624 28.055 225.112 30.3542C228.625 32.6534 231.467 35.7792 233.714 39.7059C236.814 35.2109 240.379 31.93 244.435 29.915C248.439 27.9 253.037 26.8925 258.23 26.8925C262.906 26.8925 266.987 27.7967 270.552 29.5533C274.092 31.31 276.933 34.2034 279.077 38.1042C281.222 42.0309 282.281 47.0167 282.281 53.0359V101.034H260.865V57.35C260.865 52.855 259.883 49.4967 257.946 47.3525C256.008 45.1825 253.27 44.1234 249.782 44.1234C245.985 44.1234 243.117 45.2084 241.102 47.3525C239.087 49.4967 237.847 52.0025 237.382 54.7667C236.917 57.5309 236.659 60.6567 236.659 64.1184V101.06H215.682V57.35C215.682 52.855 214.701 49.4967 212.763 47.3525C210.826 45.1825 208.087 44.1234 204.6 44.1234C200.699 44.1234 197.806 45.2084 195.842 47.3525C193.905 49.5225 192.665 51.9509 192.2 54.6892C191.735 57.4275 191.477 60.5534 191.477 64.1184V101.06H170.164H170.138Z"
+          fill="currentColor"
+        />
+        <path
+          d="M0 26.8925H45.2083V44.0975H66.65V26.8925H90.8042V44.0975H112.323V101.086H90.8042V44.0717H66.65V101.06H45.2083V44.0717H21.235V101.06H0V26.8925Z"
+          fill="currentColor"
+        />
+        <path
+          d="M333.328 26.8409C311.963 26.8409 294.655 43.9684 294.655 65.1001C294.655 86.2317 310.646 103.359 333.328 103.359C356.009 103.359 372 86.2317 372 65.1001C372 43.9684 354.692 26.8409 333.328 26.8409ZM333.328 85.7409C322.994 85.7409 314.598 76.4925 314.598 65.0742C314.598 53.6559 322.994 44.4075 333.328 44.4075C343.661 44.4075 352.057 53.6559 352.057 65.0742C352.057 76.4925 343.661 85.7409 333.328 85.7409Z"
+          fill="currentColor"
+        />
+      </g>
+      <defs>
+        <clipPath id="mimo-logo-clip">
+          <rect width="372" height="103.333" fill="white" />
+        </clipPath>
+      </defs>
+    </svg>
+  );
+}
