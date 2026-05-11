@@ -21,17 +21,19 @@ export default async function StarWarsAPI() {
   return (
     <>
       <Navbar />
-      <main className="flex flex-col items-center justify-center p-12 text-star-wars-yellow">
-        <h1 className="text-5xl font-bold mb-6 font-russo-one">SWAPI</h1>
-        <h2 className="text-3xl font-semibold mb-8 -mt-4 font-russo-one">
+      <main className="flex flex-col items-center justify-center p-12 text-black">
+        <h1 className="mb-6 font-russo-one text-2xl font-semibold text-black underline decoration-sw-yellow decoration-4 underline-offset-4 text-pretty md:text-3xl">
+          SWAPI
+        </h1>
+        <h2 className="-mt-4 mb-8 font-russo-one text-xl font-semibold text-black text-pretty md:text-2xl">
           by Mimo
         </h2>
-        <p className="w-11/12 text-lg mb-4 font-russo-one">
+        <p className="mb-4 w-11/12 text-lg font-russo-one text-pretty">
           Welcome to the Star Wars API documentation. Here, you can find
           information on how to use the API.
         </p>
         <section className="w-11/12 m-auto">
-          <h2 className="text-3xl font-semibold mt-8 mb-2 font-russo-one">
+          <h2 className="mb-2 mt-8 font-russo-one text-xl font-semibold text-black text-pretty md:text-2xl">
             Example Request
           </h2>
           <FetchView
@@ -40,7 +42,7 @@ export default async function StarWarsAPI() {
             url={url.toString()}
             theme={ThemeOptions.StarWars}
           />
-          <h2 className="text-3xl font-semibold mt-8 mb-2 font-russo-one">
+          <h2 className="mb-2 mt-8 font-russo-one text-xl font-semibold text-black text-pretty md:text-2xl">
             Example Response
           </h2>
           <ResponseView data={data} theme={ThemeOptions.StarWars} />

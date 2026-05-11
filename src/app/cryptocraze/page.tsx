@@ -42,8 +42,12 @@ export default async function CryptoCrazeAPI() {
     <>
       <Navbar />
       <main className="flex flex-col items-center justify-center p-12 text-cc-dark">
-        <h1 className="text-5xl font-bold mb-2">Crypto Craze</h1>
-        <h2 className="text-3xl font-semibold mb-4">by Mimo</h2>
+        <h1 className="mb-4 text-2xl font-semibold text-cc-dark underline decoration-cc-gold decoration-4 underline-offset-4 text-pretty md:text-3xl">
+          Crypto Craze
+        </h1>
+        <h2 className="mb-4 text-xl font-semibold text-cc-dark text-pretty md:text-2xl">
+          by Mimo
+        </h2>
         <p className="w-11/12 text-lg mb-2 text-pretty text-center">
           Welcome to the Crypto Craze API. Real coins. Fake prices. Real API
           practice.
@@ -54,14 +58,18 @@ export default async function CryptoCrazeAPI() {
           header.
         </p>
         <section className="w-11/12 m-auto">
-          <h2 className="text-3xl font-semibold mt-8 mb-2">Example Request</h2>
+          <h2 className="mb-2 mt-8 text-xl font-semibold text-cc-dark text-pretty md:text-2xl">
+            Example Request
+          </h2>
           <FetchView
             endpoint={endpoint}
             method={method}
             url={displayUrl.toString()}
             theme={ThemeOptions.CryptoCraze}
           />
-          <h2 className="text-3xl font-semibold mt-8 mb-2">Example Response</h2>
+          <h2 className="mb-2 mt-8 text-xl font-semibold text-cc-dark text-pretty md:text-2xl">
+            Example Response
+          </h2>
           <ResponseView data={data} theme={ThemeOptions.CryptoCraze} />
         </section>
       </main>

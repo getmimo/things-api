@@ -53,7 +53,11 @@ const FetchView: React.FC<CodeViewProps> = ({
       </div>
       <div
         className={`${
-          theme === ThemeOptions.CryptoCraze ? "bg-cc-dark" : "bg-background-gray"
+          theme === ThemeOptions.CryptoCraze
+            ? "bg-cc-dark"
+            : theme === ThemeOptions.Things
+            ? "bg-background-gray"
+            : "bg-background-gray"
         } rounded-md -mt-5`}
       >
         <Code lang="js" lineNumbers>

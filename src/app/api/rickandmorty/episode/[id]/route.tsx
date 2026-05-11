@@ -6,5 +6,5 @@ export async function GET(
   request: Request,
   { params }: { params: { id: string } }
 ) {
-  return fetchData(request, "rickandmorty/character", params.id);
+  return fetchData(request, "rickandmorty/episode", params.id);
 }

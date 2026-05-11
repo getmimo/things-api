@@ -10,7 +10,7 @@ export default async function Documentation({
 }) {
   const { endpoint } = params;
   const method = "GET";
-  const url = new URL(`https://pokedex.mimo.dev/api/${endpoint}`);
+  const url = new URL(`https://rickandmorty.mimo.dev/api/${endpoint}`);
   const response = await fetch(url);
   const data: any = response.ok ? await response.json() : null;
 
@@ -22,7 +22,7 @@ export default async function Documentation({
       data={data}
       showValuesView={true}
       categories={categories}
-      basePath={`pokedex`}
+      basePath="rickandmorty"
     />
   );
 }

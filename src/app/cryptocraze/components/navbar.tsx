@@ -8,23 +8,24 @@ function Navbar() {
   const pathname = usePathname();
 
   return (
-    <nav className="navbar flex justify-between p-4 sticky top-0 h-14 bg-cc-dark text-cc-gold border-b border-cc-gold/30 z-10">
-      <div className="navbar-brand text-3xl">
+    <nav className="navbar sticky top-0 z-10 flex h-14 items-center justify-between gap-2 border-b border-cc-gold/30 bg-cc-dark px-3 py-2 text-cc-gold sm:px-4">
+      <div className="navbar-brand min-w-0 text-lg md:text-3xl">
         <Link
           href="/cryptocraze"
           className="flex align-middle font-bold text-cc-gold"
         >
-          Crypto Craze API by Mimo
+          <span className="truncate md:hidden">Crypto Craze</span>
+          <span className="hidden md:inline">Crypto Craze API by Mimo</span>
         </Link>
       </div>
-      <div className="navbar-end h-full flex items-center text-xl">
+      <div className="navbar-end flex shrink-0 items-center gap-1 text-sm sm:text-xl">
         <Link
           href="/cryptocraze"
           className={`${
             pathname === "/cryptocraze" || pathname === "/"
               ? "underline decoration-2 underline-offset-2 decoration-cc-gold"
               : ""
-          } px-2 py-1 mr-2 hover:bg-cc-gold hover:text-cc-dark rounded-md`}
+          } rounded-md px-2 py-1 hover:bg-cc-gold hover:text-cc-dark`}
         >
           Home
         </Link>
@@ -34,9 +35,10 @@ function Navbar() {
             pathname.startsWith("/cryptocraze/documentation")
               ? "underline decoration-2 underline-offset-2 decoration-cc-gold"
               : ""
-          } px-2 py-1 hover:bg-cc-gold hover:text-cc-dark rounded-md`}
+          } rounded-md px-2 py-1 hover:bg-cc-gold hover:text-cc-dark`}
         >
-          Documentation
+          <span className="sm:hidden">Docs</span>
+          <span className="hidden sm:inline">Documentation</span>
         </Link>
       </div>
     </nav>

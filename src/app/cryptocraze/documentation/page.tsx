@@ -8,18 +8,19 @@ function Documentation() {
   return (
     <>
       <Navbar />
-      <div className="flex flex-row items-stretch min-h-[calc(100vh-3.5rem)] text-cc-dark">
-        <div className="w-56">
+      <div className="flex min-h-[calc(100vh-3.5rem)] flex-col text-cc-dark sm:flex-row sm:items-stretch">
+        <div className="w-full sm:flex sm:w-56 sm:self-stretch">
           <SidebarMenu
             selectedEndpoint={null}
             categories={categories}
             basePath="cryptocraze"
           />
         </div>
-        <main className="w-10/12 flex flex-col items-start justify-center rounded-md mt-24">
-          <div className="w-10/12 m-auto p-8 bg-white rounded-md">
-            <div className="w-full p-8 bg-white rounded-md">
-              <h1 className="text-2xl font-bold mb-4 text-pretty">
+        <div className="flex min-w-0 flex-1 flex-col">
+          <main className="mt-6 flex flex-1 flex-col items-start justify-start rounded-md px-4 md:mt-24 md:justify-center md:px-0">
+          <div className="m-auto w-full rounded-md bg-white p-4 md:w-10/12 md:p-8">
+            <div className="w-full rounded-md bg-white p-4 md:p-8">
+              <h1 className="mb-4 text-3xl font-bold text-cc-dark underline decoration-cc-gold decoration-4 underline-offset-4 text-pretty">
                 General information
               </h1>
               <p className="text-pretty mb-4">
@@ -27,7 +28,7 @@ function Documentation() {
                 are real, but all prices, market caps, and price changes are
                 fictional and made for coding practice.
               </p>
-              <h2 className="text-xl font-bold mb-2 text-pretty">
+              <h2 className="mb-2 text-2xl font-bold text-cc-dark text-pretty">
                 Authentication
               </h2>
               <p className="text-pretty mb-2">
@@ -55,9 +56,10 @@ function Documentation() {
               </p>
             </div>
           </div>
-        </main>
+          </main>
+          <Footer />
+        </div>
       </div>
-      <Footer />
     </>
   );
 }

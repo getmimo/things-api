@@ -1,33 +1,35 @@
 import React from "react";
 import Navbar from "../components/navbar";
 import SidebarMenu from "../../components/sidebarMenu";
-import Footer from "@/app/components/footer";
+import Footer from "../../components/footer";
 import { categories } from "../data/categories";
 
 const Documentation = () => {
   return (
     <>
       <Navbar />
-      <div className="flex flex-row items-start">
-        <div className="w-56">
+      <div className="flex min-h-[calc(100vh-3.5rem)] flex-col sm:flex-row sm:items-stretch">
+        <div className="w-full sm:flex sm:w-56 sm:self-stretch">
           <SidebarMenu
             selectedEndpoint={null}
             categories={categories}
-            basePath="pokedex"
+            basePath="rickandmorty"
           />
         </div>
-        <main className="w-10/12 flex flex-col items-start justify-center rounded-md mt-24">
-          <div className="w-10/12 m-auto p-8 bg-white rounded-md">
-            <div className="w-full p-8 bg-white rounded-md">
-              <h1 className="text-2xl font-press-start font-bold mb-4">
+        <div className="flex min-w-0 flex-1 flex-col">
+          <main className="mt-6 flex flex-1 flex-col items-start justify-start rounded-md px-4 md:mt-24 md:justify-center md:px-0">
+          <div className="m-auto w-full rounded-md bg-white p-4 md:w-10/12 md:p-8">
+            <div className="w-full rounded-md bg-white p-4 md:p-8">
+              <h1 className="mb-4 font-creepster text-4xl font-bold text-black underline decoration-rm-green decoration-4 underline-offset-4 text-pretty">
                 General information
               </h1>
               <p>
-                Welcome to the Pokedex API documentation! You can use the API
-                without any limitations. Feel free to explore usage examples at{" "}
+                Welcome to the Rick and Morty API documentation! You can use the
+                API without any limitations. Feel free to explore usage examples
+                at{" "}
                 <a
                   href="https://mimo.org"
-                  className="text-blue-500 hover:underline"
+                  className="text-black underline decoration-rm-green decoration-2 underline-offset-2 hover:bg-rm-green"
                 >
                   https://mimo.org
                 </a>
@@ -35,9 +37,10 @@ const Documentation = () => {
               </p>
             </div>
           </div>
-        </main>
+          </main>
+          <Footer />
+        </div>
       </div>
-      <Footer />
     </>
   );
 };

@@ -31,6 +31,7 @@ const ResponseView: React.FC<ResponseViewProps> = ({ data, theme }) => {
       case ThemeOptions.RickAndMorty:
         return "bg-black";
       case ThemeOptions.Pokemon:
+        return "bg-background-gray";
       case ThemeOptions.Things:
         return "bg-background-gray";
       case ThemeOptions.CryptoCraze:
@@ -43,7 +44,7 @@ const ResponseView: React.FC<ResponseViewProps> = ({ data, theme }) => {
   return (
     <>
       <div
-        className={`${getBgColor()} text-white p-2 h-12 w-fit rounded flex items-center`}
+          className={`${getBgColor()} text-white p-2 h-12 w-fit rounded flex items-center`}
       >
         response.json
       </div>

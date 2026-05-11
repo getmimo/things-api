@@ -15,6 +15,11 @@ export function middleware(request: NextRequest) {
 
   const apiPrefix = "/api";
   const dataPrefix = "/data";
+  const staticAssetPattern = /\.[^/]+$/;
+
+  if (pathname.startsWith("/_next") || staticAssetPattern.test(pathname)) {
+    return NextResponse.next();
+  }
 
   if (rewriteMap[hostname]) {
     const basePath = rewriteMap[hostname];

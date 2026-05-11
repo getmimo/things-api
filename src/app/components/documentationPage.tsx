@@ -55,48 +55,84 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
     <>
       <Navbar />
       <div
-        className={`flex flex-row items-stretch ${
-          isCryptoCraze ? "min-h-[calc(100vh-3.5rem)] text-cc-dark" : ""
+        className={`flex min-h-[calc(100vh-3.5rem)] flex-col sm:flex-row sm:items-stretch ${
+          isCryptoCraze ? "text-cc-dark" : ""
         }`}
       >
-        <div className="w-56">
+        <div className="w-full sm:flex sm:w-56 sm:self-stretch">
           <SidebarMenu
             selectedEndpoint={endpoint}
             categories={categories}
             basePath={basePath}
           />
         </div>
-        <main className="w-10/12 flex flex-col items-start justify-center rounded-md mt-24">
-          <div className="w-10/12 m-auto p-8 rounded-md bg-white">
-            <div className="w-full p-8 rounded-md bg-white">
-              <h1 className="text-3xl font-semibold mb-4">
-                Endpoint: {endpoint}
-              </h1>
-              <EndpointView url={url} method={method} theme={theme} />
-              <h2 className="text-3xl font-semibold mt-8 mb-2">Request</h2>
-              <FetchView
-                endpoint={endpoint}
-                method={method}
-                url={url}
-                theme={theme}
-              />
-              <h2 className="text-3xl font-semibold mt-8 mb-2">Response</h2>
-              {data && <ResponseView data={data} theme={theme} />}
-              {showValuesView && (
-                <ValuesView
+        <div className="flex min-w-0 flex-1 flex-col">
+          <main className="mt-6 flex flex-1 flex-col items-start justify-start rounded-md px-4 md:mt-24 md:justify-center md:px-0">
+            <div className="m-auto w-full rounded-md bg-white p-4 md:w-10/12 md:p-8">
+              <div className="w-full rounded-md bg-white p-4 md:p-8">
+                <h1 className={`mb-4 ${getHeadingClassName(theme)}`}>
+                  Endpoint: {endpoint}
+                </h1>
+                <EndpointView url={url} method={method} theme={theme} />
+                <h2 className={`mb-2 mt-8 ${getSubheadingClassName(theme)}`}>
+                  Request
+                </h2>
+                <FetchView
                   endpoint={endpoint}
-                  data={valuesData ?? data}
-                  basePath={basePath}
+                  method={method}
+                  url={url}
                   theme={theme}
                 />
-              )}
+                <h2 className={`mb-2 mt-8 ${getSubheadingClassName(theme)}`}>
+                  Response
+                </h2>
+                {data && <ResponseView data={data} theme={theme} />}
+                {showValuesView && (
+                  <ValuesView
+                    endpoint={endpoint}
+                    data={valuesData ?? data}
+                    basePath={basePath}
+                    theme={theme}
+                  />
+                )}
+              </div>
             </div>
-          </div>
-        </main>
+          </main>
+          <Footer />
+        </div>
       </div>
-      <Footer />
     </>
   );
 };
+
+function getHeadingClassName(theme: ThemeOptions) {
+  switch (theme) {
+    case ThemeOptions.StarWars:
+      return "font-russo-one text-2xl font-semibold text-black underline decoration-sw-yellow decoration-4 underline-offset-4 text-pretty md:text-3xl";
+    case ThemeOptions.Pokemon:
+      return "font-press-start text-base font-semibold leading-relaxed text-pokemon-blue text-pretty md:text-xl";
+    case ThemeOptions.RickAndMorty:
+      return "font-creepster text-3xl font-semibold text-black underline decoration-rm-green decoration-4 underline-offset-4 text-pretty md:text-4xl";
+    case ThemeOptions.Things:
+      return "text-2xl font-semibold text-gray-900 text-pretty md:text-3xl";
+    case ThemeOptions.CryptoCraze:
+      return "text-2xl font-semibold text-cc-dark underline decoration-cc-gold decoration-4 underline-offset-4 text-pretty md:text-3xl";
+  }
+}
+
+function getSubheadingClassName(theme: ThemeOptions) {
+  switch (theme) {
+    case ThemeOptions.StarWars:
+      return "font-russo-one text-xl font-semibold text-black text-pretty md:text-2xl";
+    case ThemeOptions.Pokemon:
+      return "font-press-start text-sm font-semibold leading-relaxed text-pokemon-blue text-pretty md:text-lg";
+    case ThemeOptions.RickAndMorty:
+      return "font-creepster text-2xl font-semibold text-black text-pretty md:text-3xl";
+    case ThemeOptions.Things:
+      return "text-xl font-semibold text-gray-900 text-pretty md:text-2xl";
+    case ThemeOptions.CryptoCraze:
+      return "text-xl font-semibold text-cc-dark text-pretty md:text-2xl";
+  }
+}
 
 export default DocumentationPage;

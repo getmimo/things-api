@@ -14,9 +14,9 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       fontFamily: {
-        "press-start": ['"Press Start 2P"', "sans-serif"],
-        "russo-one": ['"Russo One"', "sans-serif"],
-        creepster: ['"Creepster"', "cursive"],
+        "press-start": ["var(--font-press-start)", "sans-serif"],
+        "russo-one": ["var(--font-russo-one)", "sans-serif"],
+        creepster: ["var(--font-creepster)", "cursive"],
       },
       colors: {
         "pokemon-yellow": "#FFCB05",

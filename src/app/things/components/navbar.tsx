@@ -8,20 +8,21 @@ const Navbar = () => {
   const pathname = usePathname();
 
   return (
-    <nav className="navbar flex justify-between p-4 sticky top-0 h-14 bg-white text-black">
-      <div className="navbar-brand text-3xl">
+    <nav className="navbar sticky top-0 z-10 flex h-14 items-center justify-between gap-2 border-b border-gray-200 bg-white px-3 py-2 text-black sm:px-4">
+      <div className="navbar-brand min-w-0 text-lg sm:text-3xl">
         <Link href="/things" className="flex align-middle font-bold text-black">
-          Things API by Mimo
+          <span className="truncate sm:hidden">Things</span>
+          <span className="hidden sm:inline">Things API by Mimo</span>
         </Link>
       </div>
-      <div className="navbar-end h-full flex items-center text-xl text-black">
+      <div className="navbar-end flex shrink-0 items-center gap-1 text-sm text-black sm:text-xl">
         <Link
           href="/things"
           className={`${
             pathname === "/things" || pathname === "/"
               ? "underline decoration-2 underline-offset-2 decoration-black"
               : ""
-          } px-2 py-1 mr-2 hover:bg-black hover:text-white rounded-md`}
+          } rounded-md px-2 py-1 hover:bg-black hover:text-white`}
         >
           Home
         </Link>
@@ -31,9 +32,10 @@ const Navbar = () => {
             pathname.startsWith("/things/documentation")
               ? "underline decoration-2 underline-offset-2 decoration-black"
               : ""
-          } px-2 py-1 hover:bg-black hover:text-white rounded-md`}
+          } rounded-md px-2 py-1 hover:bg-black hover:text-white`}
         >
-          Documentation
+          <span className="sm:hidden">Docs</span>
+          <span className="hidden sm:inline">Documentation</span>
         </Link>
       </div>
     </nav>

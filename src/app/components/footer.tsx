@@ -1,10 +1,14 @@
 type FooterProps = {
+  className?: string;
   logoClassName?: string;
 };
 
-export default function Footer({ logoClassName = "text-[#7E4BDE]" }: FooterProps) {
+export default function Footer({
+  className = "",
+  logoClassName = "text-[#7E4BDE]",
+}: FooterProps) {
   return (
-    <footer className="w-full p-4 flex justify-end">
+    <footer className={`w-full p-4 flex justify-end ${className}`}>
       <a href="https://mimo.org" className="flex items-end">
         <span className="relative top-[2px] leading-none">Provided by</span>
         <MimoLogo className={`block h-4 w-auto ml-2 ${logoClassName}`} />

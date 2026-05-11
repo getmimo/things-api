@@ -28,20 +28,26 @@ export default async function RickAndMortyAPI() {
           width="560"
           height="280"
         />
-        <h2 className="text-3xl font-semibold mb-8 -mt-4">by Mimo</h2>
-        <p className="w-11/12 text-lg mb-4">
+        <h2 className="-mt-4 mb-8 font-creepster text-2xl font-semibold text-black text-pretty md:text-3xl">
+          by Mimo
+        </h2>
+        <p className="mb-4 w-11/12 text-lg text-pretty">
           Welcome to the Rick and Morty API documentation. Here, you can find
           information on how to use the API.
         </p>
         <section className="w-11/12 m-auto">
-          <h2 className="text-3xl font-semibold mt-8 mb-2">Example Request</h2>
+          <h2 className="mb-2 mt-8 font-creepster text-2xl font-semibold text-black text-pretty md:text-3xl">
+            Example Request
+          </h2>
           <FetchView
             endpoint={endpoint}
             method={method}
             url={url.toString()}
             theme={ThemeOptions.RickAndMorty}
           />
-          <h2 className="text-3xl font-semibold mt-8 mb-2">Example Response</h2>
+          <h2 className="mb-2 mt-8 font-creepster text-2xl font-semibold text-black text-pretty md:text-3xl">
+            Example Response
+          </h2>
           <ResponseView data={data} theme={ThemeOptions.RickAndMorty} />
         </section>
       </main>

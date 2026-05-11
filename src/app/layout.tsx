@@ -1,7 +1,22 @@
-import { Inter } from "next/font/google";
+import { Creepster, Inter, Press_Start_2P, Russo_One } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
+const creepster = Creepster({
+  subsets: ["latin"],
+  weight: "400",
+  variable: "--font-creepster",
+});
+const pressStart = Press_Start_2P({
+  subsets: ["latin"],
+  weight: "400",
+  variable: "--font-press-start",
+});
+const russoOne = Russo_One({
+  subsets: ["latin"],
+  weight: "400",
+  variable: "--font-russo-one",
+});
 
 export default function RootLayout({
   children,
@@ -9,12 +24,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="bg-white">
-      <link
-        href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Syne+Mono&family=Ubuntu+Mono&family=Russo+One&family=Creepster&display=swap"
-        rel="stylesheet"
-      />
-      <body className={`${inter.className}`}>{children}</body>
+    <html
+      lang="en"
+      className={`bg-white ${creepster.variable} ${pressStart.variable} ${russoOne.variable}`}
+    >
+      <body className={inter.className}>{children}</body>
     </html>
   );
 }
