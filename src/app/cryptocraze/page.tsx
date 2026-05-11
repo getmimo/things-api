@@ -6,6 +6,8 @@ import ResponseView from "../components/responseView";
 import Footer from "../components/footer";
 import { ThemeOptions } from "../utils/themeOptions";
 
+export const runtime = "edge";
+
 export const metadata: Metadata = {
   title: "Crypto Craze API by Mimo",
   description:
