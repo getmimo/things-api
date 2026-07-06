@@ -28,6 +28,8 @@ const config: Config = {
         "things-yellow": "#FFCB05",
         "cc-gold": "#F7931A",
         "cc-dark": "#0A0E10",
+        "airports-blue": "#075985",
+        "airports-sky": "#38BDF8",
       },
     },
   },

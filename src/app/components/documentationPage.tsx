@@ -14,6 +14,8 @@ interface DocumentationPageProps {
   data: any;
   valuesData?: any[];
   showValuesView?: boolean;
+  paginationNote?: React.ReactNode;
+  endpointDescription?: React.ReactNode;
   categories: any;
   basePath: string;
 }
@@ -25,6 +27,8 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
   data,
   valuesData,
   showValuesView,
+  paginationNote,
+  endpointDescription,
   categories,
   basePath,
 }) => {
@@ -34,6 +38,8 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
     ? ThemeOptions.Pokemon
     : url.includes("crypto-craze")
     ? ThemeOptions.CryptoCraze
+    : url.includes("airports")
+    ? ThemeOptions.Airports
     : url.includes("things")
     ? ThemeOptions.Things
     : ThemeOptions.RickAndMorty;
@@ -45,6 +51,8 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
       ? require("../pokedex/components/navbar").default
       : theme === ThemeOptions.CryptoCraze
       ? require("../cryptocraze/components/navbar").default
+      : theme === ThemeOptions.Airports
+      ? require("../airports/components/navbar").default
       : theme === ThemeOptions.Things
       ? require("../things/components/navbar").default
       : require("../rickandmorty/components/navbar").default;
@@ -73,7 +81,17 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
                 <h1 className={`mb-4 ${getHeadingClassName(theme)}`}>
                   Endpoint: {endpoint}
                 </h1>
+                {endpointDescription && (
+                  <p className="mb-4 text-sm leading-6 text-gray-600 text-pretty">
+                    {endpointDescription}
+                  </p>
+                )}
                 <EndpointView url={url} method={method} theme={theme} />
+                {paginationNote && (
+                  <div className="mt-4 rounded-md border border-gray-200 bg-gray-50 p-4 text-sm leading-6 text-gray-700">
+                    {paginationNote}
+                  </div>
+                )}
                 <h2 className={`mb-2 mt-8 ${getSubheadingClassName(theme)}`}>
                   Request
                 </h2>
@@ -117,6 +135,8 @@ function getHeadingClassName(theme: ThemeOptions) {
       return "text-2xl font-semibold text-gray-900 text-pretty md:text-3xl";
     case ThemeOptions.CryptoCraze:
       return "text-2xl font-semibold text-cc-dark underline decoration-cc-gold decoration-4 underline-offset-4 text-pretty md:text-3xl";
+    case ThemeOptions.Airports:
+      return "text-2xl font-semibold text-airports-blue underline decoration-airports-sky decoration-4 underline-offset-4 text-pretty md:text-3xl";
   }
 }
 
@@ -132,6 +152,8 @@ function getSubheadingClassName(theme: ThemeOptions) {
       return "text-xl font-semibold text-gray-900 text-pretty md:text-2xl";
     case ThemeOptions.CryptoCraze:
       return "text-xl font-semibold text-cc-dark text-pretty md:text-2xl";
+    case ThemeOptions.Airports:
+      return "text-xl font-semibold text-airports-blue text-pretty md:text-2xl";
   }
 }
 

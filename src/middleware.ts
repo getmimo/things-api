@@ -4,6 +4,8 @@ const CRYPTO_CRAZE_API_KEY = "mimo-api-key-34d1-1g3f-27s1";
 
 export function middleware(request: NextRequest) {
   const { hostname, pathname } = request.nextUrl;
+  const requestHost =
+    request.headers.get("host")?.split(":")[0].toLowerCase() ?? hostname;
 
   const rewriteMap: { [key: string]: string } = {
     "swapi.mimo.dev": "/swapi",
@@ -11,6 +13,7 @@ export function middleware(request: NextRequest) {
     "rickandmorty.mimo.dev": "/rickandmorty",
     "things.mimo.dev": "/things",
     "crypto-craze.mimo.dev": "/cryptocraze",
+    "airports.mimo.dev": "/airports",
   };
 
   const apiPrefix = "/api";
@@ -21,13 +24,14 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  if (rewriteMap[hostname]) {
-    const basePath = rewriteMap[hostname];
+  const basePath = rewriteMap[hostname] ?? rewriteMap[requestHost];
+
+  if (basePath) {
     const url = request.nextUrl.clone();
 
     if (pathname.startsWith(apiPrefix)) {
       // Crypto Craze requires a fake API key for any /api request
-      if (hostname === "crypto-craze.mimo.dev") {
+      if (requestHost === "crypto-craze.mimo.dev") {
         const apiKey = request.headers.get("api-key");
         if (apiKey !== CRYPTO_CRAZE_API_KEY) {
           return new NextResponse(

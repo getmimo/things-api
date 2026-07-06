@@ -50,6 +50,8 @@ function SidebarMenu({
     ? "things"
     : basePath.includes("cryptocraze")
     ? "cryptocraze"
+    : basePath.includes("airports")
+    ? "airports"
     : basePath.includes("rickandmorty")
     ? "rickandmorty"
     : "pokemon";
@@ -77,6 +79,14 @@ function SidebarMenu({
           hover: "hover:bg-gray-100 hover:text-black hover:decoration-black",
           decoration: "decoration-black",
           text: "text-gray-700",
+        };
+      case "airports":
+        return {
+          bg: "bg-white border-r border-gray-200",
+          hover:
+            "hover:bg-airports-blue hover:text-white hover:decoration-airports-sky",
+          decoration: "decoration-airports-sky",
+          text: "text-airports-blue",
         };
       case "rickandmorty":
         return {

@@ -27,6 +27,7 @@ function ValuesView({
           href={`/${basePath}/documentation/${endpoint}/${
             // TODO: generally use id for all APIs
             theme === ThemeOptions.Things ||
+            theme === ThemeOptions.Airports ||
             theme === ThemeOptions.CryptoCraze ||
             theme === ThemeOptions.RickAndMorty
               ? item.id
@@ -65,6 +66,8 @@ function getValueLinkClassName(theme: ThemeOptions) {
       return "border border-gray-200 bg-white text-gray-700 shadow-sm hover:border-gray-300 hover:bg-gray-100 hover:text-black";
     case ThemeOptions.CryptoCraze:
       return "border border-cc-gold bg-cc-dark text-cc-gold hover:bg-cc-gold hover:text-cc-dark";
+    case ThemeOptions.Airports:
+      return "border border-airports-sky bg-white text-airports-blue hover:bg-airports-blue hover:text-white";
   }
 }
 

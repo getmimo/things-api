@@ -5,6 +5,7 @@ import { draculaAlteredForPokemon } from "../editorThemePokemon";
 import { draculaAlteredForRickAndMorty } from "../editorThemeRickAndMorty";
 import { draculaAlteredForThings } from "../editorThemeThings";
 import { draculaAlteredForCryptoCraze } from "../editorThemeCryptoCraze";
+import { draculaAlteredForAirports } from "../editorThemeAirports";
 import { ThemeOptions } from "../utils/themeOptions";
 
 interface CodeViewProps {
@@ -27,6 +28,8 @@ const FetchView: React.FC<CodeViewProps> = ({
       ? draculaAlteredForPokemon
       : theme === ThemeOptions.Things
       ? draculaAlteredForThings
+      : theme === ThemeOptions.Airports
+      ? draculaAlteredForAirports
       : theme === ThemeOptions.CryptoCraze
       ? draculaAlteredForCryptoCraze
       : draculaAlteredForRickAndMorty;
@@ -42,6 +45,8 @@ const FetchView: React.FC<CodeViewProps> = ({
             ? "bg-background-gray"
             : theme === ThemeOptions.Things
             ? "bg-background-gray"
+            : theme === ThemeOptions.Airports
+            ? "bg-airports-blue"
             : theme === ThemeOptions.CryptoCraze
             ? "bg-cc-dark"
             : "bg-black"
@@ -55,6 +60,8 @@ const FetchView: React.FC<CodeViewProps> = ({
         className={`${
           theme === ThemeOptions.CryptoCraze
             ? "bg-cc-dark"
+            : theme === ThemeOptions.Airports
+            ? "bg-airports-blue"
             : theme === ThemeOptions.Things
             ? "bg-background-gray"
             : "bg-background-gray"

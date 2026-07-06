@@ -43,6 +43,12 @@ export default function Home() {
           >
             Crypto Craze API
           </a>
+          <a
+            href="/airports"
+            className="text-lg bg-white text-black py-2 px-4 rounded shadow-lg transform transition-transform hover:scale-105"
+          >
+            Airports API
+          </a>
         </div>
       </div>
       <Footer className="shrink-0" logoClassName="text-white" />

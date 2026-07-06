@@ -5,6 +5,7 @@ import { draculaAlteredForPokemon } from "../editorThemePokemon";
 import { draculaAlteredForRickAndMorty } from "../editorThemeRickAndMorty";
 import { draculaAlteredForThings } from "../editorThemeThings";
 import { draculaAlteredForCryptoCraze } from "../editorThemeCryptoCraze";
+import { draculaAlteredForAirports } from "../editorThemeAirports";
 import { ThemeOptions } from "../utils/themeOptions";
 
 interface ResponseViewProps {
@@ -20,6 +21,8 @@ const ResponseView: React.FC<ResponseViewProps> = ({ data, theme }) => {
       ? draculaAlteredForPokemon
       : theme === ThemeOptions.Things
       ? draculaAlteredForThings
+      : theme === ThemeOptions.Airports
+      ? draculaAlteredForAirports
       : theme === ThemeOptions.CryptoCraze
       ? draculaAlteredForCryptoCraze
       : draculaAlteredForRickAndMorty;
@@ -36,6 +39,8 @@ const ResponseView: React.FC<ResponseViewProps> = ({ data, theme }) => {
         return "bg-background-gray";
       case ThemeOptions.CryptoCraze:
         return "bg-cc-dark";
+      case ThemeOptions.Airports:
+        return "bg-airports-blue";
       default:
         return "bg-background-gray";
     }
