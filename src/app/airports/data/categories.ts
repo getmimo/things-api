@@ -26,12 +26,6 @@ export const categories: Category[] = [
         description: "Information on all available airports on this site",
       },
       {
-        id: "Locations",
-        values: [],
-        description:
-          "All airports as compact id, latitude_deg, and longitude_deg records. This endpoint is not paginated.",
-      },
-      {
         id: "Random Airport",
         values: [],
         description:
