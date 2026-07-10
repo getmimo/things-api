@@ -32,6 +32,12 @@ export const categories: Category[] = [
           "All airports as compact id, latitude_deg, and longitude_deg records. This endpoint is not paginated.",
       },
       {
+        id: "Random Airport",
+        values: [],
+        description:
+          "A randomly selected airport. A fresh selection is made for every request.",
+      },
+      {
         id: "Airport Frequencies",
         values: [{ id: "All" }, { id: "70518" }],
         description: "Communication frequencies for the available airports",

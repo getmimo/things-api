@@ -198,6 +198,36 @@ export async function fetchAirportLocationsPreview(request: Request) {
   ]);
 }
 
+export async function fetchRandomAirport(request: Request) {
+  const index = await loadIndex(request, "airports");
+
+  if (!index || index.count === 0) {
+    return jsonResponse({ error: "Airports data not found." }, { status: 404 });
+  }
+
+  let recordOffset = Math.floor(Math.random() * index.count);
+
+  for (const chunk of index.chunks) {
+    if (recordOffset >= chunk.count) {
+      recordOffset -= chunk.count;
+      continue;
+    }
+
+    const records = await loadChunk(request, "airports", chunk.file);
+    const airport = records[recordOffset];
+
+    if (!airport) {
+      return jsonResponse({ error: "Airport not found." }, { status: 404 });
+    }
+
+    return jsonResponse(airport, {
+      headers: { "Cache-Control": "no-store" },
+    });
+  }
+
+  return jsonResponse({ error: "Airport not found." }, { status: 404 });
+}
+
 export async function fetchAirportsRecord(
   request: Request,
   endpoint: string,
