@@ -10,8 +10,7 @@ export const runtime = "edge";
 
 export const metadata: Metadata = {
   title: "Airports API by Mimo",
-  description:
-    "Documentation for the Airports API using public-domain OurAirports data.",
+  description: "Documentation for the Airports API provided by Mimo.",
 };
 
 function getFetchUrl(host: string, endpoint: string) {

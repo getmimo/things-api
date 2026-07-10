@@ -10,8 +10,7 @@ export const runtime = "edge";
 
 export const metadata: Metadata = {
   title: "Crypto Craze API by Mimo",
-  description:
-    "Documentation for the Crypto Craze API - real coins, fake prices, real API practice.",
+  description: "Documentation for the Crypto Craze API provided by Mimo.",
 };
 
 const API_KEY = "mimo-api-key-34d1-1g3f-27s1";

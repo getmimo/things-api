@@ -14,6 +14,7 @@ interface DocumentationPageProps {
   data: any;
   valuesData?: any[];
   showValuesView?: boolean;
+  responseTruncated?: boolean;
   paginationNote?: React.ReactNode;
   endpointDescription?: React.ReactNode;
   categories: any;
@@ -27,6 +28,7 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
   data,
   valuesData,
   showValuesView,
+  responseTruncated,
   paginationNote,
   endpointDescription,
   categories,
@@ -104,7 +106,13 @@ const DocumentationPage: React.FC<DocumentationPageProps> = ({
                 <h2 className={`mb-2 mt-8 ${getSubheadingClassName(theme)}`}>
                   Response
                 </h2>
-                {data && <ResponseView data={data} theme={theme} />}
+                {data && (
+                  <ResponseView
+                    data={data}
+                    theme={theme}
+                    truncated={responseTruncated}
+                  />
+                )}
                 {showValuesView && (
                   <ValuesView
                     endpoint={endpoint}

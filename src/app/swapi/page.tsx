@@ -8,7 +8,7 @@ import { ThemeOptions } from "../utils/themeOptions";
 
 export const metadata: Metadata = {
   title: "Star Wars API (SWAPI) by Mimo",
-  description: "Documentation for the Star Wars API - provided by Mimo.",
+  description: "Documentation for the Star Wars API provided by Mimo.",
 };
 
 export default async function StarWarsAPI() {

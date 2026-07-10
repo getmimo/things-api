@@ -36,7 +36,8 @@ const Documentation = () => {
                   .
                 </p>
                 <p className="mt-4">
-                  Collection endpoints are paginated. Use{" "}
+                  Collection endpoints, except the locations endpoint, are paginated.
+                  Use{" "}
                   <code className="rounded bg-gray-100 px-1 py-0.5">limit</code>{" "}
                   and{" "}
                   <code className="rounded bg-gray-100 px-1 py-0.5">

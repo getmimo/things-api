@@ -1,7 +1,6 @@
 import { mkdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 
-const SOURCE_PAGE = "https://ourairports.com/data/";
 const SOURCE_BASE = "https://davidmegginson.github.io/ourairports-data";
 const OUTPUT_ROOT = path.join(process.cwd(), "public", "data", "airports");
 const CHUNK_SIZE = 5000;
@@ -178,14 +177,11 @@ async function main() {
 
   const root = {
     name: "Airports API",
-    source: SOURCE_PAGE,
-    sourceRepository: "https://github.com/davidmegginson/ourairports-data",
     downloadedAt: new Date().toISOString(),
     terms: "Public Domain, no guarantee of accuracy or fitness for use.",
     datasets: datasets.map(({ endpoint, file, description }) => ({
       endpoint,
       file,
-      url: `${SOURCE_BASE}/${file}`,
       description,
     })),
   };
@@ -204,7 +200,6 @@ async function main() {
     const chunkDirectory = path.join(outputDirectory, "chunks");
     const index = {
       endpoint: dataset.endpoint,
-      source: url,
       count: records.length,
       chunkSize: CHUNK_SIZE,
       chunks: [],

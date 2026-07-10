@@ -7,7 +7,7 @@ import { ThemeOptions } from "../utils/themeOptions";
 
 export const metadata: Metadata = {
   title: "Things API by Mimo",
-  description: "Documentation for the Things API - provided by Mimo.",
+  description: "Documentation for the Things API provided by Mimo.",
 };
 
 export default async function ThingsAPI() {

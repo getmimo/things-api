@@ -9,7 +9,7 @@ import { ThemeOptions } from "../utils/themeOptions";
 
 export const metadata: Metadata = {
   title: "Rick and Morty API by Mimo",
-  description: "Documentation for the Rick and Morty API - provided by Mimo.",
+  description: "Documentation for the Rick and Morty API provided by Mimo.",
 };
 
 export default async function RickAndMortyAPI() {

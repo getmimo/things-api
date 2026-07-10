@@ -9,11 +9,16 @@ import { draculaAlteredForAirports } from "../editorThemeAirports";
 import { ThemeOptions } from "../utils/themeOptions";
 
 interface ResponseViewProps {
-  data: string;
+  data: unknown;
   theme: ThemeOptions;
+  truncated?: boolean;
 }
 
-const ResponseView: React.FC<ResponseViewProps> = ({ data, theme }) => {
+const ResponseView: React.FC<ResponseViewProps> = ({
+  data,
+  theme,
+  truncated = false,
+}) => {
   const selectedTheme: any =
     theme === ThemeOptions.StarWars
       ? draculaAlteredForStarWars
@@ -27,6 +32,11 @@ const ResponseView: React.FC<ResponseViewProps> = ({ data, theme }) => {
       ? draculaAlteredForCryptoCraze
       : draculaAlteredForRickAndMorty;
   Code.theme = selectedTheme;
+  const formattedData = JSON.stringify(data, null, 2);
+  const displayedData =
+    truncated && Array.isArray(data)
+      ? formattedData.replace(/\n\]$/, ",\n  ...\n]")
+      : formattedData;
 
   const getBgColor = () => {
     switch (theme) {
@@ -57,7 +67,7 @@ const ResponseView: React.FC<ResponseViewProps> = ({ data, theme }) => {
         className={`${getBgColor()} rounded-md max-h-96 -mt-2 overflow-scroll`}
       >
         <Code lang="json" lineNumbers>
-          <pre>{JSON.stringify(data, null, 2)}</pre>
+          <pre>{displayedData}</pre>
         </Code>
       </div>
     </>

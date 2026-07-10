@@ -16,6 +16,11 @@ type DatasetIndex = {
   chunks: DatasetChunk[];
   lookup: Record<string, Record<string, string>>;
 };
+type AirportLocationRecord = {
+  id: unknown;
+  latitude_deg: unknown;
+  longitude_deg: unknown;
+};
 
 const DEFAULT_LIMIT = 100;
 const MAX_LIMIT = 1000;
@@ -149,6 +154,48 @@ export async function fetchAirportsCollection(
     limit,
     results: result,
   });
+}
+
+export async function fetchAirportLocations(request: Request) {
+  const index = await loadIndex(request, "airports");
+
+  if (!index) {
+    return jsonResponse({ error: "Dataset not found." }, { status: 404 });
+  }
+
+  const airports: AirportLocationRecord[] = [];
+
+  for (const chunk of index.chunks) {
+    const records = await loadChunk(request, "airports", chunk.file);
+
+    for (const record of records) {
+      airports.push({
+        id: record.id,
+        latitude_deg: record.latitude_deg,
+        longitude_deg: record.longitude_deg,
+      });
+    }
+  }
+
+  return jsonResponse(airports);
+}
+
+export async function fetchAirportLocationsPreview(request: Request) {
+  const index = await loadIndex(request, "airports");
+
+  if (!index || index.chunks.length === 0) {
+    return jsonResponse({ error: "Dataset not found." }, { status: 404 });
+  }
+
+  const records = await loadChunk(request, "airports", index.chunks[0].file);
+
+  return jsonResponse([
+    ...records.slice(0, 25).map((record) => ({
+      id: record.id,
+      latitude_deg: record.latitude_deg,
+      longitude_deg: record.longitude_deg,
+    })),
+  ]);
 }
 
 export async function fetchAirportsRecord(

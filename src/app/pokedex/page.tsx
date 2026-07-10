@@ -8,7 +8,7 @@ import { ThemeOptions } from "../utils/themeOptions";
 
 export const metadata: Metadata = {
   title: "Pokedex API by Mimo",
-  description: "Documentation for the Pokedex API - provided by Mimo.",
+  description: "Documentation for the Pokedex API provided by Mimo.",
 };
 
 export default async function PokemonAPI() {
